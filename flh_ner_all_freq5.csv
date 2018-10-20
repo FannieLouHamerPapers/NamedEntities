@@ -1,0 +1,3717 @@
+Source,Target,Type,Id
+GDSC001790044200.txt,Joseph Harris Office,organization,16
+GDSC001790044200.txt,Mississippi,location,18
+GDSC001790044200.txt,California,location,6
+GDSC001790044200.txt,Joseph Harris,person,7
+GDSC001790062100.txt,New York City,location,9
+GDSC001790062100.txt,Bethlehem Center,location,8
+GDSC001790019400.txt,United States of America,location,9
+GDSC001790019400.txt,South Carolina,location,8
+GDSC001790039100.txt,Kentucky Fried Chicken,organization,11
+GDSC001790039100.txt,MCHR,organization,6
+GDSC001790039100.txt,Mississippi,location,32
+GDSC001790039100.txt,Jackson,person,14
+GDSC001790039100.txt,Michael Raff,person,8
+GDSC001790039100.txt,Fannie Lou Hamer,person,25
+GDSC001790039100.txt,Michael,person,6
+GDSC001790039100.txt,Kay Mills,person,20
+GDSC001790023200.txt,Mississippians United to Elect Negro Candidates,organization,6
+GDSC001790023200.txt,Mississippians United,organization,6
+GDSC001790023200.txt,Greenville,location,13
+GDSC001790023200.txt,Mississippi,location,18
+GDSC001790023200.txt,Nelson Street,location,6
+GDSC001790023200.txt,Joseph Harris,person,10
+GDSC001790059700.txt,CAA,organization,110
+GDSC001790059700.txt,Regional Office,organization,8
+GDSC001790059700.txt,OEO Regional Office,organization,6
+GDSC001790059700.txt,Incorporated,organization,26
+GDSC001790059700.txt,Sunflower County Progress,organization,12
+GDSC001790059700.txt,Board of Directors of Sunflower County Progress,organization,6
+GDSC001790059700.txt,OEO,organization,45
+GDSC001790059700.txt,Mississippi,location,50
+GDSC001790059700.txt,Sunflower County,location,18
+GDSC001790059700.txt,Misourri,location,12
+GDSC001790059700.txt,Indianola,location,30
+GDSC001790059700.txt,Walter Gregory,person,8
+GDSC001790059700.txt,Walter Robe,person,7
+GDSC001790059700.txt,Julian Allen,person,9
+GDSC001790059700.txt,Roscoe Hooper,person,11
+GDSC001790059700.txt,R. J. Allen,person,6
+GDSC001790059700.txt,Colbert Crowe,person,10
+GDSC001790012500.txt,J.P.,organization,11
+GDSC001790012500.txt,State,organization,6
+GDSC001790012500.txt,Mississippi,location,8
+GDSC001790039200.txt,Delta Ministry,organization,7
+GDSC001790039200.txt,Incorporated,organization,6
+GDSC001790039200.txt,Pentagon,organization,7
+GDSC001790039200.txt,Congress,organization,6
+GDSC001790039200.txt,SRM,organization,18
+GDSC001790039200.txt,Mississippi,location,14
+GDSC001790039200.txt,New York City,location,16
+GDSC001790039200.txt,Soviet Union,location,8
+GDSC001790039200.txt,United States of America,location,31
+GDSC001790039200.txt,Washington,location,7
+GDSC001790039200.txt,Fannie Lou Hamer,person,8
+GDSC001790034700.txt,Voter Education Project,organization,19
+GDSC001790034700.txt,VEP,organization,16
+GDSC001790034700.txt,United States of America,location,10
+GDSC001790034700.txt,South Carolina,location,6
+GDSC001790034700.txt,Georgia,location,11
+GDSC001790034700.txt,South,location,25
+GDSC001790034700.txt,VEP,person,15
+GDSC001790043500.txt,Democratic Party P.,organization,9
+GDSC001790043500.txt,Joseph Harris Office,organization,6
+GDSC001790043500.txt,Mississippi,location,40
+GDSC001790043500.txt,Joseph Harris,person,7
+GDSC001790047500.txt,Negro,organization,7
+GDSC001790047500.txt,Mississippi Freedom Democratic Party,organization,9
+GDSC001790047500.txt,Congress,organization,11
+GDSC001790047500.txt,Delta,organization,9
+GDSC001790047500.txt,Justice Department,organization,6
+GDSC001790047500.txt,Mississippi,location,87
+GDSC001790047500.txt,Atlanta,location,6
+GDSC001790047500.txt,Washington,location,7
+GDSC001790047500.txt,New York City,location,18
+GDSC001790047500.txt,United States of America,location,15
+GDSC001790047500.txt,Sunflower County,location,30
+GDSC001790047500.txt,Sunflower City,location,8
+GDSC001790047500.txt,South,location,6
+GDSC001790047500.txt,Moorhead,location,6
+GDSC001790047500.txt,Brown,person,15
+GDSC001790047500.txt,Jackson,person,11
+GDSC001790047500.txt,Fannie Lou Hamer,person,76
+GDSC001790047500.txt,Wellford,person,7
+GDSC001790047500.txt,Eastland,person,12
+GDSC001790047500.txt,Kennedy,person,7
+GDSC001790047500.txt,Moorhead,person,10
+GDSC001790056500.txt,Mississippi,location,24
+GDSC001790044700.txt,Free Democratic Party,organization,25
+GDSC001790044700.txt,Party,organization,8
+GDSC001790044700.txt,Alderman,organization,8
+GDSC001790044700.txt,Delta Ministry,organization,6
+GDSC001790044700.txt,Mississippi Freedom Democratic Party,organization,9
+GDSC001790044700.txt,Mississippi,location,16
+GDSC001790044700.txt,Joseph Harris,person,8
+GDSC001790044700.txt,Harris,person,11
+GDSC001790044700.txt,Devine,person,12
+GDSC001790044700.txt,Joe,person,16
+GDSC001790044700.txt,Fannie Lou Hamer,person,7
+GDSC001790044700.txt,Alderman,person,8
+GDSC001790044700.txt,Joe Harris,person,6
+GDSC001790044700.txt,Lawrence Guyot,person,6
+GDSC001790044700.txt,Charlie Horwitz,person,6
+GDSC001790039700.txt,N.B.P.A.,organization,9
+GDSC001790039700.txt,State Coordinator,organization,7
+GDSC001790039700.txt,State,organization,10
+GDSC001790039700.txt,Mississippi,location,17
+GDSC001790039700.txt,New York City,location,6
+GDSC001790039700.txt,Southern Africa,location,11
+GDSC001790039700.txt,Ruleville,location,9
+GDSC001790039700.txt,Fannie Lou Hamer,person,14
+GDSC001790055100.txt,Delta Ministry,organization,14
+GDSC001790059800.txt,Board,organization,16
+GDSC001790059800.txt,OEO,organization,17
+GDSC001790059800.txt,ACSC,organization,14
+GDSC001790059800.txt,NYC Program,organization,6
+GDSC001790059800.txt,Incorporated,organization,31
+GDSC001790059800.txt,Sunflower County Progress,organization,25
+GDSC001790059800.txt,Mississippi,location,7
+GDSC001790059800.txt,Sunflower County,location,8
+GDSC001790059800.txt,Washington,location,9
+GDSC001790059800.txt,Rome,location,8
+GDSC001790059800.txt,Indianola,location,15
+GDSC001790059800.txt,Atlanta,location,13
+GDSC001790059800.txt,Joe Baird,person,7
+GDSC001790059800.txt,Jack Harper,person,7
+GDSC001790059800.txt,Farmer Hamilton,person,6
+GDSC001790059800.txt,Allen,person,11
+GDSC001790059800.txt,Oscar Giles,person,6
+GDSC001790059800.txt,Theodore Keenan,person,11
+GDSC001790059800.txt,Jimmie Langdon,person,6
+GDSC001790059800.txt,Louie Walker,person,20
+GDSC001790059800.txt,Walter Robe,person,6
+GDSC001790059800.txt,David Matthews,person,11
+GDSC001790059800.txt,Ben Himelstein,person,9
+GDSC001790059800.txt,B. B. Bailey,person,6
+GDSC001790059800.txt,Crowe,person,15
+GDSC001790059800.txt,Myles Foster,person,6
+GDSC001790059800.txt,Colbert Crowe,person,17
+GDSC001790059800.txt,Jr.,person,7
+GDSC001790013000.txt,Mississippi,location,23
+GDSC001790022500.txt,Mississippi,location,15
+GDSC001790022500.txt,Indianola,location,7
+GDSC001790022500.txt,Joseph Harris,person,10
+GDSC001790018800.txt,General Assembly,organization,29
+GDSC001790018800.txt,Senate,organization,6
+GDSC001790018800.txt,South Carolina,location,19
+GDSC001790004000.txt,New York City,location,15
+GDSC001790059100.txt,Delta Ministry,organization,7
+GDSC001790059100.txt,Mississippi,location,10
+GDSC001790059100.txt,Greenville,location,9
+GDSC001790059100.txt,Freedom City,location,14
+GDSC001790050700.txt,Mississippi Freedom Democratic Party,organization,6
+GDSC001790050700.txt,Selma,location,7
+GDSC001790050700.txt,New York City,location,10
+GDSC001790050700.txt,Alabama,location,14
+GDSC001790019500.txt,United Nations,organization,7
+GDSC001790019500.txt,United States of America,location,18
+GDSC001790019500.txt,Mali,location,6
+GDSC001790040800.txt,NACLA,organization,13
+GDSC001790040800.txt,ASH,organization,8
+GDSC001790040800.txt,Amnesty International,organization,10
+GDSC001790040800.txt,Mississippi,location,14
+GDSC001790040800.txt,Latin America,location,10
+GDSC001790040800.txt,Washington,location,14
+GDSC001790040800.txt,New York City,location,11
+GDSC001790040800.txt,United States of America,location,26
+GDSC001790040800.txt,California,location,10
+GDSC001790040800.txt,Cleveland,location,8
+GDSC001790040800.txt,Washington D.C.,location,6
+GDSC001790040800.txt,Christ,person,7
+GDSC001790021800.txt,Doc,organization,39
+GDSC001790021800.txt,DOC DOB,person,6
+GDSC001790058400.txt,Jackson Office,organization,6
+GDSC001790058400.txt,Incorporated,organization,6
+GDSC001790058400.txt,Mississippi,location,7
+GDSC001790058400.txt,Lee County,location,10
+GDSC001790058400.txt,Georgia,location,11
+GDSC001790058400.txt,Jackson,person,8
+GDSC001790049700.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,46
+GDSC001790049700.txt,Fannie Lou Hamer,person,74
+GDSC001790049700.txt,Perry Hamer,person,14
+GDSC001790049700.txt,John Ingram,person,14
+GDSC001790054400.txt,Development Corporation,organization,18
+GDSC001790054400.txt,Mississippi,location,20
+GDSC001790063000.txt,United States of America,location,6
+GDSC001790063000.txt,New York City,location,17
+GDSC001790063000.txt,Broadway,location,8
+GDSC001790045300.txt,Mississippi Freedom Democratic Party,organization,15
+GDSC001790045300.txt,Party,organization,7
+GDSC001790045300.txt,Mississippi,location,21
+GDSC001790022000.txt,Mississippi,location,13
+GDSC001790022000.txt,Owen Brooks,person,14
+GDSC001790023800.txt,Mississippi,location,22
+GDSC001790012800.txt,Party,organization,6
+GDSC001790012800.txt,Circuit Clerk,organization,6
+GDSC001790012800.txt,General Election,organization,6
+GDSC001790012800.txt,Mississippi,location,25
+GDSC001790012800.txt,Jackson,location,11
+GDSC001790062600.txt,Community Affairs Association,organization,8
+GDSC001790050200.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,38
+GDSC001790052500.txt,Delta Ministry,organization,6
+GDSC001790052500.txt,Custom Ford,organization,9
+GDSC001790052500.txt,Ecumenical Institute,organization,8
+GDSC001790052500.txt,VISTA,organization,16
+GDSC001790052500.txt,Mississippi,location,31
+GDSC001790052500.txt,Chicago,location,7
+GDSC001790052500.txt,Mount Beulah,location,11
+GDSC001790052500.txt,New York City,location,18
+GDSC001790052500.txt,United States of America,location,12
+GDSC001790052500.txt,Greenville,location,8
+GDSC001790052500.txt,R. H. Edwin Espy,person,8
+GDSC001790010000.txt,Democratic Party,organization,23
+GDSC001790010000.txt,Bob Smith,person,19
+GDSC001790010000.txt,Moore,person,11
+GDSC001790010000.txt,Andrew P.,person,7
+GDSC001790020300.txt,Delta Opportunities Corporation,organization,9
+GDSC001790020300.txt,Doc,organization,10
+GDSC001790016600.txt,NDPA,organization,26
+GDSC001790016600.txt,State,organization,6
+GDSC001790016600.txt,District Court,organization,8
+GDSC001790016600.txt,National Democratic Party of Alabama,organization,9
+GDSC001790016600.txt,Huntsville,location,16
+GDSC001790016600.txt,United States of America,location,15
+GDSC001790016600.txt,Greene County,location,12
+GDSC001790016600.txt,Alabama,location,57
+GDSC001790016600.txt,Herndon,person,16
+GDSC001790013200.txt,ASCS,organization,45
+GDSC001790013200.txt,Incorporated,organization,10
+GDSC001790013200.txt,New Communities,organization,6
+GDSC001790013200.txt,Department of Agriculture,organization,7
+GDSC001790013200.txt,ASC,organization,25
+GDSC001790013200.txt,NSF,organization,6
+GDSC001790013200.txt,Institute,organization,7
+GDSC001790013200.txt,Mississippi,location,35
+GDSC001790013200.txt,Louisiana,location,8
+GDSC001790013200.txt,Texas,location,9
+GDSC001790013200.txt,Indianola,location,6
+GDSC001790013200.txt,New York City,location,9
+GDSC001790013200.txt,United States of America,location,19
+GDSC001790013200.txt,California,location,11
+GDSC001790013200.txt,Georgia,location,10
+GDSC001790013200.txt,Alabama,location,11
+GDSC001790013200.txt,South,location,13
+GDSC001790013200.txt,Mexico,location,6
+GDSC001790013200.txt,Ruleville,location,7
+GDSC001790013200.txt,Fannie Lou Hamer,person,24
+GDSC001790023700.txt,Mississippians United,organization,13
+GDSC001790023700.txt,Mississippi,location,12
+GDSC001790023700.txt,Chicago,location,6
+GDSC001790023700.txt,Greenville,location,8
+GDSC001790023700.txt,Washington County,location,7
+GDSC001790023700.txt,Harris,person,6
+GDSC001790057900.txt,SRA,organization,33
+GDSC001790057900.txt,Mississippi,location,18
+GDSC001790057900.txt,Mound Bayou,location,8
+GDSC001790057900.txt,Sumter County,location,6
+GDSC001790057900.txt,Atlanta,location,7
+GDSC001790057900.txt,Georgia,location,12
+GDSC001790057900.txt,Alabama,location,9
+GDSC001790057900.txt,Gunby,person,7
+GDSC001790056100.txt,SCLC,organization,50
+GDSC001790056100.txt,Poor People,organization,17
+GDSC001790056100.txt,s Campaign,organization,11
+GDSC001790056100.txt,Mississippi,location,25
+GDSC001790056100.txt,United States of America,location,10
+GDSC001790056100.txt,Grenada,location,6
+GDSC001790056100.txt,Washington D.C.,location,12
+GDSC001790056100.txt,Washington,location,38
+GDSC001790056100.txt,King,person,9
+GDSC001790056100.txt,Abernathy,person,6
+GDSC001790015800.txt,Mississippi,location,13
+GDSC001790015800.txt,Shelby,person,8
+GDSC001790041700.txt,Medicare,organization,6
+GDSC001790038900.txt,Congress,organization,14
+GDSC001790038900.txt,Democratic Party of the State,organization,8
+GDSC001790038900.txt,Mississippi,location,18
+GDSC001790038900.txt,Maryland,location,10
+GDSC001790038900.txt,Washington,location,8
+GDSC001790038900.txt,Greenbelt,location,9
+GDSC001790038900.txt,North Carolina,location,8
+GDSC001790025000.txt,Mississippi,location,7
+GDSC001790033900.txt,Sunflower County Voter Education Project 626 E. Lafayette Street Ruleville,organization,9
+GDSC001790033900.txt,Thaddeus Olive Administrative Assistant Voter Education Project,organization,12
+GDSC001790033900.txt,Council,organization,10
+GDSC001790033900.txt,Sunflower County Voter Education Project,organization,6
+GDSC001790033900.txt,Mississippi,location,39
+GDSC001790033900.txt,New York City,location,6
+GDSC001790033900.txt,Ruleville,location,21
+GDSC001790033900.txt,Howard Melish,person,6
+GDSC001790033900.txt,Harris,person,7
+GDSC001790033900.txt,Fannie Lou Hamer,person,14
+GDSC001790033900.txt,Sandra Nystrom,person,6
+GDSC001790033900.txt,Joseph Harris,person,8
+GDSC001790033900.txt,Perry Hamer,person,14
+GDSC001790039300.txt,Institute,organization,6
+GDSC001790039300.txt,Mississippi,location,20
+GDSC001790039300.txt,Beckwith Street,location,6
+GDSC001790039300.txt,Georgia,location,6
+GDSC001790039300.txt,Fannie Lou Hamer,person,11
+GDSC001790039300.txt,Martin Luther King,person,15
+GDSC001790057000.txt,Delta Opportunities Corporation,organization,24
+GDSC001790057000.txt,Advisory Board,organization,95
+GDSC001790057000.txt,Delta,organization,7
+GDSC001790057000.txt,Mississippi,location,10
+GDSC001790018700.txt,State,organization,8
+GDSC001790018700.txt,Tallahatchie Cooperative League,organization,6
+GDSC001790018700.txt,Mississippi,location,24
+GDSC001790018700.txt,Heber Ladner,person,8
+GDSC001790019100.txt,Mississippi,location,23
+GDSC001790019100.txt,Mound Bayou,location,70
+GDSC001790042300.txt,Mississippi,location,7
+GDSC001790060900.txt,SCLC,organization,10
+GDSC001790060900.txt,LCCR,organization,9
+GDSC001790060900.txt,Delta Ministry,organization,10
+GDSC001790060900.txt,s Campaign,organization,7
+GDSC001790060900.txt,SCEF,organization,27
+GDSC001790060900.txt,Southern Conference Educational Fund,organization,7
+GDSC001790060900.txt,Mississippi Freedom Democratic Party,organization,7
+GDSC001790060900.txt,LA SNCC,organization,6
+GDSC001790060900.txt,SNCC,organization,28
+GDSC001790060900.txt,Steering Committee Against Repression,organization,7
+GDSC001790060900.txt,SSOC,organization,6
+GDSC001790060900.txt,NMC,organization,8
+GDSC001790060900.txt,SDS,organization,7
+GDSC001790060900.txt,Mississippi,location,16
+GDSC001790060900.txt,Louisiana,location,7
+GDSC001790060900.txt,Texas,location,10
+GDSC001790060900.txt,Atlanta,location,7
+GDSC001790060900.txt,Knoxville,location,16
+GDSC001790060900.txt,New York City,location,13
+GDSC001790060900.txt,United States of America,location,14
+GDSC001790060900.txt,Vietnam,location,6
+GDSC001790060900.txt,West Broadway Louisville,location,7
+GDSC001790060900.txt,Memphis,location,10
+GDSC001790060900.txt,New Orleans,location,7
+GDSC001790060900.txt,Nashville,location,7
+GDSC001790060900.txt,Drive,location,6
+GDSC001790060900.txt,Kentucky,location,15
+GDSC001790060900.txt,South,location,27
+GDSC001790060900.txt,Houston,location,11
+GDSC001790060900.txt,Chrm.,location,6
+GDSC001790060900.txt,Brown,person,23
+GDSC001790060900.txt,Barbara Flynn,person,10
+GDSC001790060900.txt,Martin Luther King,person,7
+GDSC001790060900.txt,Stanley Wise,person,6
+GDSC001790060900.txt,Bill,person,10
+GDSC001790060900.txt,Carl,person,6
+GDSC001790060900.txt,King,person,7
+GDSC001790060900.txt,Barbara,person,8
+GDSC001790035600.txt,NAACP,organization,8
+GDSC001790056400.txt,Mississippi,location,6
+GDSC001790011300.txt,Democratic Party,organization,27
+GDSC001790011300.txt,Mississippi,location,13
+GDSC001790016400.txt,National Conference for New Politics,organization,6
+GDSC001790016400.txt,Communist Party,organization,6
+GDSC001790016400.txt,CIPA,organization,10
+GDSC001790016400.txt,Democratic Administration,organization,7
+GDSC001790016400.txt,Congress,organization,6
+GDSC001790016400.txt,NCNP,organization,39
+GDSC001790016400.txt,Democratic Party,organization,7
+GDSC001790016400.txt,Mississippi,location,9
+GDSC001790016400.txt,New York City,location,19
+GDSC001790016400.txt,United States of America,location,60
+GDSC001790016400.txt,China,location,9
+GDSC001790016400.txt,Vietnam,location,28
+GDSC001790016400.txt,California,location,11
+GDSC001790016400.txt,Chicago,location,29
+GDSC001790016400.txt,Kentucky,location,7
+GDSC001790016400.txt,Soviet Union,location,7
+GDSC001790016400.txt,Daley,person,6
+GDSC001790016400.txt,William F. Pepper,person,9
+GDSC001790016400.txt,Julian Bond,person,9
+GDSC001790018900.txt,GE,organization,6
+GDSC001790018900.txt,IUE,organization,7
+GDSC001790018900.txt,AFL,organization,24
+GDSC001790018900.txt,Congress,organization,28
+GDSC001790018900.txt,House,organization,22
+GDSC001790018900.txt,CIO,organization,44
+GDSC001790018900.txt,Westinghouse,organization,7
+GDSC001790018900.txt,UAW,organization,11
+GDSC001790018900.txt,House of Representatives,organization,7
+GDSC001790018900.txt,Mississippi,location,84
+GDSC001790018900.txt,Paris,location,11
+GDSC001790018900.txt,United States of America,location,71
+GDSC001790018900.txt,South Vietnam,location,8
+GDSC001790018900.txt,Massachusetts,location,7
+GDSC001790018900.txt,Washington,location,17
+GDSC001790018900.txt,New York City,location,26
+GDSC001790018900.txt,Vietnam,location,54
+GDSC001790018900.txt,Boston,location,8
+GDSC001790018900.txt,Chicago,location,9
+GDSC001790018900.txt,Philadelphia,location,8
+GDSC001790018900.txt,South,location,13
+GDSC001790018900.txt,Jim,person,11
+GDSC001790018900.txt,Ho Chi Minh,person,13
+GDSC001790018900.txt,Albert J. Fitzgerald,person,11
+GDSC001790018900.txt,Lincoln,person,13
+GDSC001790018900.txt,James J. Matles,person,12
+GDSC001790018900.txt,Lewis,person,9
+GDSC001790018900.txt,ROBERT C. KIRKWOOD,person,6
+GDSC001790018900.txt,Jackson,person,6
+GDSC001790018900.txt,Johnson,person,21
+GDSC001790018900.txt,Peary,person,6
+GDSC001790018900.txt,Eisenhower,person,7
+GDSC001790018900.txt,Andrews,person,7
+GDSC001790016200.txt,NBAWADU,organization,16
+GDSC001790016200.txt,Black Movement,organization,7
+GDSC001790016200.txt,War,organization,7
+GDSC001790016200.txt,Peace Movement,organization,7
+GDSC001790016200.txt,SNCC,organization,10
+GDSC001790016200.txt,Draft Union,organization,13
+GDSC001790016200.txt,National Black,organization,6
+GDSC001790016200.txt,New York City,location,25
+GDSC001790016200.txt,New York City City,location,8
+GDSC001790016200.txt,Vietnam,location,13
+GDSC001790016200.txt,John Wilson,person,12
+GDSC001790016200.txt,Gwen Patton,person,12
+GDSC001790016200.txt,Jim Harvey,person,8
+GDSC001790013400.txt,Incorporated,organization,6
+GDSC001790013400.txt,Agricultural Stabilization and Conservation Service,organization,7
+GDSC001790013400.txt,Freedom Farm Corporation,organization,19
+GDSC001790013400.txt,Mississippi,location,38
+GDSC001790013400.txt,Washington,location,8
+GDSC001790013400.txt,Indianola,location,6
+GDSC001790013400.txt,James Street Ruleville,person,9
+GDSC001790013400.txt,Fannie Lou Hamer,person,21
+GDSC001790034600.txt,Incorporated,organization,15
+GDSC001790034600.txt,Voter Education Project,organization,9
+GDSC001790034600.txt,VEP,organization,24
+GDSC001790034600.txt,Mississippi,location,35
+GDSC001790034600.txt,Louisiana,location,19
+GDSC001790034600.txt,Atlanta,location,14
+GDSC001790034600.txt,United States of America,location,8
+GDSC001790034600.txt,North Carolina,location,7
+GDSC001790034600.txt,Georgia,location,26
+GDSC001790034600.txt,Virginia,location,14
+GDSC001790034600.txt,Alabama,location,6
+GDSC001790034600.txt,South,location,19
+GDSC001790034600.txt,Tennessee,location,12
+GDSC001790034600.txt,Martin Luther King,person,6
+GDSC001790034600.txt,John Lewis,person,12
+GDSC001790034600.txt,VEP,person,19
+GDSC001790035400.txt,NAACP,organization,29
+GDSC001790035400.txt,Association,organization,7
+GDSC001790035400.txt,National Office,organization,18
+GDSC001790035400.txt,Mississippi,location,8
+GDSC001790035400.txt,New York City,location,29
+GDSC001790016300.txt,Army,organization,7
+GDSC001790016300.txt,Black Power,organization,12
+GDSC001790016300.txt,NLF,organization,10
+GDSC001790016300.txt,Working Committee,organization,7
+GDSC001790016300.txt,Draft Union,organization,12
+GDSC001790016300.txt,NBAWADU,organization,6
+GDSC001790016300.txt,War,organization,8
+GDSC001790016300.txt,National Black,organization,10
+GDSC001790016300.txt,Student Mobilization Committee,organization,19
+GDSC001790016300.txt,United Nations,organization,7
+GDSC001790016300.txt,W.E.B. DuBois Clubs of America,organization,11
+GDSC001790016300.txt,SNCC,organization,51
+GDSC001790016300.txt,NAACP,organization,6
+GDSC001790016300.txt,Democratic Party,organization,8
+GDSC001790016300.txt,Mississippi,location,13
+GDSC001790016300.txt,New York City City,location,7
+GDSC001790016300.txt,Asia,location,7
+GDSC001790016300.txt,Latin America,location,15
+GDSC001790016300.txt,Newark,location,9
+GDSC001790016300.txt,Washington,location,16
+GDSC001790016300.txt,New York City,location,50
+GDSC001790016300.txt,United States of America,location,110
+GDSC001790016300.txt,Vietnam,location,80
+GDSC001790016300.txt,Saigon,location,6
+GDSC001790016300.txt,California,location,6
+GDSC001790016300.txt,Detroit,location,10
+GDSC001790016300.txt,Africa,location,12
+GDSC001790016300.txt,Chicago,location,11
+GDSC001790016300.txt,Virginia,location,6
+GDSC001790016300.txt,South,location,16
+GDSC001790016300.txt,Washington D.C.,location,7
+GDSC001790016300.txt,Brown,person,19
+GDSC001790016300.txt,Malcolm X,person,7
+GDSC001790016300.txt,Johnson,person,6
+GDSC001790016300.txt,H. Rap Brown,person,13
+GDSC001790016300.txt,Stokely Carmichael,person,6
+GDSC001790062200.txt,Cooperative Training Facility,organization,6
+GDSC001790053400.txt,United States of America,organization,7
+GDSC001790053400.txt,Commission,organization,9
+GDSC001790053400.txt,Department of Financial Management,organization,10
+GDSC001790053400.txt,Delta Ministry,organization,16
+GDSC001790053400.txt,Mississippi,location,13
+GDSC001790053400.txt,New York City,location,9
+GDSC001790053400.txt,Greenville,location,11
+GDSC001790053400.txt,Mount Beulah,location,8
+GDSC001790053400.txt,Owen Brooks,person,15
+GDSC001790043300.txt,Mississippi,location,33
+GDSC001790043300.txt,New York City,location,10
+GDSC001790043300.txt,Thia,person,7
+GDSC001790043300.txt,Joseph Harris,person,7
+GDSC001790015900.txt,National Mobilization Committee,organization,15
+GDSC001790015900.txt,United States of America,organization,6
+GDSC001790015900.txt,Army,organization,46
+GDSC001790015900.txt,NLF,organization,32
+GDSC001790015900.txt,New York City Times,organization,9
+GDSC001790015900.txt,Student Mobilization Committee,organization,14
+GDSC001790015900.txt,Gls United,organization,11
+GDSC001790015900.txt,Paris,location,16
+GDSC001790015900.txt,Illinois,location,9
+GDSC001790015900.txt,Texas,location,9
+GDSC001790015900.txt,South Vietnam,location,7
+GDSC001790015900.txt,Columbia,location,11
+GDSC001790015900.txt,Atlanta,location,19
+GDSC001790015900.txt,New York City City,location,11
+GDSC001790015900.txt,San Fransisco,location,7
+GDSC001790015900.txt,Broadway,location,17
+GDSC001790015900.txt,Seattle,location,21
+GDSC001790015900.txt,Washington,location,40
+GDSC001790015900.txt,San Francisco,location,14
+GDSC001790015900.txt,New York City,location,92
+GDSC001790015900.txt,United States of America,location,86
+GDSC001790015900.txt,Los Angeles,location,16
+GDSC001790015900.txt,Vietnam,location,127
+GDSC001790015900.txt,California,location,12
+GDSC001790015900.txt,Georgia,location,7
+GDSC001790015900.txt,Detroit,location,6
+GDSC001790015900.txt,Austin,location,14
+GDSC001790015900.txt,Fort Jackson,location,7
+GDSC001790015900.txt,Cleveland,location,15
+GDSC001790015900.txt,Saigon,location,19
+GDSC001790015900.txt,Chicago,location,104
+GDSC001790015900.txt,Philadelphia,location,7
+GDSC001790015900.txt,South Carolina,location,17
+GDSC001790015900.txt,Wilmington,location,8
+GDSC001790015900.txt,South,location,10
+GDSC001790015900.txt,Washington D.C.,location,11
+GDSC001790015900.txt,Beekman Street,location,8
+GDSC001790015900.txt,Presidio,location,6
+GDSC001790015900.txt,Des Moines,location,7
+GDSC001790015900.txt,Jackson,person,22
+GDSC001790015900.txt,Rennie Davis,person,9
+GDSC001790015900.txt,Nixon,person,16
+GDSC001790015900.txt,Howard Petrick,person,8
+GDSC001790015900.txt,Miller,person,6
+GDSC001790043200.txt,Mississippi Freedom Democratic Party P.,organization,12
+GDSC001790043200.txt,Mississippi,location,28
+GDSC001790043200.txt,New York City,location,18
+GDSC001790034200.txt,Mississippi,location,9
+GDSC001790059200.txt,Mississippi,location,7
+GDSC001790059200.txt,Freedom City,location,12
+GDSC001790059200.txt,Sally,person,7
+GDSC001790059200.txt,Ruben Lawrence,person,6
+GDSC001790013900.txt,Freedom Farms,organization,6
+GDSC001790013900.txt,Freedom Farm Corporation,organization,48
+GDSC001790013900.txt,Mississippi,location,16
+GDSC001790013900.txt,New York City,location,6
+GDSC001790013900.txt,Wisconsin,location,6
+GDSC001790013900.txt,Washington,location,9
+GDSC001790013900.txt,Fannie Lou Hamer,person,17
+GDSC001790010700.txt,Moorhead,location,11
+GDSC001790010700.txt,Davis,person,6
+GDSC001790049500.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,83
+GDSC001790049500.txt,California,location,6
+GDSC001790049500.txt,John Ingram,person,30
+GDSC001790049500.txt,Fannie Lou Hamer,person,102
+GDSC001790049500.txt,Perry Hamer,person,29
+GDSC001790016900.txt,New Communities,organization,17
+GDSC001790016900.txt,Incorporated,organization,20
+GDSC001790016900.txt,CWashington D.C.,organization,8
+GDSC001790016900.txt,McClaughry Associates,organization,19
+GDSC001790016900.txt,Featherfield Farm,organization,6
+GDSC001790016900.txt,OEO,organization,15
+GDSC001790061500.txt,Texas,location,11
+GDSC001790061500.txt,New York City,location,8
+GDSC001790061500.txt,United States of America,location,13
+GDSC001790061500.txt,Vietnam,location,12
+GDSC001790061500.txt,Herbert Aptheker,person,7
+GDSC001790047100.txt,Mississippi Library Association,organization,6
+GDSC001790047100.txt,Baptist Professional Affiliation,organization,6
+GDSC001790047100.txt,Mississippi Valley State College,organization,8
+GDSC001790047100.txt,Mississippi,location,36
+GDSC001790047100.txt,United States of America,location,8
+GDSC001790047100.txt,Tennessee,location,8
+GDSC001790047100.txt,California,location,6
+GDSC001790047100.txt,Atlanta,location,56
+GDSC001790047100.txt,Georgia,location,59
+GDSC001790047100.txt,Alabama,location,10
+GDSC001790047100.txt,Washington D.C.,location,13
+GDSC001790047100.txt,Washington,location,14
+GDSC001790047100.txt,Ruleville,location,6
+GDSC001790047100.txt,Fannie Lou Hamer,person,24
+GDSC001790047100.txt,Martin Luther King,person,26
+GDSC001790047100.txt,John Lewis,person,9
+GDSC001790052600.txt,Delta Ministry,organization,15
+GDSC001790052600.txt,Mississippi,location,24
+GDSC001790052600.txt,Greenville,location,13
+GDSC001790052600.txt,New York City,location,8
+GDSC001790052600.txt,Joseph Harris,person,9
+GDSC001790052600.txt,Harry Bowie,person,6
+GDSC001790040200.txt,Mississippi,location,24
+GDSC001790040200.txt,New York City,location,13
+GDSC001790040200.txt,United States of America,location,14
+GDSC001790040200.txt,Memphis,location,6
+GDSC001790040200.txt,Kansas City,location,9
+GDSC001790040200.txt,Harris,person,6
+GDSC001790040200.txt,Joseph Harris,person,10
+GDSC001790040200.txt,Fannie Lou Hamer,person,45
+GDSC001790026900.txt,Freedom Farm Corporation,organization,33
+GDSC001790026900.txt,op,organization,6
+GDSC001790026900.txt,Mississippi,location,26
+GDSC001790026900.txt,Sunflower County,location,8
+GDSC001790026900.txt,Ruleville,location,17
+GDSC001790026900.txt,Fannie Lou Hamer,person,41
+GDSC001790026900.txt,Joseph Harris,person,11
+GDSC001790024300.txt,Board of Directors,organization,6
+GDSC001790061900.txt,ACLU,organization,15
+GDSC001790061900.txt,Congress,organization,13
+GDSC001790061900.txt,Little League,organization,9
+GDSC001790061900.txt,New York City,location,23
+GDSC001790061900.txt,United States of America,location,8
+GDSC001790061900.txt,South,location,6
+GDSC001790061900.txt,Moynihan,person,21
+GDSC001790056900.txt,Doc,organization,9
+GDSC001790056900.txt,Post Office Box 447 Sunflower,organization,8
+GDSC001790056900.txt,Registrar,organization,8
+GDSC001790056900.txt,Mississippi,location,28
+GDSC001790056900.txt,David M. Prank,person,6
+GDSC001790056900.txt,Joseph Harris,person,8
+GDSC001790016700.txt,State,organization,7
+GDSC001790016700.txt,Department of Labor,organization,8
+GDSC001790016700.txt,Delta,organization,13
+GDSC001790016700.txt,Mississippi Medical,organization,6
+GDSC001790016700.txt,Mississippi Employment Security Commission,organization,6
+GDSC001790016700.txt,Mississippi,location,52
+GDSC001790016700.txt,Washington,location,7
+GDSC001790016700.txt,Greenville,location,7
+GDSC001790016700.txt,Jackson,person,9
+GDSC001790016700.txt,Kranz,person,9
+GDSC001790042900.txt,Mississippi Freedom Democratic Party P.,organization,6
+GDSC001790042900.txt,Joseph Harris Office,organization,6
+GDSC001790042900.txt,Democratic Party,organization,6
+GDSC001790042900.txt,New York City,location,9
+GDSC001790042900.txt,Mississippi,location,28
+GDSC001790014600.txt,Freedom Farm Corporation,organization,23
+GDSC001790014600.txt,Mississippi,location,38
+GDSC001790014600.txt,United States of America,location,6
+GDSC001790014600.txt,Weber Street Ruleville,location,7
+GDSC001790014600.txt,Ruleville,location,16
+GDSC001790014600.txt,Fannie Lou Hamer,person,7
+GDSC001790049000.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,11
+GDSC001790049000.txt,Mississippi,location,18
+GDSC001790049000.txt,Ruleville,location,12
+GDSC001790049000.txt,Ingram,person,6
+GDSC001790049000.txt,Fannie Lou Hamer,person,34
+GDSC001790049000.txt,Thomas Foster,person,10
+GDSC001790049000.txt,Perry Hamer,person,9
+GDSC001790049000.txt,John Ingram,person,11
+GDSC001790051200.txt,Nixon Administration,organization,7
+GDSC001790051200.txt,Congress,organization,9
+GDSC001790051200.txt,DNC,organization,10
+GDSC001790051200.txt,House,organization,8
+GDSC001790051200.txt,Free Democratic Party,organization,8
+GDSC001790051200.txt,Committee,organization,7
+GDSC001790051200.txt,GOP,organization,7
+GDSC001790051200.txt,Senate,organization,10
+GDSC001790051200.txt,Democratic Party,organization,7
+GDSC001790051200.txt,Mississippi,location,48
+GDSC001790051200.txt,Washington,location,17
+GDSC001790051200.txt,Wisconsin,location,6
+GDSC001790051200.txt,New York City,location,26
+GDSC001790051200.txt,United States of America,location,8
+GDSC001790051200.txt,Massachusetts,location,9
+GDSC001790051200.txt,Vietnam,location,11
+GDSC001790051200.txt,Cambridge,location,6
+GDSC001790051200.txt,Pennsylvania,location,6
+GDSC001790051200.txt,Tennessee,location,7
+GDSC001790051200.txt,Russell,person,8
+GDSC001790051200.txt,Fred R. Harris,person,6
+GDSC001790051200.txt,Harris,person,12
+GDSC001790051200.txt,Nixon,person,6
+GDSC001790051200.txt,Connor,person,7
+GDSC001790045500.txt,Democratic Party,organization,13
+GDSC001790045500.txt,National Committee,organization,7
+GDSC001790045500.txt,Democratic National Committee,organization,8
+GDSC001790045500.txt,Mississippi Freedom Democratic Party,organization,7
+GDSC001790045500.txt,State,organization,7
+GDSC001790045500.txt,Party,organization,38
+GDSC001790045500.txt,Mississippi,location,41
+GDSC001790045500.txt,Chicago,location,7
+GDSC001790045500.txt,Goldwater,person,8
+GDSC001790045500.txt,Johnson,person,10
+GDSC001790050100.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,67
+GDSC001790050100.txt,Perry Hamer,person,34
+GDSC001790045400.txt,Council,organization,19
+GDSC001790045400.txt,NCPE,organization,6
+GDSC001790045400.txt,YAA,organization,7
+GDSC001790045400.txt,Mississippi,location,27
+GDSC001790045400.txt,Camp Shelby,location,7
+GDSC001790045400.txt,Philadelphia,location,8
+GDSC001790028200.txt,Board of Directors,organization,10
+GDSC001790028200.txt,Bank of Rulleville,organization,8
+GDSC001790028200.txt,Freedom Farm Corporation,organization,27
+GDSC001790028200.txt,Mississippi,location,41
+GDSC001790028200.txt,Ruleville,location,15
+GDSC001790028200.txt,Harris,person,7
+GDSC001790028200.txt,Joseph Harris,person,8
+GDSC001790028200.txt,Foster,person,11
+GDSC001790028200.txt,Collins,person,6
+GDSC001790028200.txt,Hamberlin,person,7
+GDSC001790028200.txt,Fannie Lou Hamer,person,17
+GDSC001790028200.txt,Juanita Harvey,person,6
+GDSC001790028200.txt,Clanton Beamon,person,15
+GDSC001790028200.txt,Beamon,person,22
+GDSC001790028200.txt,W. O. Shurden,person,6
+GDSC001790028200.txt,Myles Foster,person,8
+GDSC001790028200.txt,Jordan,person,14
+GDSC001790028200.txt,Charles McLaurin,person,6
+GDSC001790036500.txt,MPLA,organization,10
+GDSC001790036500.txt,NCC,organization,17
+GDSC001790036500.txt,Congress,organization,29
+GDSC001790036500.txt,WPC,organization,13
+GDSC001790036500.txt,Peace Center,organization,6
+GDSC001790036500.txt,NWPC,organization,11
+GDSC001790036500.txt,NSA,organization,9
+GDSC001790036500.txt,Senate,organization,9
+GDSC001790036500.txt,United Nations,organization,57
+GDSC001790036500.txt,Mississippi,location,8
+GDSC001790036500.txt,Paris,location,7
+GDSC001790036500.txt,Third World,location,6
+GDSC001790036500.txt,Latin America,location,9
+GDSC001790036500.txt,Pakistan,location,12
+GDSC001790036500.txt,India,location,10
+GDSC001790036500.txt,Bangladesh,location,8
+GDSC001790036500.txt,France,location,9
+GDSC001790036500.txt,Maryland,location,7
+GDSC001790036500.txt,Bissau,location,16
+GDSC001790036500.txt,Cuba,location,10
+GDSC001790036500.txt,New York City,location,12
+GDSC001790036500.txt,United States of America,location,97
+GDSC001790036500.txt,China,location,9
+GDSC001790036500.txt,Washington,location,39
+GDSC001790036500.txt,SaSausalitolito,location,7
+GDSC001790036500.txt,Vietnam,location,25
+GDSC001790036500.txt,Angola,location,13
+GDSC001790036500.txt,Portugal,location,26
+GDSC001790036500.txt,South Africa,location,7
+GDSC001790036500.txt,Guinea,location,18
+GDSC001790036500.txt,Asia,location,7
+GDSC001790036500.txt,Florida Avenue,location,8
+GDSC001790036500.txt,California,location,14
+GDSC001790036500.txt,Chile,location,21
+GDSC001790036500.txt,Santiago,location,6
+GDSC001790036500.txt,Soviet Union,location,10
+GDSC001790036500.txt,Morocco,location,14
+GDSC001790036500.txt,Africa,location,15
+GDSC001790036500.txt,Chicago,location,7
+GDSC001790036500.txt,Manhattan,location,6
+GDSC001790036500.txt,Israel,location,10
+GDSC001790036500.txt,Korea,location,7
+GDSC001790036500.txt,Washington D.C.,location,12
+GDSC001790036500.txt,Rios Montt,person,6
+GDSC001790036500.txt,Sekou Toure,person,6
+GDSC001790036500.txt,Nixon,person,12
+GDSC001790036500.txt,Jackie,person,17
+GDSC001790036500.txt,Johnson,person,6
+GDSC001790036500.txt,Christ,person,7
+GDSC001790036500.txt,Spinola,person,13
+GDSC001790036500.txt,Bhutto,person,6
+GDSC001790036500.txt,Kim II Sung,person,7
+GDSC001790011700.txt,Congress,organization,11
+GDSC001790011700.txt,Mississippi,location,9
+GDSC001790011700.txt,Johnson,person,6
+GDSC001790024100.txt,Delta Opportunities Corporation,organization,6
+GDSC001790024100.txt,NCNW,organization,9
+GDSC001790024100.txt,Mississippi,location,96
+GDSC001790024100.txt,Huleville,location,6
+GDSC001790024100.txt,Deddaville,location,6
+GDSC001790024100.txt,Ruleville,location,32
+GDSC001790024100.txt,Joseph Harris,person,9
+GDSC001790024100.txt,Andrew Dupree,person,7
+GDSC001790025100.txt,Mississippi,location,18
+GDSC001790054000.txt,Mississippi,location,12
+GDSC001790054000.txt,Greenville,location,9
+GDSC001790054000.txt,Mount Beulah,location,8
+GDSC001790054000.txt,United States of America,location,6
+GDSC001790054000.txt,Freedom City,location,7
+GDSC001790020800.txt,Doc,organization,6
+GDSC001790020800.txt,Mississippi,location,11
+GDSC001790063300.txt,Individuals Against the Crime of Silence,organization,13
+GDSC001790063300.txt,United Nations,organization,33
+GDSC001790063300.txt,IACS,organization,8
+GDSC001790063300.txt,Nuremberg,location,6
+GDSC001790063300.txt,United States of America,location,20
+GDSC001790063300.txt,Vietnam,location,19
+GDSC001790063300.txt,California,location,10
+GDSC001790063300.txt,Los Angeles,location,10
+GDSC001790047800.txt,Mississippi,location,8
+GDSC001790047800.txt,Washington,location,6
+GDSC001790047800.txt,Eastland,person,7
+GDSC001790022400.txt,Congress,organization,6
+GDSC001790022400.txt,Mississippians United,organization,6
+GDSC001790022400.txt,Mississippi,location,18
+GDSC001790022400.txt,New York City,location,6
+GDSC001790022400.txt,Greenville,location,12
+GDSC001790022400.txt,Joseph Harris,person,6
+GDSC001790042400.txt,Washington D.C.,location,6
+GDSC001790042400.txt,Washington,location,13
+GDSC001790010100.txt,Mississippi,location,14
+GDSC001790010100.txt,Indianola,location,29
+GDSC001790010100.txt,Carver Randle,person,8
+GDSC001790010100.txt,Johnson,person,6
+GDSC001790010100.txt,Randle,person,12
+GDSC001790041400.txt,James Street Ruleville,organization,6
+GDSC001790041400.txt,Company,organization,9
+GDSC001790041400.txt,Association,organization,6
+GDSC001790041400.txt,Mississippi,location,26
+GDSC001790041400.txt,United States of America,location,13
+GDSC001790041400.txt,Nebraska,location,6
+GDSC001790041400.txt,Washington,location,8
+GDSC001790041400.txt,Fannie Lou Hamer,person,30
+GDSC001790041400.txt,Aaron Henry,person,6
+GDSC001790041400.txt,Perry Hamer,person,15
+GDSC001790013100.txt,Supreme Court,organization,16
+GDSC001790013100.txt,House,organization,6
+GDSC001790013100.txt,State,organization,18
+GDSC001790013100.txt,Meridian,organization,8
+GDSC001790013100.txt,Circuit Clerk,organization,10
+GDSC001790013100.txt,Legislature,organization,23
+GDSC001790013100.txt,Senate,organization,8
+GDSC001790013100.txt,Mississippi,location,42
+GDSC001790013100.txt,Jackson,location,19
+GDSC001790013100.txt,United States of America,location,15
+GDSC001790013100.txt,Greenville,location,6
+GDSC001790013100.txt,Issaquena,location,6
+GDSC001790013100.txt,Harris,person,10
+GDSC001790013100.txt,Manasco,person,6
+GDSC001790013100.txt,Smith,person,9
+GDSC001790013100.txt,Allen,person,6
+GDSC001790013100.txt,Bill,person,7
+GDSC001790013100.txt,Forrest,person,6
+GDSC001790013100.txt,Stewart,person,9
+GDSC001790013100.txt,Mayfield,person,6
+GDSC001790013100.txt,Briggs,person,6
+GDSC001790013600.txt,National Cotton Council,organization,6
+GDSC001790013600.txt,Freedom Farm Corporation,organization,14
+GDSC001790013600.txt,Incorporated,organization,16
+GDSC001790013600.txt,Hunger Foundation,organization,9
+GDSC001790013600.txt,Mississippi,location,17
+GDSC001790013600.txt,California,location,6
+GDSC001790013600.txt,Weber Street Ruleville,location,6
+GDSC001790013600.txt,Indianola,location,10
+GDSC001790013600.txt,Ruleville,location,6
+GDSC001790044300.txt,Mississippi,location,15
+GDSC001790044300.txt,Joseph Harris,person,15
+GDSC001790014200.txt,New York City Foundation,organization,10
+GDSC001790014200.txt,Freedom Farm Corporation,organization,23
+GDSC001790014200.txt,Mississippi,location,31
+GDSC001790014200.txt,Fannie Lou Hamer,person,13
+GDSC001790014200.txt,Joseph Harris,person,16
+GDSC001790011100.txt,Mississippi,location,29
+GDSC001790011100.txt,Sunflower County,location,10
+GDSC001790011100.txt,Indianola,location,7
+GDSC001790011100.txt,Fannie Lou Hamer,person,29
+GDSC001790011100.txt,Moorhead,person,6
+GDSC001790012000.txt,Congress,organization,9
+GDSC001790012000.txt,Issaquena County,location,16
+GDSC001790012000.txt,Mississippi,location,11
+GDSC001790012000.txt,Johnson,person,9
+GDSC001790011500.txt,Mississippi,location,9
+GDSC001790011500.txt,Moorhead,person,8
+GDSC001790057800.txt,Center for Black Education,organization,6
+GDSC001790057800.txt,Washington D.C.,location,9
+GDSC001790057800.txt,Washington,location,15
+GDSC001790057800.txt,Frank Smith,person,17
+GDSC001790041500.txt,Unity Buying Service,organization,8
+GDSC001790041500.txt,Charter National Life Insurance Company,organization,7
+GDSC001790041500.txt,Medicare,organization,29
+GDSC001790041500.txt,Illinois,location,6
+GDSC001790041500.txt,United States of America,location,15
+GDSC001790058100.txt,Mississippi,location,6
+GDSC001790058100.txt,Mound Bayou,location,7
+GDSC001790058100.txt,Frank Smith,person,6
+GDSC001790058100.txt,Jesse Morris,person,7
+GDSC001790035500.txt,National Association,organization,11
+GDSC001790035500.txt,Exhibition Center,organization,6
+GDSC001790035500.txt,NAACP,organization,53
+GDSC001790035500.txt,National Office,organization,9
+GDSC001790035500.txt,St. Louis Gateway Convention Center,location,14
+GDSC001790035500.txt,Washington,location,6
+GDSC001790035500.txt,New York City,location,40
+GDSC001790035500.txt,St. Louis,location,12
+GDSC001790035500.txt,Mildred Bond Roxborough,person,7
+GDSC001790035500.txt,Roy Wilkins,person,10
+GDSC001790053900.txt,Bolivar,organization,6
+GDSC001790053900.txt,Delta Ministry,organization,87
+GDSC001790053900.txt,Congress,organization,6
+GDSC001790053900.txt,Delta,organization,24
+GDSC001790053900.txt,OEO,organization,8
+GDSC001790053900.txt,Free Democratic Party,organization,7
+GDSC001790053900.txt,National Council of Churches,organization,18
+GDSC001790053900.txt,Child Development Group,organization,10
+GDSC001790053900.txt,Mississippi,location,159
+GDSC001790053900.txt,Mount Beulah,location,21
+GDSC001790053900.txt,Washington,location,19
+GDSC001790053900.txt,New York City,location,6
+GDSC001790053900.txt,United States of America,location,20
+GDSC001790053900.txt,Greenville,location,58
+GDSC001790053900.txt,Freedom City,location,11
+GDSC001790053900.txt,Leland,location,10
+GDSC001790053900.txt,Owen H. Brooks,person,6
+GDSC001790053900.txt,Dir,person,6
+GDSC001790053900.txt,Jackson,person,18
+GDSC001790053900.txt,Turnipseed,person,6
+GDSC001790053900.txt,Henry L. Parker,person,6
+GDSC001790053900.txt,Joe Harris,person,9
+GDSC001790053900.txt,Bolton,person,8
+GDSC001790053900.txt,Edwards,person,7
+GDSC001790053900.txt,Thompson,person,7
+GDSC001790053900.txt,Ben,person,11
+GDSC001790049600.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,56
+GDSC001790049600.txt,California,location,8
+GDSC001790049600.txt,John Ingram,person,21
+GDSC001790049600.txt,Fannie Lou Hamer,person,98
+GDSC001790049600.txt,Perry Hamer,person,17
+GDSC001790034100.txt,James Street Ruleville,organization,13
+GDSC001790034100.txt,Fannie Lou Hamer Sunflower County Voter,organization,11
+GDSC001790034100.txt,Assisting Minority Group Participation,organization,8
+GDSC001790034100.txt,s League Citizenship Education Project,organization,12
+GDSC001790034100.txt,Bank of Ruleville,organization,17
+GDSC001790034100.txt,Sunflower County Voters League,organization,15
+GDSC001790034100.txt,Incorporated,organization,6
+GDSC001790034100.txt,Voter Education Project,organization,6
+GDSC001790034100.txt,Mississippi,location,35
+GDSC001790034100.txt,Atlanta,location,17
+GDSC001790034100.txt,Talmadge,person,15
+GDSC001790034100.txt,Fannie Lou Hamer,person,21
+GDSC001790034100.txt,Lewis,person,10
+GDSC001790020200.txt,Mississippi,organization,11
+GDSC001790020200.txt,Mnpls,location,24
+GDSC001790020200.txt,Mississippi,location,121
+GDSC001790020200.txt,New York City,location,19
+GDSC001790020200.txt,Indianola,location,21
+GDSC001790020200.txt,Inverness,location,11
+GDSC001790020200.txt,Philadelphia,location,10
+GDSC001790020200.txt,Isola,location,8
+GDSC001790020200.txt,Robert,person,7
+GDSC001790020200.txt,Davis,person,7
+GDSC001790020200.txt,Joseph Harris,person,8
+GDSC001790020200.txt,Harris,person,16
+GDSC001790020200.txt,William,person,6
+GDSC001790020200.txt,Richard,person,6
+GDSC001790020200.txt,Jackson,person,7
+GDSC001790020200.txt,John,person,13
+GDSC001790020200.txt,Barbara,person,6
+GDSC001790020200.txt,James,person,9
+GDSC001790020200.txt,Frank,person,7
+GDSC001790020200.txt,Bill,person,7
+GDSC001790020200.txt,George,person,6
+GDSC001790020200.txt,Harry,person,6
+GDSC001790020200.txt,Edward,person,7
+GDSC001790020200.txt,Jr.,person,15
+GDSC001790020200.txt,Charles,person,9
+GDSC001790039800.txt,National Women,organization,9
+GDSC001790039800.txt,Caucus,organization,6
+GDSC001790039800.txt,Congress,organization,9
+GDSC001790039800.txt,NWPC,organization,70
+GDSC001790039800.txt,Pennsylvania Avenue,location,7
+GDSC001790039800.txt,New York City,location,27
+GDSC001790039800.txt,California,location,6
+GDSC001790039800.txt,Los Angeles,location,6
+GDSC001790039800.txt,New York City City,location,10
+GDSC001790039800.txt,Washington D.C.,location,34
+GDSC001790039800.txt,Washington,location,31
+GDSC001790049200.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,30
+GDSC001790049200.txt,Fannie Lou Hamer,person,65
+GDSC001790049200.txt,Perry Hamer,person,14
+GDSC001790049200.txt,John Ingram,person,15
+GDSC001790038500.txt,New York City Times,organization,16
+GDSC001790038500.txt,LBJ,organization,10
+GDSC001790038500.txt,Department of Justice,organization,6
+GDSC001790038500.txt,ACLU,organization,23
+GDSC001790038500.txt,New York City,organization,6
+GDSC001790038500.txt,RBF,organization,34
+GDSC001790038500.txt,Post,organization,6
+GDSC001790038500.txt,Roger Baldwin Foundation,organization,7
+GDSC001790038500.txt,Saigon,location,7
+GDSC001790038500.txt,Mississippi,location,12
+GDSC001790038500.txt,Asia,location,8
+GDSC001790038500.txt,New Republic,location,6
+GDSC001790038500.txt,New York City,location,17
+GDSC001790038500.txt,United States of America,location,30
+GDSC001790038500.txt,Washington,location,6
+GDSC001790038500.txt,Vietnam,location,74
+GDSC001790038500.txt,Ithaca,location,7
+GDSC001790038500.txt,Johnson,person,6
+GDSC001790038500.txt,David,person,6
+GDSC001790038500.txt,Zinn,person,6
+GDSC001790038500.txt,Roger Baldwin,person,7
+GDSC001790038500.txt,Salisbury,person,6
+GDSC001790060100.txt,Incorporated,organization,8
+GDSC001790060100.txt,Mississippi,location,7
+GDSC001790060100.txt,State Department of Education,organization,8
+GDSC001790060100.txt,United States of America,organization,6
+GDSC001790060100.txt,ESEA,organization,10
+GDSC001790060100.txt,Mississippi,location,16
+GDSC001790060100.txt,Joseph Harris,person,13
+GDSC001790060100.txt,Mississippi,location,27
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Forrest County,location,10
+GDSC001790060100.txt,Hattiesburg,location,11
+GDSC001790060100.txt,Town of Sunflower,organization,14
+GDSC001790060100.txt,Mississippi,location,14
+GDSC001790060100.txt,J.P.,organization,7
+GDSC001790060100.txt,Mississippi,location,13
+GDSC001790060100.txt,Joseph Harris,person,6
+GDSC001790060100.txt,Freedom Democratic Party,organization,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,11
+GDSC001790060100.txt,SNCC,organization,14
+GDSC001790060100.txt,Federal Bureau of Investigation,organization,6
+GDSC001790060100.txt,Congress,organization,6
+GDSC001790060100.txt,Guardian,organization,9
+GDSC001790060100.txt,Free Democratic Party,organization,26
+GDSC001790060100.txt,Mississippi Negroes,organization,9
+GDSC001790060100.txt,NAACP,organization,28
+GDSC001790060100.txt,MFDP,organization,6
+GDSC001790060100.txt,Democratic Party,organization,10
+GDSC001790060100.txt,Mississippi,location,116
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,United States of America,location,22
+GDSC001790060100.txt,Sunflower County,location,6
+GDSC001790060100.txt,Greenville,location,6
+GDSC001790060100.txt,Chicago,location,12
+GDSC001790060100.txt,Philadelphia,location,6
+GDSC001790060100.txt,South Carolina,location,6
+GDSC001790060100.txt,Alabama,location,6
+GDSC001790060100.txt,South,location,11
+GDSC001790060100.txt,Phillips,person,16
+GDSC001790060100.txt,Jackson,person,10
+GDSC001790060100.txt,Fannie Lou Hamer,person,6
+GDSC001790060100.txt,Lawrence Guyot,person,27
+GDSC001790060100.txt,Charles Evers,person,9
+GDSC001790060100.txt,Stavis,person,8
+GDSC001790060100.txt,Dahmer,person,6
+GDSC001790060100.txt,Evers,person,43
+GDSC001790060100.txt,Malcolm X,person,6
+GDSC001790060100.txt,Medgar,person,7
+GDSC001790060100.txt,John Bell Williams,person,6
+GDSC001790060100.txt,Williams,person,10
+GDSC001790060100.txt,Stokely Carmichael,person,6
+GDSC001790060100.txt,Malcolm,person,6
+GDSC001790060100.txt,Peoples World Parliament,organization,15
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,17
+GDSC001790060100.txt,Mississippi,location,45
+GDSC001790060100.txt,Switzerland,location,7
+GDSC001790060100.txt,New Jersey,location,6
+GDSC001790060100.txt,New York City,location,36
+GDSC001790060100.txt,United States of America,location,10
+GDSC001790060100.txt,California,location,18
+GDSC001790060100.txt,Wolfach,location,7
+GDSC001790060100.txt,Colorado,location,9
+GDSC001790060100.txt,Interlaken,location,7
+GDSC001790060100.txt,Germany,location,11
+GDSC001790060100.txt,Eastland,person,6
+GDSC001790060100.txt,National Association of Black Social Workers,organization,6
+GDSC001790060100.txt,San Francisco,location,12
+GDSC001790060100.txt,New York City,location,23
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,California,location,8
+GDSC001790060100.txt,Barbados,location,12
+GDSC001790060100.txt,South,location,8
+GDSC001790060100.txt,Georgia,location,7
+GDSC001790060100.txt,Liberty House,organization,6
+GDSC001790060100.txt,Mississippi,location,8
+GDSC001790060100.txt,South,location,11
+GDSC001790060100.txt,Incorporated,organization,9
+GDSC001790060100.txt,Congress,organization,11
+GDSC001790060100.txt,United States of America,location,21
+GDSC001790060100.txt,Minnesota,location,8
+GDSC001790060100.txt,Vietnam,location,8
+GDSC001790060100.txt,Lyndon B. Johnson,person,10
+GDSC001790060100.txt,Johnson,person,15
+GDSC001790060100.txt,Fifth Circuit,organization,8
+GDSC001790060100.txt,Incorporated,organization,6
+GDSC001790060100.txt,Mississippi Supreme Court,organization,7
+GDSC001790060100.txt,Court,organization,6
+GDSC001790060100.txt,EEOC,organization,15
+GDSC001790060100.txt,Mississippi,location,12
+GDSC001790060100.txt,United States of America,location,21
+GDSC001790060100.txt,Civ,location,8
+GDSC001790060100.txt,Jackson,person,11
+GDSC001790060100.txt,Davis,person,6
+GDSC001790060100.txt,U. S. Dist,person,11
+GDSC001790060100.txt,Patterson,person,6
+GDSC001790060100.txt,Cox,person,7
+GDSC001790060100.txt,United Nations,organization,7
+GDSC001790060100.txt,Martin Luther King,organization,11
+GDSC001790060100.txt,NAACP,organization,27
+GDSC001790060100.txt,Institute,organization,15
+GDSC001790060100.txt,King,organization,6
+GDSC001790060100.txt,Center,organization,7
+GDSC001790060100.txt,Congress,organization,7
+GDSC001790060100.txt,Center for Social Change,organization,15
+GDSC001790060100.txt,Southwest Atlanta,location,6
+GDSC001790060100.txt,Atlanta,location,54
+GDSC001790060100.txt,Washington,location,12
+GDSC001790060100.txt,New York City,location,18
+GDSC001790060100.txt,United States of America,location,61
+GDSC001790060100.txt,Beckwith Street,location,9
+GDSC001790060100.txt,Vietnam,location,10
+GDSC001790060100.txt,Boston,location,9
+GDSC001790060100.txt,Asia,location,6
+GDSC001790060100.txt,Memphis,location,7
+GDSC001790060100.txt,Georgia,location,26
+GDSC001790060100.txt,Africa,location,6
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,Martin Luther King,person,65
+GDSC001790060100.txt,King,person,80
+GDSC001790060100.txt,John Lewis,person,6
+GDSC001790060100.txt,Du Bois,person,18
+GDSC001790060100.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,34
+GDSC001790060100.txt,Fannie Lou Hamer,person,32
+GDSC001790060100.txt,Perry Hamer,person,24
+GDSC001790060100.txt,John Ingram,person,8
+GDSC001790060100.txt,United States of America,organization,9
+GDSC001790060100.txt,Department of Financial Management,organization,6
+GDSC001790060100.txt,Joseph Harris,person,10
+GDSC001790060100.txt,Career Development Committee,organization,10
+GDSC001790060100.txt,Immigration Department,organization,14
+GDSC001790060100.txt,Canada,location,107
+GDSC001790060100.txt,Ontario,location,7
+GDSC001790060100.txt,United States of America,location,28
+GDSC001790060100.txt,Montreal,location,17
+GDSC001790060100.txt,Quebec,location,12
+GDSC001790060100.txt,New York City,organization,6
+GDSC001790060100.txt,Federal Bureau of Investigation,organization,10
+GDSC001790060100.txt,SNCC,organization,12
+GDSC001790060100.txt,Louisiana,location,12
+GDSC001790060100.txt,New York City,location,44
+GDSC001790060100.txt,United States of America,location,10
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Virginia,location,10
+GDSC001790060100.txt,New Orleans,location,6
+GDSC001790060100.txt,Brown,person,37
+GDSC001790060100.txt,H. Rap Brown,person,10
+GDSC001790060100.txt,Mississippi,location,19
+GDSC001790060100.txt,Ruleville,location,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,52
+GDSC001790060100.txt,Ford Foundation,organization,8
+GDSC001790060100.txt,Freedom Village,organization,41
+GDSC001790060100.txt,Doc,organization,6
+GDSC001790060100.txt,RHA,organization,10
+GDSC001790060100.txt,DHWashington D.C.,organization,6
+GDSC001790060100.txt,FIA,organization,7
+GDSC001790060100.txt,Incorporated,organization,6
+GDSC001790060100.txt,Mississippi FmHA,organization,7
+GDSC001790060100.txt,OEO,organization,6
+GDSC001790060100.txt,FMHA,organization,157
+GDSC001790060100.txt,Mississippi,location,26
+GDSC001790060100.txt,Freedom Village,location,19
+GDSC001790060100.txt,Washington County,location,24
+GDSC001790060100.txt,Christ,person,11
+GDSC001790060100.txt,Elliott,person,12
+GDSC001790060100.txt,Prevost,person,8
+GDSC001790060100.txt,Barbour,person,22
+GDSC001790060100.txt,Myer,person,6
+GDSC001790060100.txt,Howell,person,14
+GDSC001790060100.txt,Walker,person,23
+GDSC001790060100.txt,Bullen,person,12
+GDSC001790060100.txt,Paul,person,16
+GDSC001790060100.txt,Lockhart,person,21
+GDSC001790060100.txt,Orr,person,14
+GDSC001790060100.txt,Mississippi,location,15
+GDSC001790060100.txt,New York City,location,12
+GDSC001790060100.txt,Owen Brooks,person,9
+GDSC001790060100.txt,Congress,organization,12
+GDSC001790060100.txt,ACLU,organization,6
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,New York City,location,11
+GDSC001790060100.txt,United States of America,location,6
+GDSC001790060100.txt,Abzug,person,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,6
+GDSC001790060100.txt,ACLU,organization,32
+GDSC001790060100.txt,Biennial Conference Committee,organization,16
+GDSC001790060100.txt,National Advisory Council,organization,10
+GDSC001790060100.txt,Committee,organization,22
+GDSC001790060100.txt,National Development Council,organization,7
+GDSC001790060100.txt,BCC,organization,6
+GDSC001790060100.txt,Board,organization,24
+GDSC001790060100.txt,American Civil Liberties Union,organization,7
+GDSC001790060100.txt,National Board,organization,13
+GDSC001790060100.txt,Saigon,location,6
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,Southern California,location,6
+GDSC001790060100.txt,New York City,location,20
+GDSC001790060100.txt,United States of America,location,15
+GDSC001790060100.txt,Sandburg Hall,location,26
+GDSC001790060100.txt,Milwaukee,location,9
+GDSC001790060100.txt,Vietnam,location,12
+GDSC001790060100.txt,I. F. Stone,person,6
+GDSC001790060100.txt,Alan Reitman,person,6
+GDSC001790060100.txt,Parliament Association,organization,12
+GDSC001790060100.txt,Parliament,organization,9
+GDSC001790060100.txt,WCC,organization,13
+GDSC001790060100.txt,SEATO,organization,29
+GDSC001790060100.txt,Peoples World Parliament,organization,26
+GDSC001790060100.txt,Congress,organization,8
+GDSC001790060100.txt,World University System,organization,7
+GDSC001790060100.txt,Institute,organization,16
+GDSC001790060100.txt,PWP,organization,9
+GDSC001790060100.txt,Senate,organization,6
+GDSC001790060100.txt,Institute of the Black World,organization,8
+GDSC001790060100.txt,United Nations,organization,35
+GDSC001790060100.txt,Consultative Council,organization,13
+GDSC001790060100.txt,Mississippi,location,23
+GDSC001790060100.txt,Ghana,location,6
+GDSC001790060100.txt,South Vietnam,location,11
+GDSC001790060100.txt,Germany,location,9
+GDSC001790060100.txt,Atlanta,location,14
+GDSC001790060100.txt,Holmes County,location,7
+GDSC001790060100.txt,India,location,7
+GDSC001790060100.txt,London,location,6
+GDSC001790060100.txt,Lebanon,location,8
+GDSC001790060100.txt,Denver,location,11
+GDSC001790060100.txt,France,location,6
+GDSC001790060100.txt,Norway,location,7
+GDSC001790060100.txt,New York City,location,18
+GDSC001790060100.txt,United States of America,location,80
+GDSC001790060100.txt,Washington,location,14
+GDSC001790060100.txt,Vietnam,location,71
+GDSC001790060100.txt,North Carolina,location,11
+GDSC001790060100.txt,Pakistan,location,6
+GDSC001790060100.txt,Wolfach,location,14
+GDSC001790060100.txt,Fayette,location,7
+GDSC001790060100.txt,California,location,10
+GDSC001790060100.txt,Georgia,location,11
+GDSC001790060100.txt,Switzerland,location,8
+GDSC001790060100.txt,Colorado,location,8
+GDSC001790060100.txt,Geneva,location,6
+GDSC001790060100.txt,Czechoslovakia,location,6
+GDSC001790060100.txt,Interlaken,location,16
+GDSC001790060100.txt,Evers,person,6
+GDSC001790060100.txt,Johnson,person,10
+GDSC001790060100.txt,Edwards,person,6
+GDSC001790060100.txt,Pardo,person,8
+GDSC001790060100.txt,Martin Luther King,person,10
+GDSC001790060100.txt,Rap Brown,person,6
+GDSC001790060100.txt,Supreme Court,organization,52
+GDSC001790060100.txt,Mississippi Office,organization,15
+GDSC001790060100.txt,State,organization,9
+GDSC001790060100.txt,United States of America,organization,6
+GDSC001790060100.txt,Ford,organization,7
+GDSC001790060100.txt,United States Supreme Court,organization,10
+GDSC001790060100.txt,EEOC,organization,18
+GDSC001790060100.txt,Committee for Civil Rights Under Law,organization,10
+GDSC001790060100.txt,DINA,organization,66
+GDSC001790060100.txt,Lawyers,organization,43
+GDSC001790060100.txt,State Department,organization,9
+GDSC001790060100.txt,Congress,organization,60
+GDSC001790060100.txt,Court,organization,34
+GDSC001790060100.txt,NWashington D.C.,organization,6
+GDSC001790060100.txt,White House,organization,7
+GDSC001790060100.txt,New York City Times,organization,7
+GDSC001790060100.txt,Senate,organization,33
+GDSC001790060100.txt,Incorporated,organization,6
+GDSC001790060100.txt,Maharishi,organization,9
+GDSC001790060100.txt,Church,organization,8
+GDSC001790060100.txt,Circuit Court,organization,15
+GDSC001790060100.txt,NAACP,organization,14
+GDSC001790060100.txt,Post Office,organization,7
+GDSC001790060100.txt,Department of Justice,organization,6
+GDSC001790060100.txt,Fifth Circuit,organization,10
+GDSC001790060100.txt,USDA,organization,16
+GDSC001790060100.txt,Committee,organization,66
+GDSC001790060100.txt,ERDA,organization,6
+GDSC001790060100.txt,Coalition,organization,9
+GDSC001790060100.txt,Bell,organization,18
+GDSC001790060100.txt,House,organization,19
+GDSC001790060100.txt,California Supreme Court,organization,9
+GDSC001790060100.txt,CIO,organization,7
+GDSC001790060100.txt,United Nations,organization,13
+GDSC001790060100.txt,T.,organization,12
+GDSC001790060100.txt,District Court,organization,33
+GDSC001790060100.txt,CWashington D.C.,organization,12
+GDSC001790060100.txt,House of Representatives,organization,6
+GDSC001790060100.txt,Mississippi,location,36
+GDSC001790060100.txt,Utah,location,10
+GDSC001790060100.txt,Argentina,location,9
+GDSC001790060100.txt,Connecticut,location,6
+GDSC001790060100.txt,Atlanta,location,24
+GDSC001790060100.txt,Latin America,location,10
+GDSC001790060100.txt,Zaire,location,14
+GDSC001790060100.txt,New York City,location,53
+GDSC001790060100.txt,United States of America,location,194
+GDSC001790060100.txt,Massachusetts,location,6
+GDSC001790060100.txt,Virginia,location,11
+GDSC001790060100.txt,Florida,location,8
+GDSC001790060100.txt,Santiago,location,12
+GDSC001790060100.txt,Washington,location,54
+GDSC001790060100.txt,Ohio,location,9
+GDSC001790060100.txt,South Africa,location,17
+GDSC001790060100.txt,North Carolina,location,6
+GDSC001790060100.txt,Brazil,location,6
+GDSC001790060100.txt,Oklahoma,location,7
+GDSC001790060100.txt,California,location,17
+GDSC001790060100.txt,Chile,location,85
+GDSC001790060100.txt,Soviet Union,location,12
+GDSC001790060100.txt,Georgia,location,32
+GDSC001790060100.txt,Pennsylvania,location,6
+GDSC001790060100.txt,Orlando,location,6
+GDSC001790060100.txt,Birmingham,location,6
+GDSC001790060100.txt,Vietnam,location,14
+GDSC001790060100.txt,Chicago,location,9
+GDSC001790060100.txt,Philadelphia,location,20
+GDSC001790060100.txt,Moscow,location,7
+GDSC001790060100.txt,South Carolina,location,7
+GDSC001790060100.txt,Texas,location,13
+GDSC001790060100.txt,Haiphong,location,9
+GDSC001790060100.txt,Alabama,location,10
+GDSC001790060100.txt,Washington D.C.,location,30
+GDSC001790060100.txt,Brown,person,7
+GDSC001790060100.txt,Vance,person,6
+GDSC001790060100.txt,Kennedy,person,6
+GDSC001790060100.txt,Jesus,person,6
+GDSC001790060100.txt,Stanton,person,8
+GDSC001790060100.txt,Ashley,person,11
+GDSC001790060100.txt,Brzezinski,person,7
+GDSC001790060100.txt,George,person,13
+GDSC001790060100.txt,Mdluli,person,8
+GDSC001790060100.txt,El Mercurio,person,6
+GDSC001790060100.txt,SUnited States of American Vorchheimer,person,6
+GDSC001790060100.txt,Williams,person,7
+GDSC001790060100.txt,Gravltt,person,6
+GDSC001790060100.txt,Reed,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,7
+GDSC001790060100.txt,Joseph,person,7
+GDSC001790060100.txt,Serrano,person,7
+GDSC001790060100.txt,Carver,person,20
+GDSC001790060100.txt,Pinochet,person,54
+GDSC001790060100.txt,Carter,person,79
+GDSC001790060100.txt,Contreras,person,6
+GDSC001790060100.txt,Christ,person,21
+GDSC001790060100.txt,Jimmy Carter,person,6
+GDSC001790060100.txt,Mary,person,7
+GDSC001790060100.txt,Bill,person,7
+GDSC001790060100.txt,Davis,person,8
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,State Department,organization,6
+GDSC001790060100.txt,RIWU,organization,7
+GDSC001790060100.txt,Department of Housing and Urban Development,organization,9
+GDSC001790060100.txt,FRG,organization,16
+GDSC001790060100.txt,CCAG,organization,10
+GDSC001790060100.txt,PUC,organization,6
+GDSC001790060100.txt,World Peace Council,organization,28
+GDSC001790060100.txt,PLO,organization,119
+GDSC001790060100.txt,NATO,organization,24
+GDSC001790060100.txt,Ithaca Press,organization,7
+GDSC001790060100.txt,Party,organization,15
+GDSC001790060100.txt,American Friends Service Committee,organization,6
+GDSC001790060100.txt,GDR Peace Council,organization,8
+GDSC001790060100.txt,ACORN,organization,20
+GDSC001790060100.txt,Christianity and Islam,organization,6
+GDSC001790060100.txt,Monthly Review Press,organization,9
+GDSC001790060100.txt,Judaism,organization,8
+GDSC001790060100.txt,UNRWA,organization,7
+GDSC001790060100.txt,Internal Revenue Service,organization,13
+GDSC001790060100.txt,APC,organization,10
+GDSC001790060100.txt,NPA,organization,9
+GDSC001790060100.txt,Communist Party,organization,7
+GDSC001790060100.txt,People,organization,9
+GDSC001790060100.txt,Board of Trustees,organization,11
+GDSC001790060100.txt,Congress,organization,25
+GDSC001790060100.txt,SED,organization,6
+GDSC001790060100.txt,Delta,organization,6
+GDSC001790060100.txt,BPP,organization,65
+GDSC001790060100.txt,National People,organization,6
+GDSC001790060100.txt,CWC,organization,28
+GDSC001790060100.txt,Democratic Party,organization,12
+GDSC001790060100.txt,New York City Times,organization,8
+GDSC001790060100.txt,Incorporated,organization,26
+GDSC001790060100.txt,General Assembly,organization,15
+GDSC001790060100.txt,Pepco,organization,6
+GDSC001790060100.txt,Mary Holmes College,organization,8
+GDSC001790060100.txt,Carter Administration,organization,9
+GDSC001790060100.txt,Assembly,organization,8
+GDSC001790060100.txt,California,organization,13
+GDSC001790060100.txt,Peace Council,organization,10
+GDSC001790060100.txt,FHA,organization,6
+GDSC001790060100.txt,New Stockholm Appeal,organization,9
+GDSC001790060100.txt,AMEU,organization,14
+GDSC001790060100.txt,Peace Council of the GDR,organization,20
+GDSC001790060100.txt,Teamsters,organization,14
+GDSC001790060100.txt,Carolina Action,organization,19
+GDSC001790060100.txt,United Arab Emirates,organization,31
+GDSC001790060100.txt,Council,organization,9
+GDSC001790060100.txt,Welfare Department,organization,6
+GDSC001790060100.txt,Black Panther Party,organization,26
+GDSC001790060100.txt,Committee,organization,7
+GDSC001790060100.txt,PUCA,organization,8
+GDSC001790060100.txt,OPEC,organization,21
+GDSC001790060100.txt,Suez,organization,10
+GDSC001790060100.txt,Federal Bureau of Investigation,organization,52
+GDSC001790060100.txt,Movement for Economic Justice,organization,6
+GDSC001790060100.txt,Longman Group,organization,7
+GDSC001790060100.txt,Coalition,organization,25
+GDSC001790060100.txt,Ltd.,organization,9
+GDSC001790060100.txt,NTIC,organization,13
+GDSC001790060100.txt,Southwestern Bell,organization,6
+GDSC001790060100.txt,New Stockholm Appeal of the World Peace Council,organization,6
+GDSC001790060100.txt,Security Council,organization,8
+GDSC001790060100.txt,United Nations,organization,51
+GDSC001790060100.txt,Atlanta,location,25
+GDSC001790060100.txt,Golan Heights,location,11
+GDSC001790060100.txt,Gaza Strip,location,18
+GDSC001790060100.txt,Maryland,location,7
+GDSC001790060100.txt,San Diego,location,7
+GDSC001790060100.txt,United States of America,location,177
+GDSC001790060100.txt,West Bank,location,65
+GDSC001790060100.txt,Libya,location,9
+GDSC001790060100.txt,Ohio,location,15
+GDSC001790060100.txt,Kuwait,location,8
+GDSC001790060100.txt,Europe,location,25
+GDSC001790060100.txt,Federal Republic,location,6
+GDSC001790060100.txt,South Africa,location,28
+GDSC001790060100.txt,Lebanon,location,29
+GDSC001790060100.txt,Israeli,location,7
+GDSC001790060100.txt,Jordan,location,25
+GDSC001790060100.txt,Ramallah,location,8
+GDSC001790060100.txt,Emirates,location,9
+GDSC001790060100.txt,Syria,location,17
+GDSC001790060100.txt,Mississippi,location,18
+GDSC001790060100.txt,Illinois,location,8
+GDSC001790060100.txt,Middle East,location,168
+GDSC001790060100.txt,Beirut,location,12
+GDSC001790060100.txt,Texas,location,16
+GDSC001790060100.txt,Dubai,location,21
+GDSC001790060100.txt,Vatican,location,7
+GDSC001790060100.txt,Cairo,location,22
+GDSC001790060100.txt,India,location,12
+GDSC001790060100.txt,Washington,location,69
+GDSC001790060100.txt,USSR,location,6
+GDSC001790060100.txt,Angola,location,6
+GDSC001790060100.txt,Middle East Understanding,location,9
+GDSC001790060100.txt,Asia,location,11
+GDSC001790060100.txt,Iran,location,7
+GDSC001790060100.txt,Algeria,location,6
+GDSC001790060100.txt,Iraq,location,7
+GDSC001790060100.txt,Helsinki,location,12
+GDSC001790060100.txt,JerJerusalemlem,location,30
+GDSC001790060100.txt,Chicago,location,30
+GDSC001790060100.txt,Ajman,location,14
+GDSC001790060100.txt,Alabama,location,9
+GDSC001790060100.txt,Washington D.C.,location,39
+GDSC001790060100.txt,San Francisco,location,12
+GDSC001790060100.txt,Egypt,location,129
+GDSC001790060100.txt,Paris,location,7
+GDSC001790060100.txt,Ismailia,location,6
+GDSC001790060100.txt,Saudi Arabia,location,19
+GDSC001790060100.txt,Suez Canal,location,13
+GDSC001790060100.txt,Palestine,location,61
+GDSC001790060100.txt,Jordan River,location,7
+GDSC001790060100.txt,Abu Dhabi,location,32
+GDSC001790060100.txt,New Jersey,location,7
+GDSC001790060100.txt,Mediterranean,location,8
+GDSC001790060100.txt,France,location,7
+GDSC001790060100.txt,Riverside Drive,location,7
+GDSC001790060100.txt,New York City,location,56
+GDSC001790060100.txt,Berlin,location,18
+GDSC001790060100.txt,Los Angeles,location,15
+GDSC001790060100.txt,Florida,location,10
+GDSC001790060100.txt,North Carolina,location,12
+GDSC001790060100.txt,Nile Valley,location,8
+GDSC001790060100.txt,California,location,26
+GDSC001790060100.txt,Georgia,location,16
+GDSC001790060100.txt,Pennsylvania,location,8
+GDSC001790060100.txt,Philadelphia,location,8
+GDSC001790060100.txt,Sharjah,location,14
+GDSC001790060100.txt,Cyprus,location,12
+GDSC001790060100.txt,Gaza,location,12
+GDSC001790060100.txt,Israel,location,289
+GDSC001790060100.txt,Raleigh,location,6
+GDSC001790060100.txt,United Kingdom,location,10
+GDSC001790060100.txt,Connecticut,location,9
+GDSC001790060100.txt,New York City City,location,10
+GDSC001790060100.txt,Ain,location,9
+GDSC001790060100.txt,Soviet Union,location,24
+GDSC001790060100.txt,Alexandria,location,8
+GDSC001790060100.txt,Durham,location,6
+GDSC001790060100.txt,London,location,6
+GDSC001790060100.txt,United Arab Emirates,location,27
+GDSC001790060100.txt,West,location,8
+GDSC001790060100.txt,West Point,location,8
+GDSC001790060100.txt,South,location,8
+GDSC001790060100.txt,Chile,location,6
+GDSC001790060100.txt,Near East,location,7
+GDSC001790060100.txt,GDR,location,19
+GDSC001790060100.txt,Africa,location,14
+GDSC001790060100.txt,Geneva,location,11
+GDSC001790060100.txt,Baltimore,location,6
+GDSC001790060100.txt,Oakland,location,16
+GDSC001790060100.txt,Andrew Young,person,6
+GDSC001790060100.txt,Vance,person,13
+GDSC001790060100.txt,John H. Davis,person,10
+GDSC001790060100.txt,Aharon Cohen,person,6
+GDSC001790060100.txt,Khaimah,person,17
+GDSC001790060100.txt,Taylor,person,6
+GDSC001790060100.txt,Felicia Langer,person,10
+GDSC001790060100.txt,Sadat,person,20
+GDSC001790060100.txt,Alistair Duncan,person,9
+GDSC001790060100.txt,Gandhi,person,6
+GDSC001790060100.txt,Vicker,person,6
+GDSC001790060100.txt,Zayed,person,14
+GDSC001790060100.txt,Nixon,person,10
+GDSC001790060100.txt,Koestler,person,8
+GDSC001790060100.txt,Nasser,person,29
+GDSC001790060100.txt,Huey P. Newton,person,23
+GDSC001790060100.txt,Abu Dhabi,person,9
+GDSC001790060100.txt,Ras,person,19
+GDSC001790060100.txt,King,person,20
+GDSC001790060100.txt,Kissinger,person,17
+GDSC001790060100.txt,Huey Newton,person,6
+GDSC001790060100.txt,Henry G. Fischer,person,7
+GDSC001790060100.txt,J.P. Stevens,person,6
+GDSC001790060100.txt,Sabri Jiryis,person,7
+GDSC001790060100.txt,Jiryis,person,9
+GDSC001790060100.txt,Carter,person,70
+GDSC001790060100.txt,Jimmy Carter,person,6
+GDSC001790060100.txt,Martin Luther King,person,21
+GDSC001790060100.txt,George Wiley,person,9
+GDSC001790060100.txt,Fred Hampton,person,12
+GDSC001790060100.txt,Sheehan,person,8
+GDSC001790060100.txt,Maktoum,person,6
+GDSC001790060100.txt,L. Humphrey Walz,person,6
+GDSC001790060100.txt,Davis,person,11
+GDSC001790060100.txt,Ray Vicker,person,8
+GDSC001790060100.txt,Begin,person,9
+GDSC001790060100.txt,Jr.,person,8
+GDSC001790060100.txt,George Jackson,person,7
+GDSC001790060100.txt,Commission,organization,24
+GDSC001790060100.txt,State,organization,7
+GDSC001790060100.txt,Congress,organization,9
+GDSC001790060100.txt,National Commission,organization,6
+GDSC001790060100.txt,IWY Commission,organization,6
+GDSC001790060100.txt,United Nations,organization,21
+GDSC001790060100.txt,Washington,location,11
+GDSC001790060100.txt,New York City,location,10
+GDSC001790060100.txt,United States of America,location,31
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,South Vietnam,location,10
+GDSC001790060100.txt,Paris,location,8
+GDSC001790060100.txt,United States of America,location,22
+GDSC001790060100.txt,Vietnam,location,40
+GDSC001790060100.txt,Stockholm,location,6
+GDSC001790060100.txt,Incorporated,organization,6
+GDSC001790060100.txt,Doc,organization,9
+GDSC001790060100.txt,USDA,organization,8
+GDSC001790060100.txt,Food Stamp Program,organization,8
+GDSC001790060100.txt,Planning Committee,organization,7
+GDSC001790060100.txt,Mississippi,location,9
+GDSC001790060100.txt,Greenville,location,9
+GDSC001790060100.txt,Bunton,person,6
+GDSC001790060100.txt,Range,person,9
+GDSC001790060100.txt,Clarence Hall,person,7
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,15
+GDSC001790060100.txt,ACLU,organization,23
+GDSC001790060100.txt,Mississippi,location,47
+GDSC001790060100.txt,New York City,location,7
+GDSC001790060100.txt,Sunflower County,location,9
+GDSC001790060100.txt,Joseph Harris,person,9
+GDSC001790060100.txt,White House,organization,9
+GDSC001790060100.txt,s Political Caucus,organization,10
+GDSC001790060100.txt,NARAL,organization,16
+GDSC001790060100.txt,SCF,organization,8
+GDSC001790060100.txt,Caucus,organization,6
+GDSC001790060100.txt,Federal Bureau of Investigation,organization,9
+GDSC001790060100.txt,Congress,organization,53
+GDSC001790060100.txt,House,organization,18
+GDSC001790060100.txt,Common Cause,organization,6
+GDSC001790060100.txt,National Women,organization,7
+GDSC001790060100.txt,Senate,organization,23
+GDSC001790060100.txt,Texas,location,21
+GDSC001790060100.txt,Connecticut,location,6
+GDSC001790060100.txt,New Jersey,location,7
+GDSC001790060100.txt,Washington,location,39
+GDSC001790060100.txt,New York City,location,42
+GDSC001790060100.txt,United States of America,location,46
+GDSC001790060100.txt,Memphis,location,7
+GDSC001790060100.txt,Washington D.C.,location,21
+GDSC001790060100.txt,Lloyd Bentsen,person,10
+GDSC001790060100.txt,Margaret Mead,person,10
+GDSC001790060100.txt,Jackson,person,12
+GDSC001790060100.txt,King,person,12
+GDSC001790060100.txt,Isaias,person,6
+GDSC001790060100.txt,Bentsen,person,47
+GDSC001790060100.txt,Carter,person,17
+GDSC001790060100.txt,Department,organization,35
+GDSC001790060100.txt,State Board of Elections,organization,17
+GDSC001790060100.txt,Department of Justice,organization,44
+GDSC001790060100.txt,Supreme Court,organization,9
+GDSC001790060100.txt,Civil Rights Division,organization,9
+GDSC001790060100.txt,Committee for Civil Rights Under Law,organization,7
+GDSC001790060100.txt,Congress,organization,13
+GDSC001790060100.txt,Charter Commission,organization,9
+GDSC001790060100.txt,Justice Department,organization,29
+GDSC001790060100.txt,United States of America,location,78
+GDSC001790060100.txt,Mississippi,location,57
+GDSC001790060100.txt,Louisiana,location,24
+GDSC001790060100.txt,South Dakota,location,6
+GDSC001790060100.txt,Washington,location,11
+GDSC001790060100.txt,Arizona,location,6
+GDSC001790060100.txt,Los Angeles,location,32
+GDSC001790060100.txt,Richmond,location,12
+GDSC001790060100.txt,Georgia,location,51
+GDSC001790060100.txt,North Carolina,location,11
+GDSC001790060100.txt,Virginia,location,14
+GDSC001790060100.txt,South Carolina,location,15
+GDSC001790060100.txt,Alabama,location,20
+GDSC001790060100.txt,South,location,14
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,Allen,person,8
+GDSC001790060100.txt,Johnson,person,8
+GDSC001790060100.txt,Kleindienst,person,6
+GDSC001790060100.txt,Perkins,person,7
+GDSC001790060100.txt,Mississippi,location,31
+GDSC001790060100.txt,Southwest Atlanta,location,8
+GDSC001790060100.txt,Atlanta,location,23
+GDSC001790060100.txt,Washington,location,15
+GDSC001790060100.txt,New York City,location,77
+GDSC001790060100.txt,Michigan,location,7
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Los Angeles,location,10
+GDSC001790060100.txt,California,location,11
+GDSC001790060100.txt,Georgia,location,33
+GDSC001790060100.txt,Northwest Washington,location,7
+GDSC001790060100.txt,Southern Africa,location,7
+GDSC001790060100.txt,Alabama,location,8
+GDSC001790060100.txt,Washington D.C.,location,29
+GDSC001790060100.txt,Tennessee,location,9
+GDSC001790060100.txt,N.W. Washington,person,7
+GDSC001790060100.txt,Alexander,person,6
+GDSC001790060100.txt,Jackson,person,9
+GDSC001790060100.txt,Fannie Lou Hamer,person,22
+GDSC001790060100.txt,Cookman College,organization,15
+GDSC001790060100.txt,Maternal and Child Care Program,organization,6
+GDSC001790060100.txt,General Debate Tribune,organization,8
+GDSC001790060100.txt,Federal Women,organization,7
+GDSC001790060100.txt,National Council of Negro Women,organization,22
+GDSC001790060100.txt,Howard University,organization,8
+GDSC001790060100.txt,NCNW,organization,56
+GDSC001790060100.txt,Tribune,organization,15
+GDSC001790060100.txt,United Nations,organization,26
+GDSC001790060100.txt,Meharry Medical College Health,organization,8
+GDSC001790060100.txt,s Association,organization,6
+GDSC001790060100.txt,Mississippi,location,62
+GDSC001790060100.txt,Swaziland,location,10
+GDSC001790060100.txt,Louisiana,location,6
+GDSC001790060100.txt,Ghana,location,19
+GDSC001790060100.txt,Atlanta,location,14
+GDSC001790060100.txt,Latin America,location,13
+GDSC001790060100.txt,Jamaica,location,9
+GDSC001790060100.txt,New Jersey,location,22
+GDSC001790060100.txt,Kenya,location,11
+GDSC001790060100.txt,Caribbean,location,41
+GDSC001790060100.txt,Northwest,location,6
+GDSC001790060100.txt,Maryland,location,8
+GDSC001790060100.txt,New York City,location,60
+GDSC001790060100.txt,United States of America,location,62
+GDSC001790060100.txt,Daytona Beach,location,11
+GDSC001790060100.txt,Dominican Republic,location,9
+GDSC001790060100.txt,Florida,location,25
+GDSC001790060100.txt,Bronx,location,9
+GDSC001790060100.txt,Virginia,location,6
+GDSC001790060100.txt,Senegal,location,8
+GDSC001790060100.txt,Trinidad,location,7
+GDSC001790060100.txt,Mexico City,location,14
+GDSC001790060100.txt,Oklahoma,location,6
+GDSC001790060100.txt,Tobago,location,6
+GDSC001790060100.txt,Nigeria,location,15
+GDSC001790060100.txt,Jacksonville,location,7
+GDSC001790060100.txt,Georgia,location,17
+GDSC001790060100.txt,Shreveport,location,6
+GDSC001790060100.txt,Pennsylvania,location,7
+GDSC001790060100.txt,Washington,location,40
+GDSC001790060100.txt,South Africa,location,6
+GDSC001790060100.txt,Africa,location,38
+GDSC001790060100.txt,Cleveland,location,6
+GDSC001790060100.txt,Florence,location,8
+GDSC001790060100.txt,Tanzania,location,18
+GDSC001790060100.txt,Zambia,location,8
+GDSC001790060100.txt,Trinidad and Tobago,location,6
+GDSC001790060100.txt,South Carolina,location,10
+GDSC001790060100.txt,Uganda,location,17
+GDSC001790060100.txt,Washington D.C.,location,38
+GDSC001790060100.txt,Mexico,location,17
+GDSC001790060100.txt,Botswana,location,8
+GDSC001790060100.txt,Mary McLeod Bethune,person,9
+GDSC001790060100.txt,Victoria Mojekwu,person,6
+GDSC001790060100.txt,Agyepong,person,7
+GDSC001790060100.txt,Dorothy I. Height,person,6
+GDSC001790060100.txt,Salimatu Diallo,person,6
+GDSC001790060100.txt,Jackson,person,16
+GDSC001790060100.txt,Guillermina De Jorge,person,7
+GDSC001790060100.txt,Emma Agyepong,person,8
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Mound Bayou,location,6
+GDSC001790060100.txt,Emilio Q. Daddario,person,8
+GDSC001790060100.txt,Mark DeWolfe,person,6
+GDSC001790060100.txt,John L.S. Holloman,person,9
+GDSC001790060100.txt,Mississippi Dear Joe,person,8
+GDSC001790060100.txt,Joseph Harris,person,12
+GDSC001790060100.txt,Sandy,person,6
+GDSC001790060100.txt,Benjamin S. Rosenthal,person,8
+GDSC001790060100.txt,Leo Pfeffer,person,9
+GDSC001790060100.txt,Fannie Lou Hamer,person,16
+GDSC001790060100.txt,Eleanor H. Norton,person,8
+GDSC001790060100.txt,Lawrence Guyot,person,7
+GDSC001790060100.txt,Charles C. Diggs,person,6
+GDSC001790060100.txt,Paul J. Krebs,person,9
+GDSC001790060100.txt,Sandra Nystrom,person,17
+GDSC001790060100.txt,Pemberton,person,8
+GDSC001790060100.txt,Joseph Harris Box,person,7
+GDSC001790060100.txt,Ahmann Milnor,person,8
+GDSC001790060100.txt,Charles Cogen,person,8
+GDSC001790060100.txt,Connor Carl Oglesby,person,8
+GDSC001790060100.txt,Moorhead,person,13
+GDSC001790060100.txt,Mississippi,location,26
+GDSC001790060100.txt,New York City,location,45
+GDSC001790060100.txt,Sunflower County,location,22
+GDSC001790060100.txt,South,location,7
+GDSC001790060100.txt,Washington,location,20
+GDSC001790060100.txt,Broadway,location,15
+GDSC001790060100.txt,National Committee,organization,19
+GDSC001790060100.txt,Sunflower City Election Fund,organization,7
+GDSC001790060100.txt,Party,organization,25
+GDSC001790060100.txt,Credential Committee,organization,6
+GDSC001790060100.txt,National Candidate,organization,6
+GDSC001790060100.txt,Freedom Democratic Party,organization,11
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,31
+GDSC001790060100.txt,MFDP,organization,6
+GDSC001790060100.txt,Committee,organization,6
+GDSC001790060100.txt,Mississippi,location,46
+GDSC001790060100.txt,Chicago,location,14
+GDSC001790060100.txt,United States of America,location,7
+GDSC001790060100.txt,Joseph Harris,person,10
+GDSC001790060100.txt,Fannie Lou Hamer,person,8
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,8
+GDSC001790060100.txt,Mississippi,location,33
+GDSC001790060100.txt,New York City,location,11
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,6
+GDSC001790060100.txt,Democratic Party,organization,6
+GDSC001790060100.txt,Mississippi,location,27
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,Joseph Harris,person,10
+GDSC001790060100.txt,Incorporated,organization,7
+GDSC001790060100.txt,Office of Education,organization,47
+GDSC001790060100.txt,State,organization,85
+GDSC001790060100.txt,LDF,organization,6
+GDSC001790060100.txt,HEW Audit Agency,organization,24
+GDSC001790060100.txt,Congress,organization,33
+GDSC001790060100.txt,State Department of Education,organization,9
+GDSC001790060100.txt,NAACP Legal Defense and Education Fund,organization,9
+GDSC001790060100.txt,State Agency,organization,6
+GDSC001790060100.txt,ESEA,organization,25
+GDSC001790060100.txt,Mississippi,location,52
+GDSC001790060100.txt,Illinois,location,20
+GDSC001790060100.txt,Indiana,location,8
+GDSC001790060100.txt,Louisiana,location,7
+GDSC001790060100.txt,South Carolina,location,17
+GDSC001790060100.txt,Bakersfield,location,6
+GDSC001790060100.txt,Wisconsin,location,6
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,Michigan,location,14
+GDSC001790060100.txt,United States of America,location,10
+GDSC001790060100.txt,Massachusetts,location,6
+GDSC001790060100.txt,Ohio,location,8
+GDSC001790060100.txt,California,location,25
+GDSC001790060100.txt,SEC,location,11
+GDSC001790060100.txt,Georgia,location,15
+GDSC001790060100.txt,Pennsylvania,location,6
+GDSC001790060100.txt,Chicago,location,11
+GDSC001790060100.txt,Oxford,location,10
+GDSC001790060100.txt,Alabama,location,12
+GDSC001790060100.txt,States,location,34
+GDSC001790060100.txt,Tennessee,location,6
+GDSC001790060100.txt,Sharkey,person,6
+GDSC001790060100.txt,Clarence Hall,person,6
+GDSC001790060100.txt,Shaw University,organization,6
+GDSC001790060100.txt,Tougaloo College,organization,6
+GDSC001790060100.txt,House,organization,6
+GDSC001790060100.txt,Mississippi,location,48
+GDSC001790060100.txt,Sunflower County,location,12
+GDSC001790060100.txt,Ruleville,location,19
+GDSC001790060100.txt,Fannie Lou Hamer,person,71
+GDSC001790060100.txt,Liberty Outlet House,organization,9
+GDSC001790060100.txt,Liberty House,organization,23
+GDSC001790060100.txt,Congress,organization,10
+GDSC001790060100.txt,PPC,organization,16
+GDSC001790060100.txt,SCLC,organization,23
+GDSC001790060100.txt,Campaign,organization,10
+GDSC001790060100.txt,Poor People,organization,12
+GDSC001790060100.txt,Mississippi,location,23
+GDSC001790060100.txt,Atlanta,location,11
+GDSC001790060100.txt,Washington,location,69
+GDSC001790060100.txt,United States of America,location,37
+GDSC001790060100.txt,North Carolina,location,6
+GDSC001790060100.txt,Memphis,location,25
+GDSC001790060100.txt,Georgia,location,16
+GDSC001790060100.txt,Chicago,location,6
+GDSC001790060100.txt,Virginia,location,6
+GDSC001790060100.txt,Alabama,location,8
+GDSC001790060100.txt,Washington D.C.,location,12
+GDSC001790060100.txt,Jackson,person,15
+GDSC001790060100.txt,King,person,11
+GDSC001790060100.txt,Martin Luther King Jr.,person,9
+GDSC001790060100.txt,Abernathy,person,12
+GDSC001790060100.txt,Ralph David Abernathy,person,8
+GDSC001790060100.txt,Board,organization,8
+GDSC001790060100.txt,DOC Board,organization,8
+GDSC001790060100.txt,Delta Opportunities Corporation,organization,12
+GDSC001790060100.txt,Office of Economic Opportunity,organization,9
+GDSC001790060100.txt,Doc,organization,31
+GDSC001790060100.txt,Incorporated,organization,7
+GDSC001790060100.txt,OEO,organization,13
+GDSC001790060100.txt,Mississippi,location,10
+GDSC001790060100.txt,Greenville,location,8
+GDSC001790060100.txt,LMSA,organization,10
+GDSC001790060100.txt,OSHA,organization,18
+GDSC001790060100.txt,Department of Labor,organization,11
+GDSC001790060100.txt,University of Tennessee,organization,6
+GDSC001790060100.txt,National Office,organization,18
+GDSC001790060100.txt,Mississippi,location,24
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,United States of America,location,23
+GDSC001790060100.txt,Tennessee,location,27
+GDSC001790060100.txt,Memphis,location,7
+GDSC001790060100.txt,Washington D.C.,location,8
+GDSC001790060100.txt,Washington,location,9
+GDSC001790060100.txt,Jackson,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,8
+GDSC001790060100.txt,Turley,person,6
+GDSC001790060100.txt,Thomas F. Turley,person,11
+GDSC001790060100.txt,BA,organization,9
+GDSC001790060100.txt,Delta Ministry,organization,66
+GDSC001790060100.txt,Ministry,organization,10
+GDSC001790060100.txt,National Council of Churches,organization,6
+GDSC001790060100.txt,Mississippi,location,122
+GDSC001790060100.txt,Bolivar County,location,7
+GDSC001790060100.txt,Mount Beulah,location,11
+GDSC001790060100.txt,Iowa,location,6
+GDSC001790060100.txt,New York City,location,19
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Greenville,location,59
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Freedom City,location,6
+GDSC001790060100.txt,Issaquena County,location,6
+GDSC001790060100.txt,Memphis,location,7
+GDSC001790060100.txt,Cleveland,location,11
+GDSC001790060100.txt,Hattiesburg,location,9
+GDSC001790060100.txt,Tennessee,location,7
+GDSC001790060100.txt,Chicago,location,10
+GDSC001790060100.txt,Christ,person,9
+GDSC001790060100.txt,McComb,person,6
+GDSC001790060100.txt,Jackson,person,6
+GDSC001790060100.txt,Edwards,person,28
+GDSC001790060100.txt,Glen Allan,person,8
+GDSC001790060100.txt,APIC,organization,11
+GDSC001790060100.txt,HUAC,organization,6
+GDSC001790060100.txt,Mount Beulah,location,6
+GDSC001790060100.txt,North Carolina,location,7
+GDSC001790060100.txt,Mike,person,10
+GDSC001790060100.txt,Mississippi,location,14
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,James Street Ruleville,person,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,27
+GDSC001790060100.txt,Freedom Farm Corporation,organization,38
+GDSC001790060100.txt,Mississippi,location,26
+GDSC001790060100.txt,Sunflower County,location,8
+GDSC001790060100.txt,Ruleville,location,6
+GDSC001790060100.txt,Joseph Harris,person,7
+GDSC001790060100.txt,Moorhead,person,13
+GDSC001790060100.txt,Kiplinger Agricultural Letter,organization,11
+GDSC001790060100.txt,CCF,organization,16
+GDSC001790060100.txt,Medicare,organization,6
+GDSC001790060100.txt,Washington,location,8
+GDSC001790060100.txt,Congress,organization,7
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,8
+GDSC001790060100.txt,Tougaloo College,organization,6
+GDSC001790060100.txt,Incorporated,organization,6
+GDSC001790060100.txt,SNCC,organization,6
+GDSC001790060100.txt,Mississippi,location,59
+GDSC001790060100.txt,Sunflower County,location,13
+GDSC001790060100.txt,Montgomery,location,6
+GDSC001790060100.txt,New Jersey,location,7
+GDSC001790060100.txt,Atlantic City,location,6
+GDSC001790060100.txt,Ruleville,location,16
+GDSC001790060100.txt,Fannie Lou Hamer,person,95
+GDSC001790060100.txt,Congress,organization,8
+GDSC001790060100.txt,Tallahatchie County,location,10
+GDSC001790060100.txt,Mississippi,location,10
+GDSC001790060100.txt,Charleston,location,9
+GDSC001790060100.txt,Johnson,person,9
+GDSC001790060100.txt,Chicago,location,9
+GDSC001790060100.txt,New York City,location,8
+GDSC001790060100.txt,Mississippi,location,10
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,11
+GDSC001790060100.txt,Mississippi,location,34
+GDSC001790060100.txt,California,location,12
+GDSC001790060100.txt,Joseph Harris,person,22
+GDSC001790060100.txt,Party,organization,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,42
+GDSC001790060100.txt,Mississippi,location,38
+GDSC001790060100.txt,New York City,location,11
+GDSC001790060100.txt,James,person,6
+GDSC001790060100.txt,Joseph Harris,person,11
+GDSC001790060100.txt,Mandy,person,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,10
+GDSC001790060100.txt,Sandra Nystrom,person,10
+GDSC001790060100.txt,A. Philip Randolph Institute,organization,14
+GDSC001790060100.txt,NAACP,organization,6
+GDSC001790060100.txt,Freedom Budget,organization,44
+GDSC001790060100.txt,CIO,organization,10
+GDSC001790060100.txt,Congress,organization,17
+GDSC001790060100.txt,Mississippi,location,7
+GDSC001790060100.txt,United States of America,location,32
+GDSC001790060100.txt,Detroit,location,8
+GDSC001790060100.txt,Alabama,location,6
+GDSC001790060100.txt,South,location,8
+GDSC001790060100.txt,Washington,location,11
+GDSC001790060100.txt,States,location,13
+GDSC001790060100.txt,New York City,location,25
+GDSC001790060100.txt,A. Philip Randolph,person,12
+GDSC001790060100.txt,Bayard Rustin,person,16
+GDSC001790060100.txt,SCLC,organization,57
+GDSC001790060100.txt,State,organization,8
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,Louisiana,location,7
+GDSC001790060100.txt,Atlanta,location,16
+GDSC001790060100.txt,Washington,location,9
+GDSC001790060100.txt,New York City,location,10
+GDSC001790060100.txt,United States of America,location,19
+GDSC001790060100.txt,Montgomery,location,6
+GDSC001790060100.txt,South,location,11
+GDSC001790060100.txt,Memphis,location,7
+GDSC001790060100.txt,Georgia,location,13
+GDSC001790060100.txt,Charleston,location,65
+GDSC001790060100.txt,New Orleans,location,15
+GDSC001790060100.txt,South Carolina,location,21
+GDSC001790060100.txt,Alabama,location,14
+GDSC001790060100.txt,Montgomery,person,6
+GDSC001790060100.txt,Abernathy,person,33
+GDSC001790060100.txt,Martin Luther King,person,9
+GDSC001790060100.txt,King,person,9
+GDSC001790060100.txt,Ralph David Abernathy,person,21
+GDSC001790060100.txt,Supreme Court,organization,21
+GDSC001790060100.txt,Tougaloo College,organization,12
+GDSC001790060100.txt,National Board,organization,6
+GDSC001790060100.txt,State Department,organization,14
+GDSC001790060100.txt,Congress,organization,42
+GDSC001790060100.txt,Senate,organization,8
+GDSC001790060100.txt,Incorporated,organization,10
+GDSC001790060100.txt,AEC,organization,7
+GDSC001790060100.txt,National Committee,organization,7
+GDSC001790060100.txt,GSW,organization,17
+GDSC001790060100.txt,SANE,organization,8
+GDSC001790060100.txt,Pentagon,organization,19
+GDSC001790060100.txt,Army,organization,15
+GDSC001790060100.txt,Coalition,organization,23
+GDSC001790060100.txt,CIA,organization,7
+GDSC001790060100.txt,U. S.,organization,11
+GDSC001790060100.txt,United Nations,organization,10
+GDSC001790060100.txt,AFSC,organization,18
+GDSC001790060100.txt,Mississippi,location,31
+GDSC001790060100.txt,Paris,location,7
+GDSC001790060100.txt,Middle East,location,32
+GDSC001790060100.txt,Louisiana,location,14
+GDSC001790060100.txt,South Vietnam,location,10
+GDSC001790060100.txt,Atlanta,location,24
+GDSC001790060100.txt,Jamaica,location,13
+GDSC001790060100.txt,Miami,location,8
+GDSC001790060100.txt,South Korea,location,8
+GDSC001790060100.txt,Seattle,location,8
+GDSC001790060100.txt,Prince,location,10
+GDSC001790060100.txt,Gulf,location,11
+GDSC001790060100.txt,Tougaloo,location,6
+GDSC001790060100.txt,New York City,location,36
+GDSC001790060100.txt,United States of America,location,141
+GDSC001790060100.txt,Massachusetts,location,7
+GDSC001790060100.txt,Dominican Republic,location,20
+GDSC001790060100.txt,Europe,location,8
+GDSC001790060100.txt,Florida,location,19
+GDSC001790060100.txt,Vietnam,location,44
+GDSC001790060100.txt,Kentucky,location,11
+GDSC001790060100.txt,Latin America,location,7
+GDSC001790060100.txt,Boston,location,13
+GDSC001790060100.txt,Louisville,location,8
+GDSC001790060100.txt,Washington,location,32
+GDSC001790060100.txt,La Romana,location,6
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Haiti,location,53
+GDSC001790060100.txt,Philippines,location,7
+GDSC001790060100.txt,Africa,location,8
+GDSC001790060100.txt,South Africa,location,15
+GDSC001790060100.txt,Texas,location,10
+GDSC001790060100.txt,Saigon,location,6
+GDSC001790060100.txt,Italy,location,7
+GDSC001790060100.txt,Chicago,location,17
+GDSC001790060100.txt,Georgia,location,37
+GDSC001790060100.txt,North Carolina,location,36
+GDSC001790060100.txt,Israel,location,11
+GDSC001790060100.txt,Czechoslovakia,location,9
+GDSC001790060100.txt,Tennessee,location,17
+GDSC001790060100.txt,Park Ave. So.,location,9
+GDSC001790060100.txt,Alabama,location,9
+GDSC001790060100.txt,South,location,7
+GDSC001790060100.txt,Soviet Union,location,8
+GDSC001790060100.txt,Washington D.C.,location,13
+GDSC001790060100.txt,Chapel Hill,location,6
+GDSC001790060100.txt,U. S.,location,11
+GDSC001790060100.txt,Thomas,person,14
+GDSC001790060100.txt,McCarthy,person,8
+GDSC001790060100.txt,Spock,person,15
+GDSC001790060100.txt,Homer Jack,person,6
+GDSC001790060100.txt,Michael Harrington,person,7
+GDSC001790060100.txt,Jack,person,6
+GDSC001790060100.txt,George A. Owens,person,6
+GDSC001790060100.txt,Lewis,person,7
+GDSC001790060100.txt,Nixon,person,6
+GDSC001790060100.txt,Simons,person,16
+GDSC001790060100.txt,Jackson,person,15
+GDSC001790060100.txt,Marcos,person,11
+GDSC001790060100.txt,Duvalier,person,6
+GDSC001790060100.txt,Norman Thomas,person,9
+GDSC001790060100.txt,Johnson,person,6
+GDSC001790060100.txt,H. Stuart Hughes,person,6
+GDSC001790060100.txt,Carter,person,31
+GDSC001790060100.txt,Jimmy Carter,person,7
+GDSC001790060100.txt,Sanford Gottlieb,person,15
+GDSC001790060100.txt,Tougaloo,person,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,14
+GDSC001790060100.txt,Congress,organization,6
+GDSC001790060100.txt,Justice Department,organization,19
+GDSC001790060100.txt,Mississippi,location,50
+GDSC001790060100.txt,Manhattan,location,6
+GDSC001790060100.txt,New York City,location,19
+GDSC001790060100.txt,United States of America,location,6
+GDSC001790060100.txt,New York City City,location,7
+GDSC001790060100.txt,Sunflower County,location,26
+GDSC001790060100.txt,South,location,6
+GDSC001790060100.txt,Dwyer,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,8
+GDSC001790060100.txt,William F. Ryan,person,7
+GDSC001790060100.txt,Eleanor Holmes Norton,person,6
+GDSC001790060100.txt,Moorhead,person,13
+GDSC001790060100.txt,Office Manager Mississippi Freedom Democratic Party,organization,7
+GDSC001790060100.txt,Mississippi,location,29
+GDSC001790060100.txt,New York City,location,12
+GDSC001790060100.txt,Washington,location,8
+GDSC001790060100.txt,Harris,person,11
+GDSC001790060100.txt,Joseph Harris,person,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,18
+GDSC001790060100.txt,Committee,organization,6
+GDSC001790060100.txt,Masonic Temple,organization,6
+GDSC001790060100.txt,NAACP,organization,10
+GDSC001790060100.txt,MFDP,organization,9
+GDSC001790060100.txt,Miss.Democratic Party,organization,13
+GDSC001790060100.txt,Millsaps College,organization,7
+GDSC001790060100.txt,Mississippi,location,85
+GDSC001790060100.txt,Chicago,location,12
+GDSC001790060100.txt,United States of America,location,13
+GDSC001790060100.txt,Sunflower County,location,9
+GDSC001790060100.txt,Washington,location,7
+GDSC001790060100.txt,Phillips,person,8
+GDSC001790060100.txt,Harris,person,8
+GDSC001790060100.txt,Joseph Harris,person,12
+GDSC001790060100.txt,Jackson,person,8
+GDSC001790060100.txt,Lawrence Guyot,person,7
+GDSC001790060100.txt,Delta Foundation,organization,8
+GDSC001790060100.txt,Delta Ministry,organization,74
+GDSC001790060100.txt,Council,organization,26
+GDSC001790060100.txt,General Board,organization,6
+GDSC001790060100.txt,Delta,organization,9
+GDSC001790060100.txt,Church World Service,organization,6
+GDSC001790060100.txt,Mississippi,location,57
+GDSC001790060100.txt,Hinds County,location,6
+GDSC001790060100.txt,Washington,location,7
+GDSC001790060100.txt,Yazoo City,location,6
+GDSC001790060100.txt,United States of America,location,13
+GDSC001790060100.txt,Sunflower County,location,7
+GDSC001790060100.txt,County,location,6
+GDSC001790060100.txt,Indianola,location,7
+GDSC001790060100.txt,Edwards,person,13
+GDSC001790060100.txt,Delta Ministry,organization,8
+GDSC001790060100.txt,CDGM,organization,7
+GDSC001790060100.txt,KKK,organization,8
+GDSC001790060100.txt,Congress,organization,7
+GDSC001790060100.txt,MDP,organization,7
+GDSC001790060100.txt,Free Democratic Party,organization,22
+GDSC001790060100.txt,NAACP,organization,12
+GDSC001790060100.txt,MFDP,organization,16
+GDSC001790060100.txt,Democratic Party,organization,6
+GDSC001790060100.txt,Mississippi,location,111
+GDSC001790060100.txt,Sunflower,location,7
+GDSC001790060100.txt,United States of America,location,10
+GDSC001790060100.txt,Hattiesburg,location,6
+GDSC001790060100.txt,Jackson,person,10
+GDSC001790060100.txt,Boyd,person,14
+GDSC001790060100.txt,Lawrence Guyot,person,12
+GDSC001790060100.txt,Evers,person,6
+GDSC001790060100.txt,Eastland,person,6
+GDSC001790060100.txt,Kennedy,person,10
+GDSC001790060100.txt,Humphrey,person,12
+GDSC001790060100.txt,Clark,person,6
+GDSC001790060100.txt,Bishop,person,7
+GDSC001790060100.txt,SCEF,organization,13
+GDSC001790060100.txt,McClellan Committee,organization,7
+GDSC001790060100.txt,Southern Conference Educational Fund,organization,6
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,Louisville,location,18
+GDSC001790060100.txt,Louisiana,location,8
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Eastland,location,6
+GDSC001790060100.txt,Kentucky,location,19
+GDSC001790060100.txt,W. Broadway,location,10
+GDSC001790060100.txt,Eastland,person,10
+GDSC001790060100.txt,Kinoy,person,6
+GDSC001790060100.txt,United Nations,organization,16
+GDSC001790060100.txt,Incorporated,organization,18
+GDSC001790060100.txt,Institute,organization,33
+GDSC001790060100.txt,ETA,organization,9
+GDSC001790060100.txt,SASP,organization,11
+GDSC001790060100.txt,Congress,organization,9
+GDSC001790060100.txt,AAI,organization,74
+GDSC001790060100.txt,American Institute,organization,8
+GDSC001790060100.txt,Kinshasa,location,8
+GDSC001790060100.txt,Ethiopia,location,9
+GDSC001790060100.txt,Ghana,location,7
+GDSC001790060100.txt,Tanzania,location,9
+GDSC001790060100.txt,Washington,location,10
+GDSC001790060100.txt,Lesotho,location,8
+GDSC001790060100.txt,Kenya,location,14
+GDSC001790060100.txt,New York City,location,20
+GDSC001790060100.txt,United States of America,location,70
+GDSC001790060100.txt,Southern Rhodesia,location,8
+GDSC001790060100.txt,Mozambique,location,15
+GDSC001790060100.txt,Uganda,location,6
+GDSC001790060100.txt,Ivory Coast,location,6
+GDSC001790060100.txt,Nigeria,location,11
+GDSC001790060100.txt,Wye Plantation,location,6
+GDSC001790060100.txt,Namibia,location,8
+GDSC001790060100.txt,Angola,location,16
+GDSC001790060100.txt,South Africa,location,9
+GDSC001790060100.txt,Africa,location,80
+GDSC001790060100.txt,Zaire,location,32
+GDSC001790060100.txt,Zambia,location,11
+GDSC001790060100.txt,Bissau,location,12
+GDSC001790060100.txt,Botswana,location,13
+GDSC001790060100.txt,Ruleville,location,7
+GDSC001790060100.txt,Gentry High School,organization,6
+GDSC001790060100.txt,Carver Elementary School,organization,6
+GDSC001790060100.txt,Mississippi,location,10
+GDSC001790060100.txt,Delta Ministry,organization,6
+GDSC001790060100.txt,National Committee,organization,6
+GDSC001790060100.txt,Mississippi,location,39
+GDSC001790060100.txt,New York City,location,37
+GDSC001790060100.txt,Sunflower County,location,11
+GDSC001790060100.txt,Broadway,location,11
+GDSC001790060100.txt,John L.S. Holloman,person,11
+GDSC001790060100.txt,Ben Neufeld Robert N. C. Nix Frank D.,person,8
+GDSC001790060100.txt,Charles Cogen Jeffery Cohelan John Conyers,person,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,20
+GDSC001790060100.txt,Joseph Harris,person,12
+GDSC001790060100.txt,Benjamin S. Rosenthal,person,10
+GDSC001790060100.txt,Connor Carl Oglesby Benjamin F. Payton John deJ,person,7
+GDSC001790060100.txt,Paul J. Krebs,person,8
+GDSC001790060100.txt,Emilio Q. Daddario Leon Davis Noel Day Vine Deloria,person,6
+GDSC001790060100.txt,Arthur Kinoy,person,6
+GDSC001790060100.txt,Leo Pfeffer,person,9
+GDSC001790060100.txt,Charles C. Diggs,person,7
+GDSC001790060100.txt,Eleanor H. Norton,person,9
+GDSC001790060100.txt,Sandra Nystrom,person,15
+GDSC001790060100.txt,Pemberton,person,7
+GDSC001790060100.txt,Ahmann Milnor,person,8
+GDSC001790060100.txt,ACLU,organization,24
+GDSC001790060100.txt,Mississippi,location,29
+GDSC001790060100.txt,New York City,location,10
+GDSC001790060100.txt,Joseph Harris,person,8
+GDSC001790060100.txt,Supreme Court,organization,6
+GDSC001790060100.txt,University of Wisconsin,organization,9
+GDSC001790060100.txt,ACLU,organization,86
+GDSC001790060100.txt,American Civil Liberties Union,organization,6
+GDSC001790060100.txt,Indiana,location,7
+GDSC001790060100.txt,Wisconsin,location,7
+GDSC001790060100.txt,New York City,location,30
+GDSC001790060100.txt,United States of America,location,10
+GDSC001790060100.txt,Oregon,location,10
+GDSC001790060100.txt,Furman,location,15
+GDSC001790060100.txt,Massachusetts,location,9
+GDSC001790060100.txt,Florida,location,7
+GDSC001790060100.txt,Ohio,location,7
+GDSC001790060100.txt,North Carolina,location,9
+GDSC001790060100.txt,New Mexico,location,6
+GDSC001790060100.txt,California,location,7
+GDSC001790060100.txt,Georgia,location,10
+GDSC001790060100.txt,Pennsylvania,location,10
+GDSC001790060100.txt,Virginia,location,7
+GDSC001790060100.txt,Vermont,location,10
+GDSC001790060100.txt,Milwaukee,location,17
+GDSC001790060100.txt,Portland,location,6
+GDSC001790060100.txt,NCCCB,organization,6
+GDSC001790060100.txt,CWashington D.C.,organization,67
+GDSC001790060100.txt,CDB,organization,13
+GDSC001790060100.txt,SBA,organization,7
+GDSC001790060100.txt,Mississippi,location,15
+GDSC001790060100.txt,Illinois,location,6
+GDSC001790060100.txt,Supreme Court,organization,9
+GDSC001790060100.txt,National Association,organization,9
+GDSC001790060100.txt,Department of Housing and Urban Development,organization,27
+GDSC001790060100.txt,National Board of Directors,organization,6
+GDSC001790060100.txt,Congress,organization,28
+GDSC001790060100.txt,Association,organization,7
+GDSC001790060100.txt,NAACP,organization,110
+GDSC001790060100.txt,National Office,organization,22
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,New York City,location,30
+GDSC001790060100.txt,United States of America,location,28
+GDSC001790060100.txt,Memphis,location,9
+GDSC001790060100.txt,Namibia,location,6
+GDSC001790060100.txt,South Africa,location,9
+GDSC001790060100.txt,New Jersey,location,6
+GDSC001790060100.txt,Boston,location,7
+GDSC001790060100.txt,Morgan State University,organization,8
+GDSC001790060100.txt,Mississippi,location,47
+GDSC001790060100.txt,Washington,location,16
+GDSC001790060100.txt,Maryland,location,61
+GDSC001790060100.txt,New York City,location,20
+GDSC001790060100.txt,United States of America,location,9
+GDSC001790060100.txt,California,location,7
+GDSC001790060100.txt,Washington D.C.,location,12
+GDSC001790060100.txt,Baltimore,location,68
+GDSC001790060100.txt,Ruleville,location,19
+GDSC001790060100.txt,Black,person,6
+GDSC001790060100.txt,Jackson,person,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,60
+GDSC001790060100.txt,Federal Court,organization,9
+GDSC001790060100.txt,County Freedom Democratic Party,organization,7
+GDSC001790060100.txt,County Election Commission,organization,8
+GDSC001790060100.txt,General Civil Rights Division Department of Justice Washington,organization,9
+GDSC001790060100.txt,Mississippi,location,9
+GDSC001790060100.txt,New Capitol Building Jackson,location,7
+GDSC001790060100.txt,United States of America,location,9
+GDSC001790060100.txt,John Doar,person,9
+GDSC001790060100.txt,Washington Washington D.C.,person,7
+GDSC001790060100.txt,Joe T. Patterson,person,9
+GDSC001790060100.txt,Patterson,person,7
+GDSC001790060100.txt,Supreme Court,organization,15
+GDSC001790060100.txt,ICRC,organization,8
+GDSC001790060100.txt,Congress,organization,12
+GDSC001790060100.txt,Reuters,organization,8
+GDSC001790060100.txt,Orlando Letelier,organization,6
+GDSC001790060100.txt,D,organization,10
+GDSC001790060100.txt,International Red Cross,organization,8
+GDSC001790060100.txt,Red Cross,organization,43
+GDSC001790060100.txt,United Nations,organization,18
+GDSC001790060100.txt,Clairol,organization,23
+GDSC001790060100.txt,Mississippi,location,28
+GDSC001790060100.txt,Jordan,location,20
+GDSC001790060100.txt,New York City City,location,7
+GDSC001790060100.txt,East JerJerusalemlem,location,6
+GDSC001790060100.txt,Washington,location,14
+GDSC001790060100.txt,Amman,location,9
+GDSC001790060100.txt,New York City,location,13
+GDSC001790060100.txt,United States of America,location,35
+GDSC001790060100.txt,West Bank,location,27
+GDSC001790060100.txt,Ohio,location,6
+GDSC001790060100.txt,Nablus,location,12
+GDSC001790060100.txt,Sarafand,location,18
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Chile,location,9
+GDSC001790060100.txt,JerJerusalemlem,location,25
+GDSC001790060100.txt,Tel Aviv,location,6
+GDSC001790060100.txt,Hebron,location,16
+GDSC001790060100.txt,Bethlehem,location,10
+GDSC001790060100.txt,Northwest Washington,location,6
+GDSC001790060100.txt,Gaza,location,20
+GDSC001790060100.txt,Ramallah,location,17
+GDSC001790060100.txt,Vietnam,location,16
+GDSC001790060100.txt,Israel,location,173
+GDSC001790060100.txt,Washington D.C.,location,15
+GDSC001790060100.txt,Tennessee,location,8
+GDSC001790060100.txt,Orlando Letelier,person,7
+GDSC001790060100.txt,Hopkins,person,6
+GDSC001790060100.txt,Haddad,person,7
+GDSC001790060100.txt,Abdel,person,9
+GDSC001790060100.txt,Mughrabi,person,6
+GDSC001790060100.txt,Odeh,person,12
+GDSC001790060100.txt,Jesus,person,18
+GDSC001790060100.txt,Amira,person,6
+GDSC001790060100.txt,Felicia Langer,person,8
+GDSC001790060100.txt,Moyer,person,34
+GDSC001790060100.txt,Langer,person,9
+GDSC001790060100.txt,Helen Hayes,person,6
+GDSC001790060100.txt,Hassan Harb,person,6
+GDSC001790060100.txt,Ghabiyr,person,6
+GDSC001790060100.txt,Rasmiah,person,6
+GDSC001790060100.txt,Harb,person,96
+GDSC001790060100.txt,Chavez,person,35
+GDSC001790060100.txt,Shirley Chisholm,person,6
+GDSC001790060100.txt,Omar,person,7
+GDSC001790060100.txt,Orli,person,8
+GDSC001790060100.txt,Shaklee,person,17
+GDSC001790060100.txt,Lea Tsemel,person,6
+GDSC001790060100.txt,David,person,6
+GDSC001790060100.txt,Tsemel,person,15
+GDSC001790060100.txt,Ronni Karpen Moffitt,person,11
+GDSC001790060100.txt,Doron,person,14
+GDSC001790060100.txt,Karim,person,87
+GDSC001790060100.txt,Congress,organization,6
+GDSC001790060100.txt,NWPC,organization,7
+GDSC001790060100.txt,Soledad Brothers,organization,6
+GDSC001790060100.txt,Mississippi,location,27
+GDSC001790060100.txt,San Francisco,location,7
+GDSC001790060100.txt,Washington,location,8
+GDSC001790060100.txt,Soledad,location,10
+GDSC001790060100.txt,San Quentin,location,30
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,United States of America,location,12
+GDSC001790060100.txt,Miami Beach,location,6
+GDSC001790060100.txt,Florida,location,7
+GDSC001790060100.txt,Marin County,location,13
+GDSC001790060100.txt,California,location,12
+GDSC001790060100.txt,George Jackson,person,9
+GDSC001790060100.txt,Hugo Pinell,person,11
+GDSC001790060100.txt,Stoll,person,10
+GDSC001790060100.txt,Jackson,person,14
+GDSC001790060100.txt,Fannie Lou Hamer,person,18
+GDSC001790060100.txt,McMichael,person,6
+GDSC001790060100.txt,Farenthold,person,14
+GDSC001790060100.txt,John Clutchette,person,6
+GDSC001790060100.txt,David Johnson,person,9
+GDSC001790060100.txt,Luis Talamantez,person,6
+GDSC001790060100.txt,Willie Tate,person,10
+GDSC001790060100.txt,Billingslea,person,7
+GDSC001790060100.txt,Fred Billingslea,person,6
+GDSC001790060100.txt,Fleeta Drumgo,person,12
+GDSC001790060100.txt,Incorporated,organization,9
+GDSC001790060100.txt,Freedom Farm Corporation,organization,8
+GDSC001790060100.txt,Freedom Farm,organization,8
+GDSC001790060100.txt,Mississippi,location,23
+GDSC001790060100.txt,Battle Creek,location,9
+GDSC001790060100.txt,Ruleville,location,9
+GDSC001790060100.txt,Fannie Lou Hamer,person,12
+GDSC001790060100.txt,Mississippians United,organization,10
+GDSC001790060100.txt,Mississippi,location,17
+GDSC001790060100.txt,Nelson Street,location,7
+GDSC001790060100.txt,Greenville,location,9
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,Joseph Harris,person,7
+GDSC001790060100.txt,Owen Brooks,person,6
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,Texas,location,20
+GDSC001790060100.txt,Atlanta,location,17
+GDSC001790060100.txt,North Carolina,location,10
+GDSC001790060100.txt,Georgia,location,28
+GDSC001790060100.txt,Virginia,location,7
+GDSC001790060100.txt,Alabama,location,11
+GDSC001790060100.txt,NAACP,organization,9
+GDSC001790060100.txt,New York City,location,47
+GDSC001790060100.txt,United States of America,location,9
+GDSC001790060100.txt,Milan,location,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Partv,organization,9
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,9
+GDSC001790060100.txt,Mississippi,location,88
+GDSC001790060100.txt,New York City,location,17
+GDSC001790060100.txt,Joseph Harris,person,12
+GDSC001790060100.txt,Jackson,person,7
+GDSC001790060100.txt,Fannie Lou Hamer,person,7
+GDSC001790060100.txt,National Association for the Advancement of Colored People,organization,12
+GDSC001790060100.txt,National Association,organization,10
+GDSC001790060100.txt,Annual Elections Committee,organization,20
+GDSC001790060100.txt,Board of Directors,organization,9
+GDSC001790060100.txt,Youth Council,organization,12
+GDSC001790060100.txt,National Board of Directors,organization,20
+GDSC001790060100.txt,Committee,organization,43
+GDSC001790060100.txt,National Youth Work Committee,organization,8
+GDSC001790060100.txt,Board,organization,14
+GDSC001790060100.txt,Election Supervisory Committee,organization,40
+GDSC001790060100.txt,Association,organization,67
+GDSC001790060100.txt,Executive Committee,organization,57
+GDSC001790060100.txt,Resolutions Committee,organization,8
+GDSC001790060100.txt,NAACP,organization,35
+GDSC001790060100.txt,Nominating Committee,organization,24
+GDSC001790060100.txt,National Office,organization,74
+GDSC001790060100.txt,National Board,organization,9
+GDSC001790060100.txt,New York City,location,8
+GDSC001790060100.txt,Incorporated,organization,12
+GDSC001790060100.txt,National Black Women,organization,6
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,Washington,location,32
+GDSC001790060100.txt,Maryland,location,18
+GDSC001790060100.txt,New York City,location,17
+GDSC001790060100.txt,Michigan,location,29
+GDSC001790060100.txt,United States of America,location,29
+GDSC001790060100.txt,Florida,location,11
+GDSC001790060100.txt,Ohio,location,8
+GDSC001790060100.txt,Atlanta,location,14
+GDSC001790060100.txt,California,location,8
+GDSC001790060100.txt,Georgia,location,25
+GDSC001790060100.txt,Pennsylvania,location,10
+GDSC001790060100.txt,Philippines,location,10
+GDSC001790060100.txt,Detroit,location,7
+GDSC001790060100.txt,Northwest Washington,location,9
+GDSC001790060100.txt,Tennessee,location,7
+GDSC001790060100.txt,Alabama,location,6
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,7,person,7
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,OEO,organization,10
+GDSC001790060100.txt,Office of Economic Opportunity,organization,6
+GDSC001790060100.txt,Mississippi,location,14
+GDSC001790060100.txt,United States of America,location,11
+GDSC001790060100.txt,Vietnam,location,6
+GDSC001790060100.txt,Department of Housing and Urban Development,organization,10
+GDSC001790060100.txt,National Committee for Full Employment,organization,15
+GDSC001790060100.txt,Ford,organization,6
+GDSC001790060100.txt,Delta Housing Development Corporation,organization,13
+GDSC001790060100.txt,Eastern Tool,organization,11
+GDSC001790060100.txt,Farmers Home Administration,organization,6
+GDSC001790060100.txt,NLC,organization,6
+GDSC001790060100.txt,Congress,organization,36
+GDSC001790060100.txt,Boston,organization,6
+GDSC001790060100.txt,Delta,organization,8
+GDSC001790060100.txt,Steelworkers Union,organization,8
+GDSC001790060100.txt,FMHA,organization,58
+GDSC001790060100.txt,Howard University,organization,6
+GDSC001790060100.txt,Incorporated,organization,24
+GDSC001790060100.txt,DHWashington D.C.,organization,28
+GDSC001790060100.txt,UMW,organization,27
+GDSC001790060100.txt,Vanzetti,organization,15
+GDSC001790060100.txt,Sacco,organization,16
+GDSC001790060100.txt,Senate,organization,9
+GDSC001790060100.txt,Full Employment Action Council,organization,8
+GDSC001790060100.txt,Committee,organization,10
+GDSC001790060100.txt,Schrafft,organization,10
+GDSC001790060100.txt,House,organization,18
+GDSC001790060100.txt,CIO,organization,7
+GDSC001790060100.txt,United Nations,organization,6
+GDSC001790060100.txt,Delta Housing,organization,12
+GDSC001790060100.txt,Mississippi,location,52
+GDSC001790060100.txt,Utah,location,6
+GDSC001790060100.txt,Ethiopia,location,6
+GDSC001790060100.txt,Indiana,location,6
+GDSC001790060100.txt,Atlanta,location,20
+GDSC001790060100.txt,Panama,location,21
+GDSC001790060100.txt,Los Angeles,location,10
+GDSC001790060100.txt,St. Louis,location,6
+GDSC001790060100.txt,New Jersey,location,15
+GDSC001790060100.txt,Indianola,location,22
+GDSC001790060100.txt,Misourri,location,8
+GDSC001790060100.txt,Washington,location,51
+GDSC001790060100.txt,New York City,location,40
+GDSC001790060100.txt,Hawaii,location,6
+GDSC001790060100.txt,United States of America,location,165
+GDSC001790060100.txt,Massachusetts,location,16
+GDSC001790060100.txt,Virginia,location,8
+GDSC001790060100.txt,Florida,location,8
+GDSC001790060100.txt,Ohio,location,19
+GDSC001790060100.txt,Panama Canal,location,11
+GDSC001790060100.txt,South Africa,location,7
+GDSC001790060100.txt,Boston,location,34
+GDSC001790060100.txt,North Carolina,location,8
+GDSC001790060100.txt,South,location,6
+GDSC001790060100.txt,California,location,22
+GDSC001790060100.txt,Washington D.C.,location,40
+GDSC001790060100.txt,Georgia,location,14
+GDSC001790060100.txt,Pennsylvania,location,16
+GDSC001790060100.txt,Detroit,location,6
+GDSC001790060100.txt,Colorado,location,6
+GDSC001790060100.txt,Michigan,location,26
+GDSC001790060100.txt,Africa,location,27
+GDSC001790060100.txt,Chicago,location,9
+GDSC001790060100.txt,Vietnam,location,6
+GDSC001790060100.txt,Lynn,location,6
+GDSC001790060100.txt,Texas,location,7
+GDSC001790060100.txt,Alabama,location,6
+GDSC001790060100.txt,Tennessee,location,8
+GDSC001790060100.txt,Jim,person,9
+GDSC001790060100.txt,Andrew Young,person,6
+GDSC001790060100.txt,David Knepper,person,7
+GDSC001790060100.txt,Clark,person,7
+GDSC001790060100.txt,Nixon,person,6
+GDSC001790060100.txt,Augustus Hawkins,person,8
+GDSC001790060100.txt,Richard,person,7
+GDSC001790060100.txt,Murray H. Finley,person,11
+GDSC001790060100.txt,Dukakis,person,6
+GDSC001790060100.txt,Lewis,person,12
+GDSC001790060100.txt,Robert Lekachman,person,6
+GDSC001790060100.txt,Francis,person,7
+GDSC001790060100.txt,Jackson,person,11
+GDSC001790060100.txt,Fannie Lou Hamer,person,8
+GDSC001790060100.txt,King,person,8
+GDSC001790060100.txt,Miller,person,13
+GDSC001790060100.txt,Christ,person,6
+GDSC001790060100.txt,Sadlowski,person,10
+GDSC001790060100.txt,Eddie N. Williams,person,6
+GDSC001790060100.txt,Carter,person,44
+GDSC001790060100.txt,Bernard,person,9
+GDSC001790060100.txt,Vanzetti,person,7
+GDSC001790060100.txt,Lynn,person,11
+GDSC001790060100.txt,Bill,person,11
+GDSC001790060100.txt,Anthony,person,6
+GDSC001790060100.txt,Martin Luther King,person,18
+GDSC001790060100.txt,Mary,person,8
+GDSC001790060100.txt,PTL,organization,49
+GDSC001790060100.txt,PTL Club,organization,9
+GDSC001790060100.txt,Mississippi,location,18
+GDSC001790060100.txt,Missouri,location,14
+GDSC001790060100.txt,Charlotte,location,6
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,United States of America,location,15
+GDSC001790060100.txt,North Carolina,location,14
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Nevada,location,13
+GDSC001790060100.txt,Jim,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,6
+GDSC001790060100.txt,New Jersey,location,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,10
+GDSC001790060100.txt,Mississippi,location,48
+GDSC001790060100.txt,Washington,location,13
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,Vietnam,location,7
+GDSC001790060100.txt,North Carolina,location,9
+GDSC001790060100.txt,Georgia,location,7
+GDSC001790060100.txt,South,location,10
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,Joseph Harris,person,7
+GDSC001790060100.txt,Fifth Circuit,organization,8
+GDSC001790060100.txt,Incorporated,organization,6
+GDSC001790060100.txt,Mississippi Supreme Court,organization,8
+GDSC001790060100.txt,Circuit Court,organization,15
+GDSC001790060100.txt,District Court,organization,6
+GDSC001790060100.txt,Mississippi,location,9
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Los Angeles,location,7
+GDSC001790060100.txt,Civ,location,29
+GDSC001790060100.txt,Griffin,person,6
+GDSC001790060100.txt,Smith,person,15
+GDSC001790060100.txt,Jackson,person,12
+GDSC001790060100.txt,Johnson,person,11
+GDSC001790060100.txt,Nixon,person,8
+GDSC001790060100.txt,U. S. Dist,person,28
+GDSC001790060100.txt,Cox,person,6
+GDSC001790060100.txt,Port Gibson,person,17
+GDSC001790060100.txt,Durr,person,6
+GDSC001790060100.txt,Freedom Farm Corporation,organization,6
+GDSC001790060100.txt,Mississippi,location,15
+GDSC001790060100.txt,Greenville,organization,9
+GDSC001790060100.txt,Congress,organization,9
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,Washington,location,7
+GDSC001790060100.txt,Greenville,location,8
+GDSC001790060100.txt,Washington County,location,14
+GDSC001790060100.txt,Johnson,person,9
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,6
+GDSC001790060100.txt,Mississippi,location,85
+GDSC001790060100.txt,New York City,location,11
+GDSC001790060100.txt,Sunflower County,location,8
+GDSC001790060100.txt,Washington,location,7
+GDSC001790060100.txt,Harris,person,9
+GDSC001790060100.txt,Joseph Harris,person,22
+GDSC001790060100.txt,Clark,person,6
+GDSC001790060100.txt,Lawrence Guyot,person,6
+GDSC001790060100.txt,Incorporated,organization,8
+GDSC001790060100.txt,OEO,organization,8
+GDSC001790060100.txt,Central Mississippi,organization,6
+GDSC001790060100.txt,Nutrition,organization,6
+GDSC001790060100.txt,Federal,organization,10
+GDSC001790060100.txt,Federal Participants Paid Volunteer Conduct,organization,7
+GDSC001790060100.txt,Mississippi,location,93
+GDSC001790060100.txt,Greenville,location,6
+GDSC001790060100.txt,Yazoo City,location,7
+GDSC001790060100.txt,Harrison County,location,8
+GDSC001790060100.txt,Jackson,person,11
+GDSC001790060100.txt,Washington,location,7
+GDSC001790060100.txt,Halstead,person,17
+GDSC001790060100.txt,Boutelle,person,15
+GDSC001790060100.txt,Federal Bureau of Investigation,organization,15
+GDSC001790060100.txt,Congress,organization,13
+GDSC001790060100.txt,United Nations,organization,8
+GDSC001790060100.txt,Senate,organization,9
+GDSC001790060100.txt,Chicago,location,9
+GDSC001790060100.txt,New York City,location,12
+GDSC001790060100.txt,United States of America,location,26
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Washington,location,34
+GDSC001790060100.txt,Vietnam,location,15
+GDSC001790060100.txt,Washington D.C.,location,10
+GDSC001790060100.txt,Rosita,person,6
+GDSC001790060100.txt,Schoenbrun,person,15
+GDSC001790060100.txt,David Schoenbrun,person,7
+GDSC001790060100.txt,State Executive Committee,organization,8
+GDSC001790060100.txt,Special Equal Rights Committee,organization,7
+GDSC001790060100.txt,Freedom Democratic Party,organization,7
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,20
+GDSC001790060100.txt,Party,organization,10
+GDSC001790060100.txt,Democratic Party,organization,17
+GDSC001790060100.txt,Mississippi,location,61
+GDSC001790060100.txt,YPNA,organization,8
+GDSC001790060100.txt,Bureau,organization,6
+GDSC001790060100.txt,Charlotte,organization,7
+GDSC001790060100.txt,ACLU,organization,35
+GDSC001790060100.txt,State,organization,7
+GDSC001790060100.txt,World Peace Council,organization,75
+GDSC001790060100.txt,Lexington Business Development Services,organization,6
+GDSC001790060100.txt,International Preparatory Committee,organization,11
+GDSC001790060100.txt,UNESCO,organization,15
+GDSC001790060100.txt,Parliament,organization,8
+GDSC001790060100.txt,PTL Club,organization,14
+GDSC001790060100.txt,Communist Party,organization,6
+GDSC001790060100.txt,World Assembly,organization,28
+GDSC001790060100.txt,People,organization,6
+GDSC001790060100.txt,Feminist Press,organization,22
+GDSC001790060100.txt,Congress,organization,15
+GDSC001790060100.txt,WPC,organization,106
+GDSC001790060100.txt,Oakland Community School,organization,6
+GDSC001790060100.txt,Warsaw Assembly,organization,11
+GDSC001790060100.txt,WILPF,organization,6
+GDSC001790060100.txt,ANC,organization,7
+GDSC001790060100.txt,PSA,organization,22
+GDSC001790060100.txt,Assembly,organization,35
+GDSC001790060100.txt,Presidential Committee,organization,16
+GDSC001790060100.txt,PLO,organization,7
+GDSC001790060100.txt,World Assembly of Builders of Peace,organization,10
+GDSC001790060100.txt,Senate,organization,11
+GDSC001790060100.txt,National Alliance,organization,25
+GDSC001790060100.txt,The World Peace Council,organization,8
+GDSC001790060100.txt,PTL Television Network,organization,8
+GDSC001790060100.txt,WPC Presidential Committee,organization,7
+GDSC001790060100.txt,Federal Bureau of Investigation,organization,31
+GDSC001790060100.txt,CIA,organization,27
+GDSC001790060100.txt,United Nations,organization,73
+GDSC001790060100.txt,PTL,organization,77
+GDSC001790060100.txt,Charlotte,location,7
+GDSC001790060100.txt,United States of America,location,47
+GDSC001790060100.txt,Libya,location,6
+GDSC001790060100.txt,Finland,location,13
+GDSC001790060100.txt,Europe,location,16
+GDSC001790060100.txt,Australia,location,6
+GDSC001790060100.txt,Bulgaria,location,7
+GDSC001790060100.txt,Freedom City,location,6
+GDSC001790060100.txt,People,location,7
+GDSC001790060100.txt,Lebanon,location,11
+GDSC001790060100.txt,Colombia,location,6
+GDSC001790060100.txt,Hartford,location,6
+GDSC001790060100.txt,Belgrade,location,6
+GDSC001790060100.txt,Mississippi,location,19
+GDSC001790060100.txt,Old Westbury,location,6
+GDSC001790060100.txt,Middle East,location,21
+GDSC001790060100.txt,Texas,location,8
+GDSC001790060100.txt,India,location,7
+GDSC001790060100.txt,Washington,location,17
+GDSC001790060100.txt,China,location,6
+GDSC001790060100.txt,USSR,location,16
+GDSC001790060100.txt,Angola,location,12
+GDSC001790060100.txt,South Africa,location,17
+GDSC001790060100.txt,Boston,location,7
+GDSC001790060100.txt,Butner,location,7
+GDSC001790060100.txt,Turkey,location,7
+GDSC001790060100.txt,Asia,location,12
+GDSC001790060100.txt,Belgium,location,9
+GDSC001790060100.txt,Helsinki,location,17
+GDSC001790060100.txt,Zaire,location,6
+GDSC001790060100.txt,Chicago,location,8
+GDSC001790060100.txt,Greece,location,10
+GDSC001790060100.txt,Southern Africa,location,13
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,San Francisco,location,9
+GDSC001790060100.txt,Sofia,location,10
+GDSC001790060100.txt,New Jersey,location,10
+GDSC001790060100.txt,Mediterranean,location,12
+GDSC001790060100.txt,France,location,13
+GDSC001790060100.txt,New York City,location,31
+GDSC001790060100.txt,Florida,location,7
+GDSC001790060100.txt,North Carolina,location,35
+GDSC001790060100.txt,New Mexico,location,6
+GDSC001790060100.txt,California,location,15
+GDSC001790060100.txt,Poland,location,11
+GDSC001790060100.txt,Cyprus,location,60
+GDSC001790060100.txt,Italy,location,6
+GDSC001790060100.txt,Israel,location,8
+GDSC001790060100.txt,Zimbabwe,location,8
+GDSC001790060100.txt,Raleigh,location,6
+GDSC001790060100.txt,Soviet Union,location,10
+GDSC001790060100.txt,Connecticut,location,7
+GDSC001790060100.txt,New Zealand,location,9
+GDSC001790060100.txt,Attica,location,6
+GDSC001790060100.txt,Chile,location,21
+GDSC001790060100.txt,Uruguay,location,6
+GDSC001790060100.txt,Africa,location,11
+GDSC001790060100.txt,Oakland,location,9
+GDSC001790060100.txt,Moscow,location,6
+GDSC001790060100.txt,Warsaw,location,13
+GDSC001790060100.txt,Jim,person,29
+GDSC001790060100.txt,George Merritt,person,8
+GDSC001790060100.txt,Romesh Chandra,person,18
+GDSC001790060100.txt,Bill,person,7
+GDSC001790060100.txt,Nixon,person,17
+GDSC001790060100.txt,Colson,person,10
+GDSC001790060100.txt,Jerry,person,6
+GDSC001790060100.txt,Jesus,person,17
+GDSC001790060100.txt,Kamal Jumblat,person,7
+GDSC001790060100.txt,Jumblat,person,9
+GDSC001790060100.txt,Don,person,7
+GDSC001790060100.txt,Jim Moss,person,6
+GDSC001790060100.txt,Jim Bakker,person,22
+GDSC001790060100.txt,Kathe Kollwitz,person,11
+GDSC001790060100.txt,Jordanidis,person,6
+GDSC001790060100.txt,Jeanne,person,6
+GDSC001790060100.txt,Richard,person,8
+GDSC001790060100.txt,Jesus Christ,person,10
+GDSC001790060100.txt,Gouabi,person,7
+GDSC001790060100.txt,Christ,person,7
+GDSC001790060100.txt,Pinochet,person,7
+GDSC001790060100.txt,Luis Corvalan,person,7
+GDSC001790060100.txt,Bob,person,12
+GDSC001790060100.txt,Golden,person,8
+GDSC001790060100.txt,Susan Harrison,person,6
+GDSC001790060100.txt,Marien,person,6
+GDSC001790060100.txt,Mississippi,location,16
+GDSC001790060100.txt,Joseph Harris,person,11
+GDSC001790060100.txt,State,organization,12
+GDSC001790060100.txt,ESEA,organization,12
+GDSC001790060100.txt,District Maintainance Funds,organization,9
+GDSC001790060100.txt,Mississippi,location,34
+GDSC001790060100.txt,Greenville,location,12
+GDSC001790060100.txt,New York City,location,13
+GDSC001790060100.txt,Joseph Harris,person,8
+GDSC001790060100.txt,Mississippi,location,18
+GDSC001790060100.txt,Ruleville,location,9
+GDSC001790060100.txt,Fannie Lou Hamer,person,11
+GDSC001790060100.txt,ASCS,organization,55
+GDSC001790060100.txt,Sunflower County ASCS Office,organization,16
+GDSC001790060100.txt,NCA,organization,7
+GDSC001790060100.txt,Mississippi,location,23
+GDSC001790060100.txt,Sunflower County,location,6
+GDSC001790060100.txt,South,location,6
+GDSC001790060100.txt,Indianola,location,19
+GDSC001790060100.txt,SNCC,organization,8
+GDSC001790060100.txt,Board of Trustees,organization,6
+GDSC001790060100.txt,Congress,organization,6
+GDSC001790060100.txt,Shaw University,organization,12
+GDSC001790060100.txt,Mississippi Valley State College,organization,7
+GDSC001790060100.txt,Tougaloo College,organization,17
+GDSC001790060100.txt,Mississippi Library Association,organization,6
+GDSC001790060100.txt,Incorporated,organization,11
+GDSC001790060100.txt,United Methodist Church,organization,8
+GDSC001790060100.txt,Baptist Professional Affiliation,organization,6
+GDSC001790060100.txt,Delta Ministry,organization,16
+GDSC001790060100.txt,Morgan State University,organization,8
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,7
+GDSC001790060100.txt,op,organization,6
+GDSC001790060100.txt,House,organization,9
+GDSC001790060100.txt,Mississippi,location,144
+GDSC001790060100.txt,Atlanta,location,62
+GDSC001790060100.txt,Maryland,location,61
+GDSC001790060100.txt,New York City,location,26
+GDSC001790060100.txt,United States of America,location,20
+GDSC001790060100.txt,Los Angeles,location,8
+GDSC001790060100.txt,Sunflower County,location,21
+GDSC001790060100.txt,Cleveland,location,11
+GDSC001790060100.txt,Washington,location,32
+GDSC001790060100.txt,North Carolina,location,10
+GDSC001790060100.txt,Greenville,location,16
+GDSC001790060100.txt,California,location,13
+GDSC001790060100.txt,Georgia,location,62
+GDSC001790060100.txt,Nashville,location,6
+GDSC001790060100.txt,Alabama,location,10
+GDSC001790060100.txt,Baltimore,location,68
+GDSC001790060100.txt,Washington D.C.,location,27
+GDSC001790060100.txt,Tennessee,location,13
+GDSC001790060100.txt,Ruleville,location,64
+GDSC001790060100.txt,Owen Brooks,person,7
+GDSC001790060100.txt,John Lewis,person,11
+GDSC001790060100.txt,Charles Evers,person,7
+GDSC001790060100.txt,Joseph Harris,person,6
+GDSC001790060100.txt,Black,person,6
+GDSC001790060100.txt,Lucius Walker,person,6
+GDSC001790060100.txt,Clifton Whitley,person,7
+GDSC001790060100.txt,Jackson,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,161
+GDSC001790060100.txt,H. R. Smith,person,8
+GDSC001790060100.txt,Charles McLaurin,person,7
+GDSC001790060100.txt,Martin Luther King,person,27
+GDSC001790060100.txt,Perry,person,6
+GDSC001790060100.txt,Mary,person,6
+GDSC001790060100.txt,Annie Devine,person,7
+GDSC001790060100.txt,Moorhead,person,13
+GDSC001790060100.txt,CPC,organization,16
+GDSC001790060100.txt,Doc,organization,8
+GDSC001790060100.txt,Clarence Hall,person,6
+GDSC001790060100.txt,Devine,person,9
+GDSC001790060100.txt,George Bacon,person,10
+GDSC001790060100.txt,Love,person,11
+GDSC001790060100.txt,Hannah,person,6
+GDSC001790060100.txt,Robert Holmes,person,9
+GDSC001790060100.txt,Thelma Barnes,person,8
+GDSC001790060100.txt,Delta Ministry,organization,16
+GDSC001790060100.txt,Mississippi,location,10
+GDSC001790060100.txt,Lexington,location,6
+GDSC001790060100.txt,Joseph Harris Office,organization,8
+GDSC001790060100.txt,Mississippi,location,18
+GDSC001790060100.txt,Joseph Harris,person,9
+GDSC001790060100.txt,Board,organization,8
+GDSC001790060100.txt,Delta Opportunities Corporation,organization,10
+GDSC001790060100.txt,Delta,organization,12
+GDSC001790060100.txt,Advisory Board,organization,9
+GDSC001790060100.txt,B Grantees,organization,6
+GDSC001790060100.txt,Incorporated,organization,15
+GDSC001790060100.txt,Coahoma Opportunities,organization,9
+GDSC001790060100.txt,Mississippi,location,34
+GDSC001790060100.txt,Greenville,location,10
+GDSC001790060100.txt,Washington County,location,6
+GDSC001790060100.txt,Clarksdale,location,12
+GDSC001790060100.txt,J. W. Wright,person,8
+GDSC001790060100.txt,Wheatley,person,6
+GDSC001790060100.txt,Percy Brinson,person,6
+GDSC001790060100.txt,M. McNair,person,10
+GDSC001790060100.txt,Robert Keglar,person,7
+GDSC001790060100.txt,Mississippi,location,13
+GDSC001790060100.txt,New York City,location,7
+GDSC001790060100.txt,Delta Opportunities Corporation,organization,33
+GDSC001790060100.txt,Doc,organization,6
+GDSC001790060100.txt,Incorporated,organization,6
+GDSC001790060100.txt,Mississippi,location,38
+GDSC001790060100.txt,Greenville,location,17
+GDSC001790060100.txt,Sunflower County,location,6
+GDSC001790060100.txt,Washington,location,7
+GDSC001790060100.txt,Clarence Hall,person,6
+GDSC001790060100.txt,Freedom Farm Corporation,organization,32
+GDSC001790060100.txt,Mississippi,location,24
+GDSC001790060100.txt,New York City,location,13
+GDSC001790060100.txt,Ruleville,location,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,13
+GDSC001790060100.txt,Joseph Harris,person,11
+GDSC001790060100.txt,PDP,organization,8
+GDSC001790060100.txt,Free Democratic Party,organization,24
+GDSC001790060100.txt,Mississippi,location,25
+GDSC001790060100.txt,Jackson,location,19
+GDSC001790060100.txt,Washington,location,10
+GDSC001790060100.txt,Tchula,location,13
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,Lexington,location,19
+GDSC001790060100.txt,Holmes County,location,9
+GDSC001790060100.txt,Pickens,person,7
+GDSC001790060100.txt,Durant,person,13
+GDSC001790060100.txt,Incorporated,organization,26
+GDSC001790060100.txt,MDTA,organization,6
+GDSC001790060100.txt,CAA,organization,7
+GDSC001790060100.txt,Delta Economic Development,organization,29
+GDSC001790060100.txt,Labor Force,organization,7
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,Quitman,location,17
+GDSC001790060100.txt,Bolivar,location,12
+GDSC001790060100.txt,Yazoo City,location,8
+GDSC001790060100.txt,Desoto,location,8
+GDSC001790060100.txt,Leflore,location,11
+GDSC001790060100.txt,Miscellaneous,location,7
+GDSC001790060100.txt,Coahoma,location,25
+GDSC001790060100.txt,Tunica,location,16
+GDSC001790060100.txt,Issaquena,location,6
+GDSC001790060100.txt,Panola,location,15
+GDSC001790060100.txt,Washington,location,15
+GDSC001790060100.txt,Tate,person,12
+GDSC001790060100.txt,Humphreys,person,13
+GDSC001790060100.txt,Sharkey,person,12
+GDSC001790060100.txt,Holmes,person,10
+GDSC001790060100.txt,Ed,person,12
+GDSC001790060100.txt,Carroll,person,10
+GDSC001790060100.txt,Warren,person,10
+GDSC001790060100.txt,Congress,organization,8
+GDSC001790060100.txt,Mississippi,location,10
+GDSC001790060100.txt,Sunflower County,location,11
+GDSC001790060100.txt,Ruleville,location,7
+GDSC001790060100.txt,Indianola,location,6
+GDSC001790060100.txt,Johnson,person,9
+GDSC001790060100.txt,Justice Department,organization,9
+GDSC001790060100.txt,Mississippi,location,24
+GDSC001790060100.txt,United States of America,location,9
+GDSC001790060100.txt,South,location,10
+GDSC001790060100.txt,Sunflower County,location,8
+GDSC001790060100.txt,Ruleville,location,19
+GDSC001790060100.txt,DeLee,person,7
+GDSC001790060100.txt,Diop,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,61
+GDSC001790060100.txt,Humphreys County Union for Progress,organization,11
+GDSC001790060100.txt,County Union for Progress Cooperative,organization,6
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,Humphreys County,location,11
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,7
+GDSC001790060100.txt,Executive Committee,organization,6
+GDSC001790060100.txt,SRM,organization,18
+GDSC001790060100.txt,Mississippi,location,41
+GDSC001790060100.txt,Greenville,location,6
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Jackson,person,11
+GDSC001790060100.txt,Levy,person,6
+GDSC001790060100.txt,Ed Anderson,person,6
+GDSC001790060100.txt,Voter Education Project,organization,19
+GDSC001790060100.txt,Virginia,location,6
+GDSC001790060100.txt,Atlanta,location,12
+GDSC001790060100.txt,Georgia,location,13
+GDSC001790060100.txt,South,location,15
+GDSC001790060100.txt,Washington,location,6
+GDSC001790060100.txt,John Lewis,person,10
+GDSC001790060100.txt,Lewis,person,10
+GDSC001790060100.txt,Archie E. Allen,person,7
+GDSC001790060100.txt,Incorporated,organization,43
+GDSC001790060100.txt,Department of Housing and Urban Development,organization,25
+GDSC001790060100.txt,HAC,organization,35
+GDSC001790060100.txt,Council,organization,26
+GDSC001790060100.txt,Housing Assistance Council,organization,29
+GDSC001790060100.txt,Rural Housing Alliance,organization,6
+GDSC001790060100.txt,FHA,organization,9
+GDSC001790060100.txt,OEO,organization,43
+GDSC001790060100.txt,FMHA,organization,75
+GDSC001790060100.txt,Farmers Home Administration,organization,8
+GDSC001790060100.txt,Farmers Home,organization,7
+GDSC001790060100.txt,Mississippi,location,22
+GDSC001790060100.txt,Connecticut Ave.,location,19
+GDSC001790060100.txt,Washington,location,39
+GDSC001790060100.txt,Maryland,location,6
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,United States of America,location,18
+GDSC001790060100.txt,Florida,location,8
+GDSC001790060100.txt,California,location,15
+GDSC001790060100.txt,Georgia,location,8
+GDSC001790060100.txt,Washington D.C.,location,36
+GDSC001790060100.txt,Jackson,person,7
+GDSC001790060100.txt,Gordon Cavanaugh,person,13
+GDSC001790060100.txt,Clay Cochran,person,6
+GDSC001790060100.txt,Glenn Claytor,person,7
+GDSC001790060100.txt,Incorporated,organization,7
+GDSC001790060100.txt,Lutheran Church,organization,6
+GDSC001790060100.txt,BEWashington D.C.,organization,12
+GDSC001790060100.txt,United Methodist Church,organization,7
+GDSC001790060100.txt,National Welfare Rights Organization,organization,6
+GDSC001790060100.txt,IFCO,organization,107
+GDSC001790060100.txt,Newark,location,6
+GDSC001790060100.txt,Texas,location,11
+GDSC001790060100.txt,New Jersey,location,6
+GDSC001790060100.txt,Durham,location,7
+GDSC001790060100.txt,Denver,location,8
+GDSC001790060100.txt,New York City,location,18
+GDSC001790060100.txt,United States of America,location,12
+GDSC001790060100.txt,Los Angeles,location,9
+GDSC001790060100.txt,Ohio,location,17
+GDSC001790060100.txt,North Carolina,location,11
+GDSC001790060100.txt,Dayton,location,10
+GDSC001790060100.txt,California,location,11
+GDSC001790060100.txt,Pennsylvania,location,8
+GDSC001790060100.txt,Chicago,location,12
+GDSC001790060100.txt,Detroit,location,24
+GDSC001790060100.txt,Houston,location,8
+GDSC001790060100.txt,Michigan,location,16
+GDSC001790060100.txt,Gonzales,person,6
+GDSC001790060100.txt,Corky,person,7
+GDSC001790060100.txt,Lutheran Church,organization,8
+GDSC001790060100.txt,Scranton,location,12
+GDSC001790060100.txt,King,person,7
+GDSC001790060100.txt,Cunningham,person,7
+GDSC001790060100.txt,Ruleville High School,organization,6
+GDSC001790060100.txt,Mississippi,location,13
+GDSC001790060100.txt,Mississippi State University,organization,8
+GDSC001790060100.txt,Mississippi,location,21
+GDSC001790060100.txt,State Executive Committee,organization,7
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,7
+GDSC001790060100.txt,Democratic Party,organization,9
+GDSC001790060100.txt,Mississippi,location,28
+GDSC001790060100.txt,Jackson,location,7
+GDSC001790060100.txt,Washington,location,6
+GDSC001790060100.txt,Joseph Harris,person,6
+GDSC001790060100.txt,Incorporated,organization,19
+GDSC001790060100.txt,VEP,organization,32
+GDSC001790060100.txt,Voter Education Project,organization,27
+GDSC001790060100.txt,Mississippi,location,33
+GDSC001790060100.txt,Montgomery,location,8
+GDSC001790060100.txt,Louisiana,location,17
+GDSC001790060100.txt,Atlanta,location,27
+GDSC001790060100.txt,South Carolina,location,10
+GDSC001790060100.txt,Florida,location,6
+GDSC001790060100.txt,North Carolina,location,17
+GDSC001790060100.txt,Arkansas,location,12
+GDSC001790060100.txt,Georgia,location,24
+GDSC001790060100.txt,Virginia,location,6
+GDSC001790060100.txt,Alabama,location,15
+GDSC001790060100.txt,South,location,36
+GDSC001790060100.txt,John Lewis,person,7
+GDSC001790060100.txt,VEP,person,13
+GDSC001790060100.txt,Lewis,person,9
+GDSC001790060100.txt,Julian Bond,person,8
+GDSC001790060100.txt,Freedom Farm Corporation,organization,47
+GDSC001790060100.txt,GLIC,organization,13
+GDSC001790060100.txt,Mississippi,location,41
+GDSC001790060100.txt,New York City,location,24
+GDSC001790060100.txt,Weber Street Ruleville,location,9
+GDSC001790060100.txt,Ruleville,location,16
+GDSC001790060100.txt,Fannie Lou Hamer,person,32
+GDSC001790060100.txt,Joseph Harris,person,14
+GDSC001790060100.txt,B Advisory Council,organization,6
+GDSC001790060100.txt,Delta Opportunities Corporation,organization,14
+GDSC001790060100.txt,Delta,organization,10
+GDSC001790060100.txt,OEO,organization,18
+GDSC001790060100.txt,CAA,organization,10
+GDSC001790060100.txt,Mississippi Delta Council,organization,21
+GDSC001790060100.txt,Doc,organization,12
+GDSC001790060100.txt,Mississippi,location,19
+GDSC001790060100.txt,Greenville,location,20
+GDSC001790060100.txt,David Frank,person,7
+GDSC001790060100.txt,Leslie G. Range,person,10
+GDSC001790060100.txt,Freedom Farm Corporation,organization,13
+GDSC001790060100.txt,Mississippi,location,34
+GDSC001790060100.txt,Indianola,location,6
+GDSC001790060100.txt,Ruleville,location,12
+GDSC001790060100.txt,Fannie Lou Hamer,person,6
+GDSC001790060100.txt,Joseph Harris,person,8
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Indianola,location,7
+GDSC001790060100.txt,JAMES E. LOWRY,person,10
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,Agency,organization,9
+GDSC001790060100.txt,SBA,organization,121
+GDSC001790060100.txt,Washington,location,8
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Mississippians United,organization,9
+GDSC001790060100.txt,Mississippi,location,21
+GDSC001790060100.txt,Greenville,location,9
+GDSC001790060100.txt,Harris,person,6
+GDSC001790060100.txt,Joseph Harris,person,6
+GDSC001790060100.txt,Board,organization,7
+GDSC001790060100.txt,National Prison Project,organization,7
+GDSC001790060100.txt,ACLU,organization,33
+GDSC001790060100.txt,Committee,organization,33
+GDSC001790060100.txt,Illinois,location,6
+GDSC001790060100.txt,New York City,location,26
+GDSC001790060100.txt,United States of America,location,24
+GDSC001790060100.txt,California,location,7
+GDSC001790060100.txt,New York City City,location,6
+GDSC001790060100.txt,Texas,location,8
+GDSC001790060100.txt,Haft,person,12
+GDSC001790060100.txt,CCR,organization,38
+GDSC001790060100.txt,Department of Housing and Urban Development,organization,6
+GDSC001790060100.txt,National Women,organization,6
+GDSC001790060100.txt,Center for Constitutional Rights,organization,9
+GDSC001790060100.txt,s Education Fund,organization,6
+GDSC001790060100.txt,Mississippi,location,18
+GDSC001790060100.txt,Louisiana,location,6
+GDSC001790060100.txt,New York City,location,58
+GDSC001790060100.txt,United States of America,location,13
+GDSC001790060100.txt,California,location,12
+GDSC001790060100.txt,Atlanta,location,6
+GDSC001790060100.txt,Georgia,location,12
+GDSC001790060100.txt,Florida,location,6
+GDSC001790060100.txt,Alabama,location,8
+GDSC001790060100.txt,Washington D.C.,location,26
+GDSC001790060100.txt,Washington,location,28
+GDSC001790060100.txt,Fannie Lou Hamer,person,11
+GDSC001790060100.txt,Jackson,person,6
+GDSC001790060100.txt,Arthur Kinoy,person,6
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,Mound Bayou,location,6
+GDSC001790060100.txt,Delta,organization,28
+GDSC001790060100.txt,Mississippi,location,24
+GDSC001790060100.txt,Chicago,location,13
+GDSC001790060100.txt,United States of America,location,21
+GDSC001790060100.txt,Nixon,person,6
+GDSC001790060100.txt,Clark,person,9
+GDSC001790060100.txt,Paul B. Johnson,person,7
+GDSC001790060100.txt,Mississippi,location,17
+GDSC001790060100.txt,Indianola,location,20
+GDSC001790060100.txt,NCNW,organization,7
+GDSC001790060100.txt,National Council of Negro Women,organization,6
+GDSC001790060100.txt,Incorporated,organization,9
+GDSC001790060100.txt,Mississippi,location,32
+GDSC001790060100.txt,Greenville,location,10
+GDSC001790060100.txt,Washington,location,9
+GDSC001790060100.txt,Ruleville,location,12
+GDSC001790060100.txt,Fannie Lou Hamer,person,8
+GDSC001790060100.txt,Dorothy,person,6
+GDSC001790060100.txt,Joseph Harris,person,11
+GDSC001790060100.txt,Andrew Dupree,person,9
+GDSC001790060100.txt,Fannie Lou Hamer Living Memorial Charitable Trust Fund,organization,17
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,Fannie Lou Hamer,person,38
+GDSC001790060100.txt,Thomas Foster,person,9
+GDSC001790060100.txt,Perry Hamer,person,8
+GDSC001790060100.txt,Western Union,organization,22
+GDSC001790060100.txt,Mississippi,location,9
+GDSC001790060100.txt,United States of America,location,10
+GDSC001790060100.txt,Florida,location,6
+GDSC001790060100.txt,Washington,location,9
+GDSC001790060100.txt,Fannie Lou Hamer,person,26
+GDSC001790060100.txt,Perry Hamer,person,10
+GDSC001790060100.txt,Freedom Farm Corporation,organization,31
+GDSC001790060100.txt,Mississippi,location,28
+GDSC001790060100.txt,Louisiana,location,7
+GDSC001790060100.txt,Sunflower County,location,11
+GDSC001790060100.txt,Lafayette,location,8
+GDSC001790060100.txt,Ruleville,location,8
+GDSC001790060100.txt,Joseph Harris,person,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,21
+GDSC001790060100.txt,Coordinating Committee,organization,9
+GDSC001790060100.txt,Commission,organization,19
+GDSC001790060100.txt,State,organization,6
+GDSC001790060100.txt,National Commission,organization,9
+GDSC001790060100.txt,United States of America,location,18
+GDSC001790060100.txt,United Farm Workers Organizing Committee,organization,7
+GDSC001790060100.txt,ALRB,organization,14
+GDSC001790060100.txt,United Church Board for Homeland Ministries,organization,6
+GDSC001790060100.txt,UFW,organization,30
+GDSC001790060100.txt,Teamsters,organization,7
+GDSC001790060100.txt,United Farm Workers,organization,15
+GDSC001790060100.txt,California Migrant Ministry,organization,6
+GDSC001790060100.txt,CIO,organization,9
+GDSC001790060100.txt,Arizona,location,7
+GDSC001790060100.txt,New York City,location,7
+GDSC001790060100.txt,United States of America,location,19
+GDSC001790060100.txt,California,location,38
+GDSC001790060100.txt,Florida,location,8
+GDSC001790060100.txt,Delano,location,19
+GDSC001790060100.txt,Cesar,person,11
+GDSC001790060100.txt,Chavez,person,42
+GDSC001790060100.txt,Cesar Chavez,person,43
+GDSC001790060100.txt,Moyer,person,34
+GDSC001790060100.txt,Supreme Court,organization,9
+GDSC001790060100.txt,NAACP Board,organization,6
+GDSC001790060100.txt,NAACP,organization,94
+GDSC001790060100.txt,National Office,organization,11
+GDSC001790060100.txt,Mississippi,location,12
+GDSC001790060100.txt,Atlanta,location,13
+GDSC001790060100.txt,Washington,location,13
+GDSC001790060100.txt,New York City,location,17
+GDSC001790060100.txt,United States of America,location,21
+GDSC001790060100.txt,South Africa,location,6
+GDSC001790060100.txt,Memphis,location,7
+GDSC001790060100.txt,Georgia,location,9
+GDSC001790060100.txt,Detroit,location,6
+GDSC001790060100.txt,Africa,location,8
+GDSC001790060100.txt,Portland,location,7
+GDSC001790060100.txt,Margaret Bush Wilson,person,8
+GDSC001790060100.txt,Bakke,person,10
+GDSC001790060100.txt,Benjamin L. Hooks,person,6
+GDSC001790060100.txt,Hooks,person,8
+GDSC001790060100.txt,Western Union,organization,12
+GDSC001790060100.txt,Mississippi,location,7
+GDSC001790060100.txt,Virginia,location,8
+GDSC001790060100.txt,Middletown,location,8
+GDSC001790060100.txt,Washington,location,11
+GDSC001790060100.txt,United States of America,location,11
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,40
+GDSC001790060100.txt,Perry Hamer,person,6
+GDSC001790060100.txt,Joseph Harris Office,organization,8
+GDSC001790060100.txt,Mississippi,location,17
+GDSC001790060100.txt,California,location,7
+GDSC001790060100.txt,Joseph Harris,person,13
+GDSC001790060100.txt,Kentucky,location,9
+GDSC001790060100.txt,Houston,location,7
+GDSC001790060100.txt,Harris,person,13
+GDSC001790060100.txt,Louis Kuba,person,6
+GDSC001790060100.txt,Mississippi,location,28
+GDSC001790060100.txt,Joseph Harris,person,17
+GDSC001790060100.txt,Mississippi,location,35
+GDSC001790060100.txt,ESQ.,location,10
+GDSC001790060100.txt,New York City,location,48
+GDSC001790060100.txt,Sunflower County,location,26
+GDSC001790060100.txt,Harris,person,7
+GDSC001790060100.txt,Joseph Harris,person,24
+GDSC001790060100.txt,Morton Stavis,person,19
+GDSC001790060100.txt,Stavis,person,13
+GDSC001790060100.txt,Sandra Nystrom,person,6
+GDSC001790060100.txt,Supreme Court,organization,7
+GDSC001790060100.txt,State,organization,36
+GDSC001790060100.txt,Congress,organization,35
+GDSC001790060100.txt,Justice Department,organization,15
+GDSC001790060100.txt,Civil Service Commission,organization,41
+GDSC001790060100.txt,District Court for the District of Columbia,organization,10
+GDSC001790060100.txt,United States of America,location,115
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Puerto Rico,location,8
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,Washington,location,9
+GDSC001790060100.txt,States,location,19
+GDSC001790060100.txt,District of Columbia,location,14
+GDSC001790060100.txt,Law,person,9
+GDSC001790060100.txt,DRC,organization,63
+GDSC001790060100.txt,Delta,organization,12
+GDSC001790060100.txt,Mississippi,location,23
+GDSC001790060100.txt,US Supreme Court,organization,13
+GDSC001790060100.txt,Department of Housing and Urban Development,organization,11
+GDSC001790060100.txt,NAACP,organization,9
+GDSC001790060100.txt,Public Resource Center,organization,6
+GDSC001790060100.txt,State,organization,11
+GDSC001790060100.txt,Supreme Court,organization,16
+GDSC001790060100.txt,Children,organization,8
+GDSC001790060100.txt,ACORN,organization,8
+GDSC001790060100.txt,Housing and Urban Development,organization,7
+GDSC001790060100.txt,NASA,organization,8
+GDSC001790060100.txt,Congress,organization,18
+GDSC001790060100.txt,Delta,organization,68
+GDSC001790060100.txt,Delta Sigma Theta,organization,59
+GDSC001790060100.txt,CPPAX,organization,6
+GDSC001790060100.txt,Legislature,organization,18
+GDSC001790060100.txt,Howard University,organization,9
+GDSC001790060100.txt,Senate,organization,17
+GDSC001790060100.txt,Incorporated,organization,74
+GDSC001790060100.txt,MCHR,organization,27
+GDSC001790060100.txt,UNCF,organization,11
+GDSC001790060100.txt,Committee,organization,7
+GDSC001790060100.txt,National Headquarters,organization,11
+GDSC001790060100.txt,Coalition,organization,6
+GDSC001790060100.txt,Office,organization,11
+GDSC001790060100.txt,House,organization,9
+GDSC001790060100.txt,DST Telecommunications,organization,8
+GDSC001790060100.txt,Nine to Five,organization,6
+GDSC001790060100.txt,City Council,organization,20
+GDSC001790060100.txt,District Court,organization,25
+GDSC001790060100.txt,Jackson State University,organization,9
+GDSC001790060100.txt,Que Street,location,7
+GDSC001790060100.txt,Atlanta,location,6
+GDSC001790060100.txt,Alaska,location,6
+GDSC001790060100.txt,Santa Barbara,location,6
+GDSC001790060100.txt,Denver,location,10
+GDSC001790060100.txt,Northwest,location,19
+GDSC001790060100.txt,Maryland,location,10
+GDSC001790060100.txt,Arizona,location,11
+GDSC001790060100.txt,United States of America,location,77
+GDSC001790060100.txt,Great Plains,location,6
+GDSC001790060100.txt,Ohio,location,20
+GDSC001790060100.txt,Washington Washington D.C.,location,6
+GDSC001790060100.txt,Sacramento,location,12
+GDSC001790060100.txt,Memphis,location,6
+GDSC001790060100.txt,Oklahoma City,location,9
+GDSC001790060100.txt,Hartford,location,18
+GDSC001790060100.txt,St. Louis,location,12
+GDSC001790060100.txt,Tennessee,location,6
+GDSC001790060100.txt,Mississippi,location,53
+GDSC001790060100.txt,Arlington,location,8
+GDSC001790060100.txt,Minnesota,location,9
+GDSC001790060100.txt,Illinois,location,9
+GDSC001790060100.txt,Washington,location,113
+GDSC001790060100.txt,Michigan,location,15
+GDSC001790060100.txt,South Africa,location,10
+GDSC001790060100.txt,Boston,location,28
+GDSC001790060100.txt,District of Columbia,location,10
+GDSC001790060100.txt,Colorado,location,17
+GDSC001790060100.txt,Chicago,location,17
+GDSC001790060100.txt,Virginia,location,17
+GDSC001790060100.txt,Wisconsin,location,11
+GDSC001790060100.txt,Oregon,location,11
+GDSC001790060100.txt,Austin,location,8
+GDSC001790060100.txt,Kansas,location,6
+GDSC001790060100.txt,New Jersey,location,12
+GDSC001790060100.txt,France,location,7
+GDSC001790060100.txt,Parchman,location,9
+GDSC001790060100.txt,Iowa,location,9
+GDSC001790060100.txt,New York City,location,51
+GDSC001790060100.txt,Texas,location,35
+GDSC001790060100.txt,Los Angeles,location,22
+GDSC001790060100.txt,West Virginia,location,6
+GDSC001790060100.txt,Florida,location,10
+GDSC001790060100.txt,North Carolina,location,9
+GDSC001790060100.txt,California,location,105
+GDSC001790060100.txt,Georgia,location,7
+GDSC001790060100.txt,North Dakota,location,20
+GDSC001790060100.txt,Pennsylvania,location,6
+GDSC001790060100.txt,Philadelphia,location,7
+GDSC001790060100.txt,Cleveland,location,12
+GDSC001790060100.txt,St. Gabriel,location,8
+GDSC001790060100.txt,Nashville,location,9
+GDSC001790060100.txt,Vermont,location,13
+GDSC001790060100.txt,Kansas City,location,6
+GDSC001790060100.txt,Houston,location,16
+GDSC001790060100.txt,San Francisco,location,17
+GDSC001790060100.txt,Connecticut,location,16
+GDSC001790060100.txt,Berkeley,location,9
+GDSC001790060100.txt,New York City City,location,14
+GDSC001790060100.txt,Missouri,location,15
+GDSC001790060100.txt,Ithaca,location,22
+GDSC001790060100.txt,Montana,location,9
+GDSC001790060100.txt,Massachusetts,location,41
+GDSC001790060100.txt,San Jose,location,11
+GDSC001790060100.txt,Vietnam,location,14
+GDSC001790060100.txt,Madison,location,6
+GDSC001790060100.txt,Dallas,location,6
+GDSC001790060100.txt,Washington D.C.,location,88
+GDSC001790060100.txt,Detroit,location,13
+GDSC001790060100.txt,Utah,location,11
+GDSC001790060100.txt,Drive,location,7
+GDSC001790060100.txt,Street,location,8
+GDSC001790060100.txt,Oakland,location,7
+GDSC001790060100.txt,Soglin,person,7
+GDSC001790060100.txt,Ann Beaudry,person,8
+GDSC001790060100.txt,Lee Webb,person,17
+GDSC001790060100.txt,Derek Shearer,person,8
+GDSC001790060100.txt,Clinton,person,10
+GDSC001790060100.txt,Michael Raff,person,6
+GDSC001790060100.txt,Ruth Yannatta,person,7
+GDSC001790060100.txt,Harris,person,11
+GDSC001790060100.txt,Paul,person,6
+GDSC001790060100.txt,Black,person,6
+GDSC001790060100.txt,Marion Barry,person,6
+GDSC001790060100.txt,Abzug,person,6
+GDSC001790060100.txt,Gilmore,person,26
+GDSC001790060100.txt,Jackson,person,13
+GDSC001790060100.txt,Levine,person,6
+GDSC001790060100.txt,King,person,8
+GDSC001790060100.txt,Leonard Rodberg,person,6
+GDSC001790060100.txt,Patricia Roberts Harris,person,7
+GDSC001790060100.txt,Bob Schaeffer,person,7
+GDSC001790060100.txt,Koehler,person,6
+GDSC001790060100.txt,Sam Brown,person,6
+GDSC001790060100.txt,Carter,person,16
+GDSC001790060100.txt,Soror Harris,person,22
+GDSC001790060100.txt,Byron Dorgan,person,10
+GDSC001790060100.txt,Davis,person,6
+GDSC001790060100.txt,Ruth,person,15
+GDSC001790060100.txt,Barbara Bick,person,11
+GDSC001790060100.txt,McClaughry Associates,organization,7
+GDSC001790060100.txt,Israel,location,6
+GDSC001790060100.txt,United States of America,location,7
+GDSC001790060100.txt,Western Union Mailgram,organization,8
+GDSC001790060100.txt,Western Union,organization,21
+GDSC001790060100.txt,Mississippi,location,13
+GDSC001790060100.txt,New York City,location,12
+GDSC001790060100.txt,United States of America,location,12
+GDSC001790060100.txt,Virginia,location,8
+GDSC001790060100.txt,Middletown,location,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,33
+GDSC001790060100.txt,Perry Hamer,person,9
+GDSC001790060100.txt,ASCS,organization,9
+GDSC001790060100.txt,ASC,organization,10
+GDSC001790060100.txt,Freedom Farm Corporation,organization,60
+GDSC001790060100.txt,Delta,organization,6
+GDSC001790060100.txt,Freedom Farm,organization,23
+GDSC001790060100.txt,Mississippi,location,41
+GDSC001790060100.txt,Sunflower County,location,37
+GDSC001790060100.txt,Ruleville,location,24
+GDSC001790060100.txt,Douglas,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,31
+GDSC001790060100.txt,Marsh,organization,20
+GDSC001790060100.txt,Joseph Harris Office,organization,8
+GDSC001790060100.txt,Mississippi,location,16
+GDSC001790060100.txt,California,location,6
+GDSC001790060100.txt,Joseph Harris,person,20
+GDSC001790060100.txt,Assembly,organization,58
+GDSC001790060100.txt,Cabinet,organization,15
+GDSC001790060100.txt,Mississippi,location,11
+GDSC001790060100.txt,Hinds,person,9
+GDSC001790060100.txt,NCNW,organization,24
+GDSC001790060100.txt,Community Participation Committee,organization,15
+GDSC001790060100.txt,Housing Authority,organization,6
+GDSC001790060100.txt,XCXW,organization,6
+GDSC001790060100.txt,Mississippi,location,12
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,Sunflower County,location,7
+GDSC001790060100.txt,South,location,10
+GDSC001790060100.txt,St. Louis,location,6
+GDSC001790060100.txt,DRC,organization,6
+GDSC001790060100.txt,State Office,organization,31
+GDSC001790060100.txt,Office of Economic Opportunity,organization,7
+GDSC001790060100.txt,T.A.,organization,6
+GDSC001790060100.txt,DHWashington D.C.,organization,16
+GDSC001790060100.txt,Delta Opportunities Corporation,organization,30
+GDSC001790060100.txt,Ford Foundation,organization,12
+GDSC001790060100.txt,OEO,organization,17
+GDSC001790060100.txt,FMHA,organization,42
+GDSC001790060100.txt,Farmers Home Administration,organization,12
+GDSC001790060100.txt,Mississippi,location,28
+GDSC001790060100.txt,Greenville,location,9
+GDSC001790060100.txt,Sunflower County,location,6
+GDSC001790060100.txt,Washington,location,15
+GDSC001790060100.txt,French,person,13
+GDSC001790060100.txt,Elwell,person,10
+GDSC001790060100.txt,Allen Barnes,person,6
+GDSC001790060100.txt,Neville,person,14
+GDSC001790060100.txt,Cunningham,person,8
+GDSC001790060100.txt,McMillan,person,15
+GDSC001790060100.txt,Herman,person,71
+GDSC001790060100.txt,Kim Herman,person,13
+GDSC001790060100.txt,Wise,person,6
+GDSC001790060100.txt,New York City,location,14
+GDSC001790060100.txt,California,location,8
+GDSC001790060100.txt,SCLC,organization,8
+GDSC001790060100.txt,SRA,organization,63
+GDSC001790060100.txt,Southern Rural Action,organization,26
+GDSC001790060100.txt,Incorporated,organization,11
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,Sumter County,location,6
+GDSC001790060100.txt,United States of America,location,6
+GDSC001790060100.txt,Atlanta,location,8
+GDSC001790060100.txt,Georgia,location,20
+GDSC001790060100.txt,South,location,21
+GDSC001790060100.txt,Alabama,location,21
+GDSC001790060100.txt,Wilcox County,location,6
+GDSC001790060100.txt,Blackwell,person,6
+GDSC001790060100.txt,Freedom Farms,organization,8
+GDSC001790060100.txt,Freedom Farm Corporation,organization,19
+GDSC001790060100.txt,Securities and Exchange Commission,organization,12
+GDSC001790060100.txt,Mississippi,location,29
+GDSC001790060100.txt,Sunflower County,location,7
+GDSC001790060100.txt,Ruleville,location,15
+GDSC001790060100.txt,Fannie Lou Hamer,person,18
+GDSC001790060100.txt,Joseph Harris,person,12
+GDSC001790060100.txt,Southern Poverty Law Center,organization,9
+GDSC001790060100.txt,Supreme Court,organization,6
+GDSC001790060100.txt,ACLU,organization,9
+GDSC001790060100.txt,Committee,organization,6
+GDSC001790060100.txt,Board,organization,23
+GDSC001790060100.txt,MCHR,organization,27
+GDSC001790060100.txt,Mississippi,location,16
+GDSC001790060100.txt,United States of America,location,17
+GDSC001790060100.txt,Georgia,location,7
+GDSC001790060100.txt,Brant,person,13
+GDSC001790060100.txt,Jimmy Carter,person,12
+GDSC001790060100.txt,Ford,person,8
+GDSC001790060100.txt,Jimmy,person,6
+GDSC001790060100.txt,Carter,person,7
+GDSC001790060100.txt,Incorporated,organization,22
+GDSC001790060100.txt,Delta Council,organization,33
+GDSC001790060100.txt,MDTA,organization,7
+GDSC001790060100.txt,State Board of Health,organization,7
+GDSC001790060100.txt,Counselor Vocational Rehabilitation Division,organization,7
+GDSC001790060100.txt,Labor Department,organization,7
+GDSC001790060100.txt,Mississippi,location,109
+GDSC001790060100.txt,Charleston,location,6
+GDSC001790060100.txt,Greenwood,location,14
+GDSC001790060100.txt,Lexington,location,10
+GDSC001790060100.txt,Tunica,location,7
+GDSC001790060100.txt,Panola,location,6
+GDSC001790060100.txt,Jackson,location,13
+GDSC001790060100.txt,Greenville,location,35
+GDSC001790060100.txt,Yazoo City,location,11
+GDSC001790060100.txt,Vicksburg,location,8
+GDSC001790060100.txt,Clarksdale,location,21
+GDSC001790060100.txt,Cleveland,location,6
+GDSC001790060100.txt,Quitman,location,8
+GDSC001790060100.txt,Greenwood,person,17
+GDSC001790060100.txt,Mississippi,location,24
+GDSC001790060100.txt,Greenville,location,6
+GDSC001790060100.txt,New York City,location,12
+GDSC001790060100.txt,Joseph Harris,person,16
+GDSC001790060100.txt,Owen Brooks,person,6
+GDSC001790060100.txt,s League,organization,7
+GDSC001790060100.txt,Council,organization,10
+GDSC001790060100.txt,Sunflower County Voters League,organization,10
+GDSC001790060100.txt,Thaddeus Olive Administrative Assistant Voter Education Project,organization,20
+GDSC001790060100.txt,E. Lafayette Ruleville Mississippi Dear,organization,7
+GDSC001790060100.txt,Mississippi,location,17
+GDSC001790060100.txt,Sunflower County,location,9
+GDSC001790060100.txt,Ruleville,location,16
+GDSC001790060100.txt,Fannie Lou Hamer,person,31
+GDSC001790060100.txt,Anthony,person,7
+GDSC001790060100.txt,Association,organization,10
+GDSC001790060100.txt,Mississippi,location,31
+GDSC001790060100.txt,Jackson,person,10
+GDSC001790060100.txt,Joseph Harris,person,7
+GDSC001790060100.txt,CDGM,organization,54
+GDSC001790060100.txt,Congress,organization,6
+GDSC001790060100.txt,OEO,organization,72
+GDSC001790060100.txt,Free Democratic Party,organization,7
+GDSC001790060100.txt,NAACP,organization,7
+GDSC001790060100.txt,Mississippi,location,53
+GDSC001790060100.txt,Jackson,location,6
+GDSC001790060100.txt,Washington,location,25
+GDSC001790060100.txt,Lou Ellen,person,7
+GDSC001790060100.txt,Sargent Shriver,person,13
+GDSC001790060100.txt,Jackson,person,14
+GDSC001790060100.txt,Shriver,person,22
+GDSC001790060100.txt,Rosie,person,6
+GDSC001790060100.txt,Mississippi,location,6
+GDSC001790060100.txt,Commission,organization,9
+GDSC001790060100.txt,Delta Ministry,organization,9
+GDSC001790060100.txt,Executive Committee,organization,7
+GDSC001790060100.txt,Mississippi,location,36
+GDSC001790060100.txt,Mount Beulah,location,12
+GDSC001790060100.txt,New York City,location,21
+GDSC001790060100.txt,United States of America,location,7
+GDSC001790060100.txt,Board of Directors,organization,10
+GDSC001790060100.txt,Freedom Farm Corporation,organization,103
+GDSC001790060100.txt,Delta,organization,12
+GDSC001790060100.txt,National Council of Negro Women,organization,6
+GDSC001790060100.txt,Mississippi,location,32
+GDSC001790060100.txt,Sunflower County,location,36
+GDSC001790060100.txt,Ruleville,location,19
+GDSC001790060100.txt,Douglas,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,37
+GDSC001790060100.txt,Board,organization,7
+GDSC001790060100.txt,Fannie Lou Hamer Day Care Center,organization,31
+GDSC001790060100.txt,Mississippi,location,17
+GDSC001790060100.txt,Ruleville,location,14
+GDSC001790060100.txt,Lee Dorothy Kimbrough,person,9
+GDSC001790060100.txt,King,person,19
+GDSC001790060100.txt,Joseph Harris,person,21
+GDSC001790060100.txt,Freedom Democratic Party,organization,9
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,26
+GDSC001790060100.txt,Society,organization,33
+GDSC001790060100.txt,State Historical Society,organization,6
+GDSC001790060100.txt,Party,organization,18
+GDSC001790060100.txt,Mississippi,location,47
+GDSC001790060100.txt,Edwards,location,7
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,Wisconsin,location,23
+GDSC001790060100.txt,Joseph Harris,person,14
+GDSC001790060100.txt,NBAWADU,organization,16
+GDSC001790060100.txt,Black Movement,organization,7
+GDSC001790060100.txt,War,organization,7
+GDSC001790060100.txt,Peace Movement,organization,8
+GDSC001790060100.txt,SNCC,organization,10
+GDSC001790060100.txt,Draft Union,organization,14
+GDSC001790060100.txt,New York City,location,23
+GDSC001790060100.txt,New York City City,location,10
+GDSC001790060100.txt,Vietnam,location,13
+GDSC001790060100.txt,John Wilson,person,12
+GDSC001790060100.txt,Gwen Patton,person,13
+GDSC001790060100.txt,Jim Harvey,person,7
+GDSC001790060100.txt,New Party,organization,23
+GDSC001790060100.txt,National Committee,organization,21
+GDSC001790060100.txt,Congress,organization,7
+GDSC001790060100.txt,NP,organization,16
+GDSC001790060100.txt,Democratic Party,organization,18
+GDSC001790060100.txt,Executive Committee,organization,6
+GDSC001790060100.txt,Committee,organization,7
+GDSC001790060100.txt,Mississippi,location,24
+GDSC001790060100.txt,Lexington,location,8
+GDSC001790060100.txt,Washington,location,11
+GDSC001790060100.txt,New York City,location,17
+GDSC001790060100.txt,United States of America,location,11
+GDSC001790060100.txt,Chicago,location,8
+GDSC001790060100.txt,Washington D.C.,location,18
+GDSC001790060100.txt,McCarthy,person,10
+GDSC001790060100.txt,Wallace,person,6
+GDSC001790060100.txt,Humphrey,person,11
+GDSC001790060100.txt,Marcus Raskin,person,8
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,6
+GDSC001790060100.txt,Mississippi,location,29
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,16
+GDSC001790060100.txt,Mississippi,location,31
+GDSC001790060100.txt,Joseph Harris,person,7
+GDSC001790060100.txt,Counties Cooperating Agriculture State Of Mississippi Home Economics,organization,6
+GDSC001790060100.txt,Freedom Farm Corporation,organization,13
+GDSC001790060100.txt,Internal Revenue Service,organization,6
+GDSC001790060100.txt,Mississippi,location,32
+GDSC001790060100.txt,Wisconsin,location,9
+GDSC001790060100.txt,Madison,location,8
+GDSC001790060100.txt,Ruleville,location,8
+GDSC001790060100.txt,Joseph Harris,person,10
+GDSC001790060100.txt,Lee Lewis,person,6
+GDSC001790060100.txt,Fannie Lou Hamer,person,6
+GDSC001790060100.txt,Advisory Committee,organization,16
+GDSC001790060100.txt,Board,organization,8
+GDSC001790060100.txt,Delta Opportunities Corporation,organization,7
+GDSC001790060100.txt,Doc,organization,21
+GDSC001790060100.txt,Mississippi,location,48
+GDSC001790060100.txt,Madison County,location,6
+GDSC001790060100.txt,Greenville,location,7
+GDSC001790060100.txt,Inverness,location,6
+GDSC001790060100.txt,Washington County,location,6
+GDSC001790060100.txt,Indianola,location,10
+GDSC001790060100.txt,Ruleville,location,8
+GDSC001790060100.txt,Barnes,person,7
+GDSC001790060100.txt,Elizabeth Hood,person,8
+GDSC001790060100.txt,Thomas Harris,person,13
+GDSC001790060100.txt,Harris,person,8
+GDSC001790060100.txt,Clarence Hall,person,8
+GDSC001790060100.txt,Cora Johnson,person,7
+GDSC001790060100.txt,Joe Cotton,person,12
+GDSC001790060100.txt,Mose Wilson,person,13
+GDSC001790060100.txt,Clotee Collins,person,8
+GDSC001790060100.txt,George Bacon,person,10
+GDSC001790060100.txt,Joseph Harris,person,25
+GDSC001790060100.txt,Douglas,person,7
+GDSC001790060100.txt,Leslie Range,person,11
+GDSC001790060100.txt,Cora Flemming,person,18
+GDSC001790060100.txt,Jimmy Douglas,person,14
+GDSC001790060100.txt,Rutledge Waker,person,6
+GDSC001790060100.txt,Dan Smith,person,18
+GDSC001790060100.txt,Thelma Barnes,person,21
+GDSC001790060100.txt,Robert Holmes,person,13
+GDSC001790060100.txt,Freedom Farm Corporation,organization,27
+GDSC001790060100.txt,Mississippi,location,7
+GDSC001790060100.txt,Red Cross,organization,10
+GDSC001790060100.txt,Camp Shelby,location,12
+GDSC001790060100.txt,Mississippi,location,38
+GDSC001790060100.txt,United States of America,location,6
+GDSC001790060100.txt,State Executive Committee,organization,8
+GDSC001790060100.txt,Delta Ministry,organization,7
+GDSC001790060100.txt,Executive Committee,organization,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,10
+GDSC001790060100.txt,Mississippi,location,27
+GDSC001790060100.txt,Mount Beulah,location,13
+GDSC001790060100.txt,Lawrence Guyot,person,16
+GDSC001790060100.txt,Edwards,person,6
+GDSC001790060100.txt,Joseph Harris,person,16
+GDSC001790060100.txt,Gallup,organization,15
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,10
+GDSC001790060100.txt,Mississippi,location,82
+GDSC001790060100.txt,New York City,location,13
+GDSC001790060100.txt,United States of America,location,9
+GDSC001790060100.txt,California,location,7
+GDSC001790060100.txt,Vietnam,location,10
+GDSC001790060100.txt,Muskie,person,18
+GDSC001790060100.txt,Richard Nixon,person,7
+GDSC001790060100.txt,Joseph Harris,person,6
+GDSC001790060100.txt,Jackson,person,8
+GDSC001790060100.txt,Aaron Henry,person,7
+GDSC001790060100.txt,Wallace,person,12
+GDSC001790060100.txt,Hubert Humphrey,person,9
+GDSC001790060100.txt,Claude Ramsay,person,8
+GDSC001790060100.txt,Nixon,person,21
+GDSC001790060100.txt,Humphrey,person,31
+GDSC001790060100.txt,Itta Bena,organization,7
+GDSC001790060100.txt,Mississippi,location,32
+GDSC001790060100.txt,Congress,organization,6
+GDSC001790060100.txt,Mississippi,location,33
+GDSC001790060100.txt,Rhodesia,location,12
+GDSC001790060100.txt,United States of America,location,6
+GDSC001790060100.txt,China,location,7
+GDSC001790060100.txt,Africa,location,8
+GDSC001790060100.txt,South Africa,location,12
+GDSC001790060100.txt,David Bowen,person,8
+GDSC001790060100.txt,Fannie Lou Hamer,person,15
+GDSC001790060100.txt,Bowen,person,22
+GDSC001790060100.txt,Mississippians United to Elect Negro Candidates,organization,15
+GDSC001790060100.txt,Mississippi,location,34
+GDSC001790060100.txt,Greenville,location,25
+GDSC001790060100.txt,Joseph Harris,person,19
+GDSC001790060100.txt,Congress,organization,59
+GDSC001790060100.txt,House,organization,15
+GDSC001790060100.txt,Africa Fund,organization,9
+GDSC001790060100.txt,Common Cause,organization,6
+GDSC001790060100.txt,Social Security,organization,9
+GDSC001790060100.txt,Senate,organization,9
+GDSC001790060100.txt,Caribbean,location,13
+GDSC001790060100.txt,United States of America,location,18
+GDSC001790060100.txt,Florida,location,6
+GDSC001790060100.txt,Washington D.C.,location,8
+GDSC001790060100.txt,Washington,location,8
+GDSC001790060100.txt,New York City,location,9
+GDSC001790060100.txt,Johnny,person,15
+GDSC001790060100.txt,Sardis,location,6
+GDSC001790060100.txt,Mississippi Freedom Democratic Party,organization,6
+GDSC001790060100.txt,Black Caucus,organization,6
+GDSC001790060100.txt,Mississippi,location,30
+GDSC001790060100.txt,Illinois,location,6
+GDSC001790060100.txt,Washington,location,9
+GDSC001790060100.txt,New York City,location,33
+GDSC001790060100.txt,United States of America,location,15
+GDSC001790060100.txt,North Carolina,location,6
+GDSC001790060100.txt,Brooklyn,location,11
+GDSC001790060100.txt,California,location,11
+GDSC001790060100.txt,Georgia,location,7
+GDSC001790060100.txt,Detroit,location,9
+GDSC001790060100.txt,Chicago,location,47
+GDSC001790060100.txt,Alabama,location,8
+GDSC001790060100.txt,Department of Health,organization,29
+GDSC001790060100.txt,St.,organization,8
+GDSC001790060100.txt,Education,organization,8
+GDSC001790060100.txt,AWashington D.C. Budget,organization,29
+GDSC001790060100.txt,Board of Health,organization,11
+GDSC001790060100.txt,State Department of Public Welfare,organization,6
+GDSC001790060100.txt,Delta,organization,9
+GDSC001790060100.txt,Department of Public Health,organization,10
+GDSC001790060100.txt,Public Health Nursing,organization,21
+GDSC001790060100.txt,Welfare Department,organization,39
+GDSC001790060100.txt,Mississippi,location,72
+GDSC001790060100.txt,Washington,location,7
+GDSC001790060100.txt,Jackson,location,16
+GDSC001790060100.txt,United States of America,location,8
+GDSC001790060100.txt,Drive,location,33
+GDSC001790060100.txt,Mississippi Manual,location,7
+GDSC001790060100.txt,Mau Mau,person,6
+GDSC001790060100.txt,State,organization,12
+GDSC001790060100.txt,Carter Administration,organization,6
+GDSC001790060100.txt,Mississippi,location,24
+GDSC001790060100.txt,Atlanta,location,9
+GDSC001790060100.txt,Jackson,person,9
+GDSC001790060100.txt,Fannie Lou Hamer,person,13
+GDSC001790060100.txt,Carter,person,11
+GDSC001790060100.txt,Supreme Court,organization,10
+GDSC001790060100.txt,Subversive Activities Control Board,organization,7
+GDSC001790060100.txt,US Supreme Court,organization,7
+GDSC001790060100.txt,Communist Party,organization,11
+GDSC001790060100.txt,Committee,organization,6
+GDSC001790060100.txt,SACB,organization,23
+GDSC001790060100.txt,Congress,organization,32
+GDSC001790060100.txt,HUAC,organization,83
+GDSC001790060100.txt,House,organization,6
+GDSC001790060100.txt,Senate,organization,10
+GDSC001790060100.txt,Mississippi,location,15
+GDSC001790060100.txt,Texas,location,6
+GDSC001790060100.txt,Washington,location,17
+GDSC001790060100.txt,New York City,location,6
+GDSC001790060100.txt,United States of America,location,34
+GDSC001790060100.txt,Louisville,location,7
+GDSC001790060100.txt,California,location,13
+GDSC001790060100.txt,West Virginia,location,6
+GDSC001790060100.txt,Kentucky,location,12
+GDSC001790060100.txt,Washington D.C.,location,7
+GDSC001790060100.txt,Eastland,person,10
+GDSC001790060100.txt,Johnson,person,9
+GDSC001790060100.txt,Commission,organization,6
+GDSC001790060100.txt,United States of America,organization,12
+GDSC001790060100.txt,Delta Ministry,organization,17
+GDSC001790060100.txt,Personnel Office,organization,6
+GDSC001790060100.txt,Mississippi,location,10
+GDSC001790060100.txt,Edwards,person,8
+GDSC001790060100.txt,Brooks,person,10
+GDSC001790060100.txt,Roger Smith,person,17
+GDSC001790060100.txt,Joseph Harris,person,17
+GDSC001790060100.txt,Owen Brooks,person,6
