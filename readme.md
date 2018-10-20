@@ -10,7 +10,7 @@ The named entity data was created by the Stanford Named Entity Recognizer (2018-
 
 | doc | entity | type | count |
 | ------------- | ------------- | ------------- | ------------- |
-| name of txt file  | word or phrase recongized by Stanford NER  | type of entity (person, location, organization)  | number of times the entity & type occurred in the doc |
+| name of txt file  | word or phrase recognized by Stanford NER  | type of entity (person, location, organization)  | number of times the entity & type occurred in the doc |
 
 
 ### Named Entity Refinement
@@ -26,13 +26,13 @@ When people are referred to by just their first or last name, they may not be di
 A number of scholarly decisions were made about merging or not merging entities.
 
 ## Dataset Description
-`flh_ner_all.csv`  
-All entity types, all occurrences.  
-`flh_ner_all_freq5.csv`  
-All entity types, only rows with 'count' over five  
-`flh_ner_location.csv`  
-Location entity types only, all rows  
-`flh_ner_organization.csv`  
-Organization entity types only, all rows  
-`flh_ner_person.csv`  
-Person entity types only, all rows  
+- `flh_ner_all.csv`  
+  - All entity types, all occurrences.  
+- `flh_ner_all_freq5.csv`  
+  -- All entity types, only rows with 'count' over five  
+- `flh_ner_location.csv`  
+  - Location entity types only, all rows  
+- `flh_ner_organization.csv`  
+  - Organization entity types only, all rows  
+- `flh_ner_person.csv`  
+  - Person entity types only, all rows  
