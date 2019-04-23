@@ -8,22 +8,24 @@ We used the natural language [Fannie Lou Hamer papers, 1966-1978 dataset](https:
 ### Data Structure
 The named entity data was created by the Stanford Named Entity Recognizer (2018-02-27 release) and [BatchNER](https://github.com/brandontlocke/batchner).
 
-| doc | entity | type | count |
-| ------------- | ------------- | ------------- | ------------- |
-| name of txt file  | word or phrase recognized by Stanford NER  | type of entity (person, location, organization)  | number of times the entity & type occurred in the doc |
+doc,doc_title_full,doc_description,doc_imprint_year,entity,entityType,count
+
+| doc | doc_title_full | doc_description | doc_imprint_year | entity | type | count |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| name of txt file  | title of the document from *Archives Unbound* metadata | description of the document from *Archives Unbound* metadata | imprint year from *Archives Unbound* metadata | word or phrase recognized by Stanford NER  | type of entity (person, location, organization)  | number of times the entity & type occurred in the doc |
 
 
 ### Named Entity Refinement
 Using OpenRefine, Andrella normalized variants of the same term (N.Y -> New York, NY -> New York) and removed information that wasn't helpful out of context (street addresses with no city, first names with no last name, etc). The entity counts were then updated using a script developed by [Devin Higgins](https://github.com/devinhiggins) to reflect merged rows.
 
 ### Issues, Considerations, and Shortcomings
-OCR quality is near 100% (hand transcribed)
+OCR quality is near 100% (hand transcribed), but errors do exist
 
 StanfordNER's algorithmic entity tagging is far from perfect, and can miss or miscategorize entities.
 
 When people are referred to by just their first or last name, they may not be distinguished and counted with other occurrences.
 
-A number of scholarly decisions were made about merging or not merging entities.
+A number of decisions were made about merging or not merging entities that had similar names or meanings.
 
 ## Dataset Description
 - `flh_ner_all.csv`  
