@@ -6,7 +6,7 @@ by Jen Andrella & Brandon Locke
 We used the natural language [Fannie Lou Hamer papers, 1966-1978 dataset](https://listings.lib.msu.edu/fannielouhamer/) from MSU Libraries, focusing on the natural language files hand-transcribed by Joe Karisny, Olivia Ramos, and Kellen Saxton in [LEADR](leadr.msu.edu) with funding provided by the Michigan State University Department of History.
 
 ### Data Structure
-The named entity data was created by the Stanford Named Entity Recognizer (2018-02-27 release) and [BatchNER](https://github.com/brandontlocke/batchner).
+The named entity data was created by the Stanford Named Entity Recognizer (2018-02-27 release) and [NERtwork](https://github.com/brandontlocke/NERtwork).
 
 doc,doc_title_full,doc_description,doc_imprint_year,entity,entityType,count
 
