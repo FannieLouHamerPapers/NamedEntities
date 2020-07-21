@@ -29,7 +29,7 @@ When people are referred to by just their first or last name, they may not be di
 
 Many decisions were made about merging or not merging entities that had similar names or meanings, and these edits were not cataloged.
 
-## Dataset Description
+## File Description
 - `flh_ner_all.csv`  
   - All entity types, all occurrences.  
 - `flh_ner_all_freq5.csv`  
@@ -43,7 +43,7 @@ Many decisions were made about merging or not merging entities that had similar 
 - `flh_ner_person.csv`  
   - Person entity types only, all rows  
 
-Series Subsets
-We are also providing subsets for each series, based on metadata provided to MSU Libraries. The series are as follows: Personal Papers, Mississippi Freedom Democratic Party (MFDP), Freedom Farms Corporation (FFC), Delta Ministry, Delta Opportunities Corporation (DOC), Mississippians United to Elect Negro Candidates, Other Organization Series I, Other Organization Series II, Other Organizational Series I, Other Organizational Series II, and Other Material. 
+### Series Subsets
+We are also providing subsets for each series, based on metadata provided to MSU Libraries by Gale CENGAGE. The series are as follows: Personal Papers, Mississippi Freedom Democratic Party (MFDP), Freedom Farms Corporation (FFC), Delta Ministry, Delta Opportunities Corporation (DOC), Mississippians United to Elect Negro Candidates, Other Organization Series I, Other Organization Series II, Other Organizational Series I, Other Organizational Series II, and Other Material. 
 
 _Note: It's likely, though unclear, that 'Other Organization'/Other Organizational' Series are only separated due to an error in the metadata, but we have left them separate in accordance with the provided data._
